@@ -22,6 +22,18 @@ def fd():
 def fd_json():
     return render_template('drugs_effects.json', api_data=[])
 
+@app.route('/drugs_effects_200.json')
+def fd_json_200():
+    return render_template('drugs_effects_200.json', api_data=[])
+
+@app.route('/drugs_effects_every_10.json')
+def fd_json_every_10():
+    return render_template('drugs_effects_every_10.json', api_data=[])
+
+@app.route('/drugs_effects_every_50.json')
+def fd_json_every_50():
+    return render_template('drugs_effects_every_50.json', api_data=[])
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')

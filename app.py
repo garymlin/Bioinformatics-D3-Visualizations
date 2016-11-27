@@ -14,9 +14,13 @@ def main():
 def fd():
     return render_template('force-directed.html', api_data=[])
 
-@app.route('/miserables.json')
+# @app.route('/miserables.json')
+# def fd_json():
+#     return render_template('miserables.json', api_data=[])
+
+@app.route('/drugs_effects.json')
 def fd_json():
-    return render_template('miserables.json', api_data=[])
+    return render_template('drugs_effects.json', api_data=[])
 
 
 if __name__ == "__main__":

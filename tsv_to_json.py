@@ -8,34 +8,34 @@ effect_list = []
 links = []
 
 group_number = 1
-num_lines = 0
-with open("offsides_every20.tsv") as tsv:
+# num_lines = 0
+with open("offsides_first1500.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
-		num_lines += 1
-		if num_lines % 50 == 0:
+		# num_lines += 1
+		# if num_lines % 50 == 0:
 
-			drug = line[1]
-			effect = line[3]
-			value = line[7]
-			if drug not in drug_list:
-				drug_list.append(drug)
-				drug_dict = {"id": drug, "group": group_number}
-				nodes.append(drug_dict)
-				group_number += 1
-			if effect not in effect_list:
-				effect_list.append(effect)
-				effect_dict = {"id": effect, "group": group_number}
-				nodes.append(effect_dict)
-				group_number += 1
-			links_dict = {"source": drug, "target": effect, "value": value}
-			if links_dict not in links:
-				links.append(links_dict)
+		drug = line[1]
+		effect = line[3]
+		value = line[7]
+		if drug not in drug_list:
+			drug_list.append(drug)
+			drug_dict = {"id": drug, "group": group_number}
+			nodes.append(drug_dict)
+			group_number += 1
+		if effect not in effect_list:
+			effect_list.append(effect)
+			effect_dict = {"id": effect, "group": group_number}
+			nodes.append(effect_dict)
+			group_number += 1
+		links_dict = {"source": drug, "target": effect, "value": value}
+		if links_dict not in links:
+			links.append(links_dict)
 
 
 data = {"nodes": nodes, "links": links}
 
-with open('templates/drugs_effects_every_50.json', 'w') as outfile:
+with open('templates/drugs_effects_offsides_first1500.json', 'w') as outfile:
     json.dump(data, outfile)
 
 

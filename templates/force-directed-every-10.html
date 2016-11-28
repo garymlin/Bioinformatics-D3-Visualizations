@@ -18,7 +18,7 @@ text {
 }
 
 </style>
-<svg width="1600" height="1000"></svg>
+<svg width="960" height="600"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -33,7 +33,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-d3.json("drugs_effects_offsides_first1500.json", function(error, graph) {
+d3.json("drugs_effects_every_10.json", function(error, graph) {
   if (error) throw error;
 
   var link = svg.append("g")

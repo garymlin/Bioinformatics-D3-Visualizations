@@ -18,6 +18,11 @@ def fd():
 # def fd_json():
 #     return render_template('miserables.json', api_data=[])
 
+
+@app.route('/fd-every-10')
+def fd_every_10():
+    return render_template('force-directed-every-10.html', api_data=[])
+
 @app.route('/drugs_effects.json')
 def fd_json():
     return render_template('drugs_effects.json', api_data=[])
@@ -33,6 +38,15 @@ def fd_json_every_10():
 @app.route('/drugs_effects_every_50.json')
 def fd_json_every_50():
     return render_template('drugs_effects_every_50.json', api_data=[])
+
+
+@app.route('/drugs_effects_offsides_first1500.json')
+def fd_json_offsides_first_1500():
+    return render_template('drugs_effects_offsides_first1500.json', api_data=[])
+
+@app.route('/drugs_effects_offsides_first10000.json')
+def fd_json_offsides_first_10000():
+    return render_template('drugs_effects_offsides_first10000.json', api_data=[])
 
 
 if __name__ == "__main__":

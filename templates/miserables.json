@@ -1,12 +1,12 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 2},
-    {"id": "Mlle.Baptistine", "group": 3},
-    {"id": "Mme.Magloire", "group": 4}
+    {"name": "Myriel", "group": 1},
+    {"name": "Napoleon", "group": 2},
+    {"name": "Mlle.Baptistine", "group": 3},
+    {"name": "Mme.Magloire", "group": 4}
   ],
   "links": [
-    {"source": "Napoleon", "target": "Myriel", "value": 0.1},
-    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8}
+    {"source": 1, "target": 2, "value": 0.1},
+    {"source": 2, "target": 3, "value": 8}
   ]
 }

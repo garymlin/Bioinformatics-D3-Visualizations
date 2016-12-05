@@ -1,0 +1,43 @@
+{
+    "nodes": [
+        {
+            "group": 1,
+            "name": "carnitine"
+        },
+        {
+            "group": 2,
+            "name": "GABA"
+        },
+        {
+            "group": 3,
+            "name": "leucovorin"
+        },
+        {
+            "group": 4,
+            "name": "PGE2"
+        },
+        {
+            "group": 5,
+            "name": "prostacyclin"
+        },
+        {
+            "group": 6,
+            "name": "adenosine"
+        },
+        {
+            "group": 7,
+            "name": "galactose"
+        },
+        {
+            "group": 8,
+            "name": "prostaglandin E1"
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 6,
+            "value": "0"
+        }
+    ]
+}

@@ -20,7 +20,7 @@ group_number = 1
 # 			umls_dict[umls_id] = group_number
 # 			group_number += 1
 
-with open("offsides_first1500.tsv") as tsv:
+with open("offsides_first2000.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		drug = line[1]
@@ -39,17 +39,17 @@ with open("offsides_first1500.tsv") as tsv:
 			# nodes.append(effect_dict)
 
 	for drug in drug_list:
-		drug_dict = {"name": drug, "group": group_number}
+		drug_dict = {"id": drug, "group": group_number}
 		group_number += 1
 		nodes.append(drug_dict)
 
 	for effect in effect_list:
-		effect_dict = {"name": effect, "group": group_number}
+		effect_dict = {"id": effect, "group": group_number}
 		group_number += 1
 		nodes.append(effect_dict)
 
 
-with open("offsides_first1500.tsv") as tsv:
+with open("offsides_first2000.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		drug = line[1]
@@ -62,14 +62,14 @@ with open("offsides_first1500.tsv") as tsv:
  		except ValueError:
  			continue
 
-		links_dict = {"source": drug_index, "target": effect_index, "value": float(value)}
+		links_dict = {"source": drug, "target": effect, "value": float(value)}
 			
 		if links_dict not in links:
   			links.append(links_dict)
 
 data = {"nodes": nodes, "links": links}
 
-with open('templates/drugs_effects_offsides_first1500_colors.json', 'w') as outfile:
+with open('templates/offsides_first2000.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, separators=(',', ': '))
 
 

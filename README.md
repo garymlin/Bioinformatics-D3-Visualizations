@@ -31,3 +31,6 @@ Drug interactions were mined from publicly available sources. Twosides is the on
 
 ## Download link
 http://tatonettilab.org/resources.html
+
+## Running Server
+binf-visualizations.herokuapp.com/

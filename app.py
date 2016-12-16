@@ -91,6 +91,10 @@ def fd_json_offsides_final_5000():
 def fd_json_offsides_final_10000():
     return render_template('final-10000.json', api_data=[])
 
+@app.route('/final-50000.json')
+def fd_json_offsides_final_50000():
+    return render_template('final-50000.json', api_data=[])
+
 
 
 @app.route('/drugs_effects_twosides_first1500.json')

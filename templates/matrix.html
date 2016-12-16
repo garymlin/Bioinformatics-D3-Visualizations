@@ -3,6 +3,7 @@
   <title>d3-adjacency-matrix-layout example</title>
   <meta charset='utf-8' />
 <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js'></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src='/d3-adjacency-matrix-layout.js' type='text/JavaScript'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.10.3/babel.min.js'></script>
 </head>
@@ -23,21 +24,43 @@
     stroke-width: 1px;
     stroke-opacity: 0.25;
   }
+
+  div.tooltip { 
+    position: absolute;     
+    text-align: center;     
+    width: 60px;          
+    height: 14px;         
+    padding: 2px;       
+    font: 12px sans-serif;    
+    background: lightsteelblue; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none;     
+}
+
 </style>
 <body>
 <div id='viz'>
   <svg height='960px' width='960px'></svg>
 </div>
 <div id='controls' />
-</body>
+</body
 <footer>
 <script lang='babel' type='text/babel'>
-d3.json('drugs_effects_twosides_first50000.json', createAdjacencyMatrix);
+d3.json('final-50000.json', createAdjacencyMatrix);
 
 function createAdjacencyMatrix(data) {
+
+  // Define the div for the tooltip
+var div = d3.select("body").append("div") 
+    .attr("class", "tooltip")       
+    .style("opacity", 0);
+
+
+
   const adjacencyMatrix = d3.adjacencyMatrixLayout();
-  console.log('adjacencyMatrix', adjacencyMatrix);
-  console.log('d3', d3);
+  // console.log('adjacencyMatrix', adjacencyMatrix);
+  // console.log('d3', d3);
 
   adjacencyMatrix
     .size([870,870])
@@ -48,10 +71,11 @@ function createAdjacencyMatrix(data) {
 
   const matrixData = adjacencyMatrix();
 
-  console.log(matrixData)
+  // console.log(matrixData)
 
+  console.log(d3.schemeSet3.length);
   const someColors = d3.scaleOrdinal()
-    .range(d3.schemeCategory20b);
+    .range(d3.schemeSet3.concat(["#009acd", "#d63b3b", "8470ff", "20b2aa"]));
 
   d3.select('svg')
     .append('g')
@@ -68,8 +92,16 @@ function createAdjacencyMatrix(data) {
         .style('stroke', 'black')
         .style('stroke-width', '1px')
         .style('stroke-opacity', .1)
-        .style('fill', d => someColors(d.source.group))
-        .style('fill-opacity', d => d.weight * 0.8);
+        .style('fill', d => someColors(d.source.ATC))
+        .style('fill-opacity', d => d.weight * 0.8)
+         .on("mouseover", function(d) {
+            div.transition()    
+                .duration(200)    
+                .style("opacity", .9);    
+            div .html("ATC: " + d.source.ATC)  
+                .style("left", (d3.event.pageX) + "px")   
+                .style("top", (d3.event.pageY - 28) + "px");  
+        });
 
   d3.select('#adjacencyG')
     .call(adjacencyMatrix.xAxis);

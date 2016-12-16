@@ -3,16 +3,19 @@ import json
 
 nodes = []
 nodes_real = []
+nodes_final = []
+links_final = []
 links = []
 count = {}
 
 reaction_set = set()
 node_set = set()
-json_data=open("gary.json").read()
+json_data=open("james.json").read()
 
 data = json.loads(json_data)
 # print(link_list)
 
+### Data sanitization ###
 for reaction in data['nodes']:
   node_set.add(reaction['id'])
 
@@ -55,10 +58,84 @@ for node in nodes:
   nodes_real.append(node)
 
 
+
+event_to_umls = {}
+umls_to_physio = {}
+event_to_physio = {}
+physio_to_num = {}
+drug_to_stitch = {}
+physio_num = 1
+
+
+# Adding physiological info to event data
+with open("offsides_first1500.tsv") as tsv:
+  next(tsv)
+  for line in csv.reader(tsv, dialect="excel-tab"):
+    if line[3] not in event_to_physio:
+      event_to_umls[line[3]] = line[2]
+    if line[1] not in drug_to_stitch:
+      drug_to_stitch[line[1]] = line[0]
+
+with open("costart_categories.csv") as csv_obj:
+  next(csv_obj)
+  for line in csv.reader(csv_obj, dialect="excel"):
+    if line[0] not in umls_to_physio:
+      umls_to_physio[line[0]] = line[3]
+    if line[3] not in physio_to_num:
+      physio_to_num[line[3]] = physio_num
+      physio_num = physio_num + 1
+
+for event in event_to_umls:
+  umls = event_to_umls[event]
+  if umls in umls_to_physio:
+    event_to_physio[event] = umls_to_physio[umls]
+
+# print event_to_physio
+
+count = 0
+for node in nodes_real:
+  if node["id"] in event_to_physio:
+    node["physio"] = event_to_physio[node["id"]]
+    node["color_from_physio"] = physio_to_num[event_to_physio[node["id"]]]
+    count = count + 1
+  if node["id"] in drug_to_stitch:
+    node["display_id"] = node["id"]
+
 # print count
 
+for node in nodes_real:
+  if "display_id" in node:
+    nodes_final.append(node)
+  elif "physio" in node:
+    nodes_final.append(node)
+
+for node in nodes_final:
+  if "display_id" not in node:
+    node["display_id"] = node["physio"] + ": " + node["id"]
+
+
+nodes_map = {}
+for node in nodes_final:
+  print node["id"]
+  nodes_map[node["id"]] = "a"
+
+
+# for physio in physio_to_num:
+#   print physio
+#   mid = {}
+#   mid["id"] = physio
+#   mid["display_id"] = physio
+#   mid["color_from_physio"] = physio_to_num[physio]
+#   nodes_final.append(mid)
+
+
+for link in links:
+  if link["source"] in nodes_map and link["target"] in nodes_map:
+    links_final.append(link)
+# print len(nodes_final)
+
 # print nodes
-data = {"nodes": nodes_real, "links": links}
+data = {"nodes": nodes_final, "links": links_final}
 
 with open('gary-output.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, separators=(',', ': '))

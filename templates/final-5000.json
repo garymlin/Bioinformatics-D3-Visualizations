@@ -1,0 +1,3943 @@
+{
+    "nodes": [
+        {
+            "display_id": "dehydroepiandrosterone",
+            "group": 1,
+            "id": "dehydroepiandrosterone",
+            "name": "dehydroepiandrosterone"
+        },
+        {
+            "display_id": "carnitine",
+            "group": 2,
+            "id": "carnitine",
+            "name": "carnitine"
+        },
+        {
+            "display_id": "GABA",
+            "group": 3,
+            "id": "GABA",
+            "name": "GABA"
+        },
+        {
+            "display_id": "leucovorin",
+            "group": 4,
+            "id": "leucovorin",
+            "name": "leucovorin"
+        },
+        {
+            "display_id": "PGE2",
+            "group": 5,
+            "id": "PGE2",
+            "name": "PGE2"
+        },
+        {
+            "display_id": "prostacyclin",
+            "group": 6,
+            "id": "prostacyclin",
+            "name": "prostacyclin"
+        },
+        {
+            "display_id": "adenosine",
+            "group": 7,
+            "id": "adenosine",
+            "name": "adenosine"
+        },
+        {
+            "display_id": "galactose",
+            "group": 8,
+            "id": "galactose",
+            "name": "galactose"
+        },
+        {
+            "display_id": "prostaglandin E1",
+            "group": 9,
+            "id": "prostaglandin E1",
+            "name": "prostaglandin E1"
+        },
+        {
+            "display_id": "ascorbic acid",
+            "group": 10,
+            "id": "ascorbic acid",
+            "name": "ascorbic acid"
+        },
+        {
+            "display_id": "adenosine triphosphate",
+            "group": 11,
+            "id": "adenosine triphosphate",
+            "name": "adenosine triphosphate"
+        },
+        {
+            "display_id": "biotin",
+            "group": 12,
+            "id": "biotin",
+            "name": "biotin"
+        },
+        {
+            "display_id": "calcium",
+            "group": 13,
+            "id": "calcium",
+            "name": "calcium"
+        },
+        {
+            "display_id": "chloramphenicol",
+            "group": 14,
+            "id": "chloramphenicol",
+            "name": "chloramphenicol"
+        },
+        {
+            "display_id": "cholesterol",
+            "group": 15,
+            "id": "cholesterol",
+            "name": "cholesterol"
+        },
+        {
+            "display_id": "chloride",
+            "group": 16,
+            "id": "chloride",
+            "name": "chloride"
+        },
+        {
+            "display_id": "salicylate",
+            "group": 17,
+            "id": "salicylate",
+            "name": "salicylate"
+        },
+        {
+            "display_id": "aspartate",
+            "group": 18,
+            "id": "aspartate",
+            "name": "aspartate"
+        },
+        {
+            "display_id": "bupropion",
+            "group": 19,
+            "id": "bupropion",
+            "name": "bupropion"
+        },
+        {
+            "display_id": "Nervous System: Anxiety",
+            "group": 25,
+            "name": "Anxiety",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "Anxiety"
+        },
+        {
+            "display_id": "Pathological Disorders: Bacterial infection",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 30,
+            "id": "Bacterial infection"
+        },
+        {
+            "display_id": "Pulmonary Disorders: bronchitis",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 31,
+            "id": "bronchitis"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: cachectic",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 32,
+            "id": "cachectic"
+        },
+        {
+            "display_id": "Pathological Disorders: cerebral infarct",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 34,
+            "id": "cerebral infarct"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: chest pain",
+            "group": 37,
+            "name": "chest pain",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "chest pain"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: Cholangitis sclerosing",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 39,
+            "id": "Cholangitis sclerosing"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: chronic ulcerative colitis",
+            "group": 41,
+            "name": "chronic ulcerative colitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "chronic ulcerative colitis"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: dehydration",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 44,
+            "id": "dehydration"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: diarrhea",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 46,
+            "id": "diarrhea"
+        },
+        {
+            "display_id": "Nervous System: cartilage development disorder",
+            "group": 48,
+            "name": "cartilage development disorder",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "cartilage development disorder"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: choking sensation",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 49,
+            "id": "choking sensation"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: brain oedema",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 50,
+            "id": "brain oedema"
+        },
+        {
+            "display_id": "Pathological Disorders: Eosinophil Count Increased",
+            "group": 52,
+            "name": "Eosinophil Count Increased",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "Eosinophil Count Increased"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: enlarged liver",
+            "group": 67,
+            "name": "enlarged liver",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "enlarged liver"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: hernia",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 68,
+            "id": "hernia"
+        },
+        {
+            "display_id": "Metabolic Disorders: hypokalaemia",
+            "group": 72,
+            "name": "hypokalaemia",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "id": "hypokalaemia"
+        },
+        {
+            "display_id": "Pathological Disorders: infection",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 73,
+            "id": "infection"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: nausea",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 78,
+            "id": "nausea"
+        },
+        {
+            "display_id": "Nervous System: nervous tension",
+            "group": 79,
+            "name": "nervous tension",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "nervous tension"
+        },
+        {
+            "display_id": "Metabolic Disorders: osteoporosis",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 81,
+            "id": "osteoporosis"
+        },
+        {
+            "display_id": "Pathological Disorders: itch",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 85,
+            "id": "itch"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: cardiogenic shock",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 88,
+            "id": "cardiogenic shock"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: aphthous stomatitis",
+            "group": 91,
+            "name": "aphthous stomatitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "aphthous stomatitis"
+        },
+        {
+            "display_id": "Hemorrhage: subarachnoid haemorrhage",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 92,
+            "id": "subarachnoid haemorrhage"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: heart rate increased",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 93,
+            "id": "heart rate increased"
+        },
+        {
+            "display_id": "Nervous System: intention tremor",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 97,
+            "id": "intention tremor"
+        },
+        {
+            "display_id": "Pathological Disorders: dermographism",
+            "group": 100,
+            "name": "dermographism",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "dermographism"
+        },
+        {
+            "display_id": "Skin and Appendages: Skin Striae",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 107,
+            "id": "Skin Striae"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: iron deficiency anaemia",
+            "group": 112,
+            "name": "iron deficiency anaemia",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "id": "iron deficiency anaemia"
+        },
+        {
+            "display_id": "Pulmonary Disorders: bradypnoea",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 138,
+            "id": "bradypnoea"
+        },
+        {
+            "display_id": "Nervous System: demyelination",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 140,
+            "id": "demyelination"
+        },
+        {
+            "display_id": "Reticuloendthelial Disorders: Adenopathy",
+            "group": 145,
+            "name": "Adenopathy",
+            "color_from_physio": 16,
+            "physio": "Reticuloendthelial Disorders",
+            "id": "Adenopathy"
+        },
+        {
+            "display_id": "Nervous System: cerebral ischaemia",
+            "group": 174,
+            "name": "cerebral ischaemia",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "cerebral ischaemia"
+        },
+        {
+            "display_id": "Nervous System: early morning awakening",
+            "group": 176,
+            "name": "early morning awakening",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "early morning awakening"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: aortic stenosis",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 201,
+            "id": "aortic stenosis"
+        },
+        {
+            "display_id": "Nervous System: agraphia",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 202,
+            "id": "agraphia"
+        },
+        {
+            "display_id": "Pulmonary Disorders: atelectasis",
+            "group": 203,
+            "name": "atelectasis",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "id": "atelectasis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: AFIB",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 204,
+            "id": "AFIB"
+        },
+        {
+            "display_id": "Pulmonary Disorders: bronchiolitis",
+            "group": 209,
+            "name": "bronchiolitis",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "id": "bronchiolitis"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: constipated",
+            "group": 216,
+            "name": "constipated",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "id": "constipated"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: arteriosclerotic heart disease",
+            "group": 218,
+            "name": "arteriosclerotic heart disease",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "arteriosclerotic heart disease"
+        },
+        {
+            "display_id": "Nervous System: dizziness",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 221,
+            "id": "dizziness"
+        },
+        {
+            "display_id": "Nervous System: drowsiness",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 222,
+            "id": "drowsiness"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: dyspepsia",
+            "group": 223,
+            "name": "dyspepsia",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "dyspepsia"
+        },
+        {
+            "display_id": "Pathological Disorders: fib",
+            "group": 228,
+            "name": "fib",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "fib"
+        },
+        {
+            "display_id": "Hemorrhage: gastrointestinal bleed",
+            "group": 230,
+            "name": "gastrointestinal bleed",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "gastrointestinal bleed"
+        },
+        {
+            "display_id": "Nervous System: aura",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 232,
+            "id": "aura"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: asystole",
+            "group": 233,
+            "name": "asystole",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "asystole"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: cardiac enlargement",
+            "group": 235,
+            "name": "cardiac enlargement",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "cardiac enlargement"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: cardiac failure",
+            "group": 236,
+            "name": "cardiac failure",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "cardiac failure"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Cardiac decompensation",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 237,
+            "id": "Cardiac decompensation"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: bile duct obstruction",
+            "group": 241,
+            "name": "bile duct obstruction",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "bile duct obstruction"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: blood cholesterol",
+            "group": 243,
+            "name": "blood cholesterol",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "id": "blood cholesterol"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: hyperlipaemia",
+            "group": 245,
+            "name": "hyperlipaemia",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "id": "hyperlipaemia"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: High blood pressure",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 248,
+            "id": "High blood pressure"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: intestinal perforation",
+            "group": 251,
+            "name": "intestinal perforation",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "intestinal perforation"
+        },
+        {
+            "display_id": "Pulmonary Disorders: Disorder Lung",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 256,
+            "id": "Disorder Lung"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: malabsorption",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 258,
+            "id": "malabsorption"
+        },
+        {
+            "display_id": "Skin and Appendages: fungal disease",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 260,
+            "id": "fungal disease"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: pancreatitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 269,
+            "id": "pancreatitis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: pericardial effusion",
+            "group": 272,
+            "name": "pericardial effusion",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "pericardial effusion"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: atrial ectopic beats",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 278,
+            "id": "atrial ectopic beats"
+        },
+        {
+            "display_id": "Renal Disorders: pyelonephritis",
+            "group": 281,
+            "name": "pyelonephritis",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "id": "pyelonephritis"
+        },
+        {
+            "display_id": "Pathological Disorders: Infection Urinary Tract",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 292,
+            "id": "Infection Urinary Tract"
+        },
+        {
+            "display_id": "Hemorrhage: uterine bleeding",
+            "group": 293,
+            "name": "uterine bleeding",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "uterine bleeding"
+        },
+        {
+            "display_id": "Pathological Disorders: angiitis",
+            "group": 294,
+            "name": "angiitis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "angiitis"
+        },
+        {
+            "display_id": "Pathological Disorders: phlebothrombosis",
+            "group": 295,
+            "name": "phlebothrombosis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "phlebothrombosis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: ventricular fibrillation",
+            "group": 296,
+            "name": "ventricular fibrillation",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "ventricular fibrillation"
+        },
+        {
+            "display_id": "Pathological Disorders: Infection Viral",
+            "group": 297,
+            "name": "Infection Viral",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "Infection Viral"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: Hepatic failure",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 303,
+            "id": "Hepatic failure"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: sinus bradycardia",
+            "group": 304,
+            "name": "sinus bradycardia",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "id": "sinus bradycardia"
+        },
+        {
+            "display_id": "Nervous System: agitated",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 308,
+            "id": "agitated"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: cataract",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 312,
+            "id": "cataract"
+        },
+        {
+            "display_id": "Nervous System: abnormal EEG",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 313,
+            "id": "abnormal EEG"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Extrasystoles Ventricular",
+            "group": 314,
+            "name": "Extrasystoles Ventricular",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "Extrasystoles Ventricular"
+        },
+        {
+            "display_id": "Skin and Appendages: dry skin",
+            "group": 318,
+            "name": "dry skin",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "id": "dry skin"
+        },
+        {
+            "display_id": "Liver Disorders: hepatic trauma",
+            "color_from_physio": 20,
+            "physio": "Liver Disorders",
+            "group": 321,
+            "id": "hepatic trauma"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: atrioventricular block second degree",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 349,
+            "id": "atrioventricular block second degree"
+        },
+        {
+            "display_id": "Hemorrhage: haemorrhage rectum",
+            "group": 351,
+            "name": "haemorrhage rectum",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "haemorrhage rectum"
+        },
+        {
+            "display_id": "Renal Disorders: Nephrolithiasis",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 365,
+            "id": "Nephrolithiasis"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: bradycardia",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "group": 366,
+            "id": "bradycardia"
+        },
+        {
+            "display_id": "Nervous System: Amnesia",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 448,
+            "id": "Amnesia"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: Anisocoria",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "group": 450,
+            "id": "Anisocoria"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: arteriosclerosis",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 453,
+            "id": "arteriosclerosis"
+        },
+        {
+            "display_id": "Musculo-skeletal System: arthritis",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "group": 454,
+            "id": "arthritis"
+        },
+        {
+            "display_id": "Pathological Disorders: asthma",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 456,
+            "id": "asthma"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: blepharitis",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 461,
+            "id": "blepharitis"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: blepharoptosis",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "group": 462,
+            "id": "blepharoptosis"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: conjunctival deposit",
+            "group": 478,
+            "name": "conjunctival deposit",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "id": "conjunctival deposit"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: deglutition disorder",
+            "group": 485,
+            "name": "deglutition disorder",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "deglutition disorder"
+        },
+        {
+            "display_id": "Skin and Appendages: dermatitis exfoliative",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 489,
+            "id": "dermatitis exfoliative"
+        },
+        {
+            "display_id": "Hemorrhage: ecchymoses",
+            "group": 495,
+            "name": "ecchymoses",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "ecchymoses"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: enteritis",
+            "group": 498,
+            "name": "enteritis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "enteritis"
+        },
+        {
+            "display_id": "Liver Disorders: fatty liver",
+            "group": 506,
+            "name": "fatty liver",
+            "color_from_physio": 20,
+            "physio": "Liver Disorders",
+            "id": "fatty liver"
+        },
+        {
+            "display_id": "Hemorrhage: Bleeding gums",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 514,
+            "id": "Bleeding gums"
+        },
+        {
+            "display_id": "Endocrine Disorders: goiter",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "group": 518,
+            "id": "goiter"
+        },
+        {
+            "display_id": "Hemorrhage: blood in urine",
+            "group": 521,
+            "name": "blood in urine",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "blood in urine"
+        },
+        {
+            "display_id": "Pathological Disorders: herpes zoster",
+            "group": 525,
+            "name": "herpes zoster",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "herpes zoster"
+        },
+        {
+            "display_id": "Renal Disorders: hydronephrosis",
+            "group": 528,
+            "name": "hydronephrosis",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "id": "hydronephrosis"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: blood glucose",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 530,
+            "id": "blood glucose"
+        },
+        {
+            "display_id": "Pathological Disorders: allergies",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 531,
+            "id": "allergies"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: Hypotension Orthostatic",
+            "group": 532,
+            "name": "Hypotension Orthostatic",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "id": "Hypotension Orthostatic"
+        },
+        {
+            "display_id": "Pathological Disorders: acute leukaemia",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 540,
+            "id": "acute leukaemia"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: cirrhosis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 542,
+            "id": "cirrhosis"
+        },
+        {
+            "display_id": "Pathological Disorders: disseminated lupus erythematosus",
+            "group": 544,
+            "name": "disseminated lupus erythematosus",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "disseminated lupus erythematosus"
+        },
+        {
+            "display_id": "Renal Disorders: nocturia",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 550,
+            "id": "nocturia"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: OPTIC NEURITIS",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 552,
+            "id": "OPTIC NEURITIS"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: periodontitis",
+            "group": 566,
+            "name": "periodontitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "periodontitis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Pleural Effusion",
+            "group": 569,
+            "name": "Pleural Effusion",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "Pleural Effusion"
+        },
+        {
+            "display_id": "Pulmonary Disorders: neumonia",
+            "group": 570,
+            "name": "neumonia",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "id": "neumonia"
+        },
+        {
+            "display_id": "Pulmonary Disorders: pneumothorax",
+            "group": 571,
+            "name": "pneumothorax",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "id": "pneumothorax"
+        },
+        {
+            "display_id": "Pulmonary Disorders: lung edema",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 574,
+            "id": "lung edema"
+        },
+        {
+            "display_id": "Renal Disorders: kidney failure",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 579,
+            "id": "kidney failure"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: Disorder Retinal",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 580,
+            "id": "Disorder Retinal"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: retinitis",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 581,
+            "id": "retinitis"
+        },
+        {
+            "display_id": "Pathological Disorders: Sinusitis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 583,
+            "id": "Sinusitis"
+        },
+        {
+            "display_id": "Reticuloendthelial Disorders: rupture of spleen",
+            "group": 587,
+            "name": "rupture of spleen",
+            "color_from_physio": 16,
+            "physio": "Reticuloendthelial Disorders",
+            "id": "rupture of spleen"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: burning sensation mucosal",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 590,
+            "id": "burning sensation mucosal"
+        },
+        {
+            "display_id": "Pathological Disorders: stridor",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 591,
+            "id": "stridor"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: apoplexy",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 592,
+            "id": "apoplexy"
+        },
+        {
+            "display_id": "Skin and Appendages: erythema",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 604,
+            "id": "erythema"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: emesis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 609,
+            "id": "emesis"
+        },
+        {
+            "display_id": "Pathological Disorders: chill",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 613,
+            "id": "chill"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: mouth ulcer",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 620,
+            "id": "mouth ulcer"
+        },
+        {
+            "display_id": "Pathological Disorders: deep vein thromboses",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 623,
+            "id": "deep vein thromboses"
+        },
+        {
+            "display_id": "Hemorrhage: haemorrhage intracranial",
+            "group": 626,
+            "name": "haemorrhage intracranial",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "haemorrhage intracranial"
+        },
+        {
+            "display_id": "Hemorrhage: bleeding Vaginal",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 627,
+            "id": "bleeding Vaginal"
+        },
+        {
+            "display_id": "Metabolic Disorders: hypermagnesaemia",
+            "group": 628,
+            "name": "hypermagnesaemia",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "id": "hypermagnesaemia"
+        },
+        {
+            "display_id": "Musculo-skeletal System: bone pain",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "group": 630,
+            "id": "bone pain"
+        },
+        {
+            "display_id": "Musculo-skeletal System: aching muscles",
+            "group": 658,
+            "name": "aching muscles",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "id": "aching muscles"
+        },
+        {
+            "display_id": "Liver Disorders: haemangioma of liver",
+            "color_from_physio": 20,
+            "physio": "Liver Disorders",
+            "group": 663,
+            "id": "haemangioma of liver"
+        },
+        {
+            "display_id": "Pathological Disorders: bacterial toxaemia",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 672,
+            "id": "bacterial toxaemia"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: accommodation disorder",
+            "group": 708,
+            "name": "accommodation disorder",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "id": "accommodation disorder"
+        },
+        {
+            "display_id": "Genitourinary Disorders: Carcinoma of Prostate",
+            "color_from_physio": 18,
+            "physio": "Genitourinary Disorders",
+            "group": 729,
+            "id": "Carcinoma of Prostate"
+        },
+        {
+            "display_id": "Pathological Disorders: cutaneous candidiasis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 847,
+            "id": "cutaneous candidiasis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: cerebral vascular disorder",
+            "group": 849,
+            "name": "cerebral vascular disorder",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "cerebral vascular disorder"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: colitis",
+            "group": 852,
+            "name": "colitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "colitis"
+        },
+        {
+            "display_id": "Nervous System: coma",
+            "group": 854,
+            "name": "coma",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "coma"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: corneal ulcer",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 855,
+            "id": "corneal ulcer"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: burn oesophageal",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 868,
+            "id": "burn oesophageal"
+        },
+        {
+            "display_id": "Renal Disorders: hepatorenal failure",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 877,
+            "id": "hepatorenal failure"
+        },
+        {
+            "display_id": "Metabolic Disorders: blood sodium increased",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 881,
+            "id": "blood sodium increased"
+        },
+        {
+            "display_id": "Metabolic Disorders: blood calcium",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 884,
+            "id": "blood calcium"
+        },
+        {
+            "display_id": "Endocrine Disorders: body temperature",
+            "group": 885,
+            "name": "body temperature",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "id": "body temperature"
+        },
+        {
+            "display_id": "Pathological Disorders: laryngeal neoplasia",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 889,
+            "id": "laryngeal neoplasia"
+        },
+        {
+            "display_id": "Pathological Disorders: neoplasia",
+            "group": 899,
+            "name": "neoplasia",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "neoplasia"
+        },
+        {
+            "display_id": "Nervous System: formication",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 907,
+            "id": "formication"
+        },
+        {
+            "display_id": "Autonomic Nervous Disorders: priapism",
+            "color_from_physio": 1,
+            "physio": "Autonomic Nervous Disorders",
+            "group": 914,
+            "id": "priapism"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: proctitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 915,
+            "id": "proctitis"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: Detached retina",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 925,
+            "id": "Detached retina"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Supraventricular tachycardia",
+            "group": 935,
+            "name": "Supraventricular tachycardia",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "Supraventricular tachycardia"
+        },
+        {
+            "display_id": "Metabolic Disorders: tetany",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 937,
+            "id": "tetany"
+        },
+        {
+            "display_id": "Gynecologic Disorders: Colpitis",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 941,
+            "id": "Colpitis"
+        },
+        {
+            "display_id": "Respiratory System: vocal cord paralysis",
+            "color_from_physio": 15,
+            "physio": "Respiratory System",
+            "group": 945,
+            "id": "vocal cord paralysis"
+        },
+        {
+            "display_id": "Pathological Disorders: antinuclear antibody",
+            "group": 957,
+            "name": "antinuclear antibody",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "antinuclear antibody"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Cardiac ischemia",
+            "group": 963,
+            "name": "Cardiac ischemia",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "Cardiac ischemia"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: intestinal ulcer",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 967,
+            "id": "intestinal ulcer"
+        },
+        {
+            "display_id": "Renal Disorders: hydroureter",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 1118,
+            "id": "hydroureter"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: duodenal ulcer perforation",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 1155,
+            "id": "duodenal ulcer perforation"
+        },
+        {
+            "display_id": "Nervous System: meningeal irritation",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1372,
+            "id": "meningeal irritation"
+        },
+        {
+            "display_id": "Skin and Appendages: alopecia",
+            "group": 1431,
+            "name": "alopecia",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "id": "alopecia"
+        },
+        {
+            "display_id": "Pathological Disorders: Candida Infection",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 1435,
+            "id": "Candida Infection"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: bile duct stone",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 1436,
+            "id": "bile duct stone"
+        },
+        {
+            "display_id": "Skin and Appendages: contact dermatitis",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 1440,
+            "id": "contact dermatitis"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: patent ductus arteriosis",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 1441,
+            "id": "patent ductus arteriosis"
+        },
+        {
+            "display_id": "Gynecologic Disorders: Endometrial hyperplasia",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 1442,
+            "id": "Endometrial hyperplasia"
+        },
+        {
+            "display_id": "Hemorrhage: hematoma subdural",
+            "group": 1448,
+            "name": "hematoma subdural",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "id": "hematoma subdural"
+        },
+        {
+            "display_id": "Hemorrhage: black stools",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 1460,
+            "id": "black stools"
+        },
+        {
+            "display_id": "Skin and Appendages: psoriasis",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 1467,
+            "id": "psoriasis"
+        },
+        {
+            "display_id": "Hemorrhage: thrombotic microangiopathy",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 1469,
+            "id": "thrombotic microangiopathy"
+        },
+        {
+            "display_id": "Endocrine Disorders: thyroid disease",
+            "group": 1474,
+            "name": "thyroid disease",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "id": "thyroid disease"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: tachycardia ventricular",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 1476,
+            "id": "tachycardia ventricular"
+        },
+        {
+            "display_id": "Nervous System: encephalopathy",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1479,
+            "id": "encephalopathy"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: Aspartate Aminotransferase Increase",
+            "group": 1485,
+            "name": "Aspartate Aminotransferase Increase",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "Aspartate Aminotransferase Increase"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: esophageal ulcer",
+            "group": 1488,
+            "name": "esophageal ulcer",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "esophageal ulcer"
+        },
+        {
+            "display_id": "Pulmonary Disorders: eosinophilic pneumonia",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 1574,
+            "id": "eosinophilic pneumonia"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: Arrhythmia",
+            "group": 1595,
+            "name": "Arrhythmia",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "Arrhythmia"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: atrial flutter",
+            "group": 1596,
+            "name": "atrial flutter",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "atrial flutter"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: atrioventricular block",
+            "group": 1597,
+            "name": "atrioventricular block",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "atrioventricular block"
+        },
+        {
+            "display_id": "Nervous System: cerebellar ataxia",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1599,
+            "id": "cerebellar ataxia"
+        },
+        {
+            "display_id": "Nervous System: acute brain syndrome",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1600,
+            "id": "acute brain syndrome"
+        },
+        {
+            "display_id": "Metabolic Disorders: gout",
+            "group": 1603,
+            "name": "gout",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "id": "gout"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: atrial septal defect",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 1604,
+            "id": "atrial septal defect"
+        },
+        {
+            "display_id": "Renal Disorders: acute kidney failure",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 1607,
+            "id": "acute kidney failure"
+        },
+        {
+            "display_id": "Gynecologic Disorders: breast cellulitis",
+            "group": 1609,
+            "name": "breast cellulitis",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "id": "breast cellulitis"
+        },
+        {
+            "display_id": "Nervous System: movement disorder",
+            "group": 1610,
+            "name": "movement disorder",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "movement disorder"
+        },
+        {
+            "display_id": "Nervous System: Neurosis",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1613,
+            "id": "Neurosis"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: pigmentation disorder",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 1656,
+            "id": "pigmentation disorder"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: blood uric acid",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 1661,
+            "id": "blood uric acid"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: corneal disorder",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 1719,
+            "id": "corneal disorder"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: gangrene",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 1725,
+            "id": "gangrene"
+        },
+        {
+            "display_id": "Nervous System: hemiplegia",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1727,
+            "id": "hemiplegia"
+        },
+        {
+            "display_id": "Hemorrhage: hemothorax",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 1731,
+            "id": "hemothorax"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: hepatitis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 1732,
+            "id": "hepatitis"
+        },
+        {
+            "display_id": "Metabolic Disorders: Excess potassium",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 1736,
+            "id": "Excess potassium"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: blood glucose decreased",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 1737,
+            "id": "blood glucose decreased"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: corneal oedema",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 1740,
+            "id": "corneal oedema"
+        },
+        {
+            "display_id": "Pathological Disorders: Acute myeloblastic leukemia",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 1742,
+            "id": "Acute myeloblastic leukemia"
+        },
+        {
+            "display_id": "Nervous System: myelitis",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1746,
+            "id": "myelitis"
+        },
+        {
+            "display_id": "Metabolic Disorders: calcinosis",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 1749,
+            "id": "calcinosis"
+        },
+        {
+            "display_id": "Endocrine Disorders: Ovarian cancer",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "group": 1752,
+            "id": "Ovarian cancer"
+        },
+        {
+            "display_id": "Pathological Disorders: Phlebitis",
+            "group": 1754,
+            "name": "Phlebitis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "Phlebitis"
+        },
+        {
+            "display_id": "Pulmonary Disorders: aspiration pneumonia",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 1756,
+            "id": "aspiration pneumonia"
+        },
+        {
+            "display_id": "Renal Disorders: polyuria",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 1760,
+            "id": "polyuria"
+        },
+        {
+            "display_id": "Nervous System: psychoses",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 1761,
+            "id": "psychoses"
+        },
+        {
+            "display_id": "Skin and Appendages: Nodule Skin",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 1765,
+            "id": "Nodule Skin"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: angiopathy",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 1771,
+            "id": "angiopathy"
+        },
+        {
+            "display_id": "Endocrine Disorders: Hypophosphataemia",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "group": 1775,
+            "id": "Hypophosphataemia"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: depigmentation",
+            "group": 1795,
+            "name": "depigmentation",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "id": "depigmentation"
+        },
+        {
+            "display_id": "Genitourinary Disorders: Decreased Libido",
+            "color_from_physio": 18,
+            "physio": "Genitourinary Disorders",
+            "group": 1952,
+            "id": "Decreased Libido"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: duodenal ulcer",
+            "group": 1953,
+            "name": "duodenal ulcer",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "id": "duodenal ulcer"
+        },
+        {
+            "display_id": "Skin and Appendages: erythema multiforme",
+            "color_from_physio": 17,
+            "physio": "Skin and Appendages",
+            "group": 1954,
+            "id": "erythema multiforme"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: heart attack",
+            "group": 1961,
+            "name": "heart attack",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "id": "heart attack"
+        },
+        {
+            "display_id": "Pathological Disorders: Thrombophlebitis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 1967,
+            "id": "Thrombophlebitis"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: albuminuria",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 2054,
+            "id": "albuminuria"
+        },
+        {
+            "display_id": "Pathological Disorders: dermatomyositis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2060,
+            "id": "dermatomyositis"
+        },
+        {
+            "display_id": "Genitourinary Disorders: dysuria",
+            "color_from_physio": 18,
+            "physio": "Genitourinary Disorders",
+            "group": 2063,
+            "id": "dysuria"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: esophageal stenosis",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2064,
+            "id": "esophageal stenosis"
+        },
+        {
+            "display_id": "Pulmonary Disorders: laryngeal inflammation",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 2074,
+            "id": "laryngeal inflammation"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: disease of liver",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2076,
+            "id": "disease of liver"
+        },
+        {
+            "display_id": "Renal Disorders: pyuria",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 2086,
+            "id": "pyuria"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: scotoma",
+            "group": 2088,
+            "name": "scotoma",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "id": "scotoma"
+        },
+        {
+            "display_id": "Musculo-skeletal System: synovitis",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "group": 2091,
+            "id": "synovitis"
+        },
+        {
+            "display_id": "Endocrine Disorders: thyroid neoplasia",
+            "group": 2094,
+            "name": "thyroid neoplasia",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "id": "thyroid neoplasia"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: intraocular inflammation",
+            "group": 2098,
+            "name": "intraocular inflammation",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "id": "intraocular inflammation"
+        },
+        {
+            "display_id": "Genitourinary Disorders: micturition urgency",
+            "color_from_physio": 18,
+            "physio": "Genitourinary Disorders",
+            "group": 2103,
+            "id": "micturition urgency"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: dry eye",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 2144,
+            "id": "dry eye"
+        },
+        {
+            "display_id": "Hemorrhage: henoch-schonlein purpura",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 2225,
+            "id": "henoch-schonlein purpura"
+        },
+        {
+            "display_id": "Nervous System: spinning sensation",
+            "group": 2229,
+            "name": "spinning sensation",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "spinning sensation"
+        },
+        {
+            "display_id": "Pulmonary Disorders: pharyngeal inflammation",
+            "color_from_physio": 13,
+            "physio": "Pulmonary Disorders",
+            "group": 2264,
+            "id": "pharyngeal inflammation"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: belching",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2335,
+            "id": "belching"
+        },
+        {
+            "display_id": "Gynecologic Disorders: breast dysplasia",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 2336,
+            "id": "breast dysplasia"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: glaucoma",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 2340,
+            "id": "glaucoma"
+        },
+        {
+            "display_id": "Endocrine Disorders: Blood Calcium Increased",
+            "color_from_physio": 3,
+            "physio": "Endocrine Disorders",
+            "group": 2345,
+            "id": "Blood Calcium Increased"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: salivary gland enlargement",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2346,
+            "id": "salivary gland enlargement"
+        },
+        {
+            "display_id": "Ophthalmic Disorders: iritis",
+            "color_from_physio": 11,
+            "physio": "Ophthalmic Disorders",
+            "group": 2352,
+            "id": "iritis"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: hepatic neoplasia",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2358,
+            "id": "hepatic neoplasia"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: gastroduodenal ulcer",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2372,
+            "id": "gastroduodenal ulcer"
+        },
+        {
+            "display_id": "Pathological Disorders: sarcoidosis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2374,
+            "id": "sarcoidosis"
+        },
+        {
+            "display_id": "Metabolic Disorders: hyperphosphataemia",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 2387,
+            "id": "hyperphosphataemia"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: migraine",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 2393,
+            "id": "migraine"
+        },
+        {
+            "display_id": "Gynecologic Disorders: carcinoma of the cervix",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 2446,
+            "id": "carcinoma of the cervix"
+        },
+        {
+            "display_id": "Cardiovascular Disorders: abnormal ECG",
+            "color_from_physio": 2,
+            "physio": "Cardiovascular Disorders",
+            "group": 2471,
+            "id": "abnormal ECG"
+        },
+        {
+            "display_id": "Renal Disorders: kidney pain",
+            "color_from_physio": 14,
+            "physio": "Renal Disorders",
+            "group": 2484,
+            "id": "kidney pain"
+        },
+        {
+            "display_id": "Gynecologic Disorders: Breast cancer",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 2491,
+            "id": "Breast cancer"
+        },
+        {
+            "display_id": "Liver Disorders: granulomatous liver disease",
+            "color_from_physio": 20,
+            "physio": "Liver Disorders",
+            "group": 2524,
+            "id": "granulomatous liver disease"
+        },
+        {
+            "display_id": "Hemorrhage: cerebral haemorrhage",
+            "color_from_physio": 6,
+            "physio": "Hemorrhage",
+            "group": 2600,
+            "id": "cerebral haemorrhage"
+        },
+        {
+            "display_id": "Nervous System: abnormal movements",
+            "group": 2603,
+            "name": "abnormal movements",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "id": "abnormal movements"
+        },
+        {
+            "display_id": "Pathological Disorders: angioedema",
+            "group": 2658,
+            "name": "angioedema",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "id": "angioedema"
+        },
+        {
+            "display_id": "Metabolic and Nutritional Disorders: fat tissue increased",
+            "color_from_physio": 8,
+            "physio": "Metabolic and Nutritional Disorders",
+            "group": 2662,
+            "id": "fat tissue increased"
+        },
+        {
+            "display_id": "Genitourinary Disorders: epididymitis",
+            "color_from_physio": 18,
+            "physio": "Genitourinary Disorders",
+            "group": 2680,
+            "id": "epididymitis"
+        },
+        {
+            "display_id": "Pathological Disorders: meningitides",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2681,
+            "id": "meningitides"
+        },
+        {
+            "display_id": "Metabolic Disorders: diabetes insipidus",
+            "color_from_physio": 9,
+            "physio": "Metabolic Disorders",
+            "group": 2696,
+            "id": "diabetes insipidus"
+        },
+        {
+            "display_id": "Pathological Disorders: encephalitis",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2698,
+            "id": "encephalitis"
+        },
+        {
+            "display_id": "Nervous System: facial palsy",
+            "color_from_physio": 19,
+            "physio": "Nervous System",
+            "group": 2723,
+            "id": "facial palsy"
+        },
+        {
+            "display_id": "Pathological Disorders: adenoma",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2761,
+            "id": "adenoma"
+        },
+        {
+            "display_id": "Gynecologic Disorders: candidiasis of vagina",
+            "color_from_physio": 5,
+            "physio": "Gynecologic Disorders",
+            "group": 2780,
+            "id": "candidiasis of vagina"
+        },
+        {
+            "display_id": "Pathological Disorders: oral neoplasm",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2838,
+            "id": "oral neoplasm"
+        },
+        {
+            "display_id": "Pathological Disorders: neoplasm prostate",
+            "color_from_physio": 12,
+            "physio": "Pathological Disorders",
+            "group": 2864,
+            "id": "neoplasm prostate"
+        },
+        {
+            "display_id": "Gastrointestinal Disorders: salivary gland inflammation",
+            "color_from_physio": 4,
+            "physio": "Gastrointestinal Disorders",
+            "group": 2889,
+            "id": "salivary gland inflammation"
+        },
+        {
+            "display_id": "Musculo-skeletal System: binocular eye movement disorder",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "group": 2897,
+            "id": "binocular eye movement disorder"
+        },
+        {
+            "display_id": "Musculo-skeletal System: Tenosynovitis",
+            "color_from_physio": 10,
+            "physio": "Musculo-skeletal System",
+            "group": 2900,
+            "id": "Tenosynovitis"
+        }
+    ],
+    "links": [
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Anxiety",
+            "value": 0.00511624998437629
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Bacterial infection",
+            "value": 0.00326460921154602
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bronchitis",
+            "value": 0.00349184190815147
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cachectic",
+            "value": 0.000352919225181849
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cerebral infarct",
+            "value": 0.00112646236259679
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "chest pain",
+            "value": 0.00402709318175075
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Cholangitis sclerosing",
+            "value": 0.000352919225181849
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "chronic ulcerative colitis",
+            "value": 0.0028407805126684
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cartilage development disorder",
+            "value": 0.00043387149064356
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "choking sensation",
+            "value": 0.0104127156750547
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Eosinophil Count Increased",
+            "value": 0.00362371200388707
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "enlarged liver",
+            "value": 0.00103141471481659
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hernia",
+            "value": 0.000182789827550865
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hypokalaemia",
+            "value": 0.00361055103419246
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "nervous tension",
+            "value": 0.00015180034425084
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "osteoporosis",
+            "value": 0.000693493772740951
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "itch",
+            "value": 0.000315613545817856
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cardiogenic shock",
+            "value": 0.00153966960614522
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "aphthous stomatitis",
+            "value": 0.0214272041443493
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "dermographism",
+            "value": 0.00387640622414921
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Skin Striae",
+            "value": 0.00164440804831995
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "iron deficiency anaemia",
+            "value": 0.0305809073336515
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bradypnoea",
+            "value": 0.00829238783340583
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "demyelination",
+            "value": 0.000115786093235142
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cerebral ischaemia",
+            "value": 0.000352919225181849
+        },
+        {
+            "source": "carnitine",
+            "target": "atelectasis",
+            "value": 0.00144608962908464
+        },
+        {
+            "source": "carnitine",
+            "target": "bronchiolitis",
+            "value": 0.000450407578732891
+        },
+        {
+            "source": "carnitine",
+            "target": "constipated",
+            "value": 0.00446499444372979
+        },
+        {
+            "source": "carnitine",
+            "target": "arteriosclerotic heart disease",
+            "value": 0.0158951831871482
+        },
+        {
+            "source": "carnitine",
+            "target": "cartilage development disorder",
+            "value": 0.00297341205999519
+        },
+        {
+            "source": "carnitine",
+            "target": "fib",
+            "value": 0.000151972153513236
+        },
+        {
+            "source": "carnitine",
+            "target": "cardiac enlargement",
+            "value": 0.000649387167848034
+        },
+        {
+            "source": "carnitine",
+            "target": "enlarged liver",
+            "value": 0.00341791028012154
+        },
+        {
+            "source": "carnitine",
+            "target": "blood cholesterol",
+            "value": 0.000470661095014382
+        },
+        {
+            "source": "carnitine",
+            "target": "hyperlipaemia",
+            "value": 0.000845910047343267
+        },
+        {
+            "source": "carnitine",
+            "target": "infection",
+            "value": 0.0107803148058905
+        },
+        {
+            "source": "carnitine",
+            "target": "intestinal perforation",
+            "value": 0.000725054728763269
+        },
+        {
+            "source": "carnitine",
+            "target": "malabsorption",
+            "value": 0.0121218505009512
+        },
+        {
+            "source": "carnitine",
+            "target": "pericardial effusion",
+            "value": 0.014372105591361
+        },
+        {
+            "source": "carnitine",
+            "target": "pyelonephritis",
+            "value": 0.028812538416969
+        },
+        {
+            "source": "carnitine",
+            "target": "uterine bleeding",
+            "value": 0.0404815823432936
+        },
+        {
+            "source": "carnitine",
+            "target": "angiitis",
+            "value": 0.000729352927371391
+        },
+        {
+            "source": "carnitine",
+            "target": "phlebothrombosis",
+            "value": 0.0149331608148374
+        },
+        {
+            "source": "carnitine",
+            "target": "ventricular fibrillation",
+            "value": 0.00538425087868484
+        },
+        {
+            "source": "carnitine",
+            "target": "Infection Viral",
+            "value": 0.000898994458848722
+        },
+        {
+            "source": "carnitine",
+            "target": "sinus bradycardia",
+            "value": 0.000167543178485383
+        },
+        {
+            "source": "carnitine",
+            "target": "cataract",
+            "value": 0.00158212603751207
+        },
+        {
+            "source": "carnitine",
+            "target": "dry skin",
+            "value": 0.00038577983181231
+        },
+        {
+            "source": "carnitine",
+            "target": "hepatic trauma",
+            "value": 0.00723576996837797
+        },
+        {
+            "source": "carnitine",
+            "target": "atrioventricular block second degree",
+            "value": 0.0174188765219366
+        },
+        {
+            "source": "carnitine",
+            "target": "haemorrhage rectum",
+            "value": 0.00135769728893029
+        },
+        {
+            "source": "carnitine",
+            "target": "Nephrolithiasis",
+            "value": 0.00136517250758681
+        },
+        {
+            "source": "carnitine",
+            "target": "bradycardia",
+            "value": 0.000190095765022146
+        },
+        {
+            "source": "carnitine",
+            "target": "early morning awakening",
+            "value": 0.0485995973609255
+        },
+        {
+            "source": "GABA",
+            "target": "Anisocoria",
+            "value": 0.0013189319791787
+        },
+        {
+            "source": "GABA",
+            "target": "asthma",
+            "value": 0.000104418794053493
+        },
+        {
+            "source": "GABA",
+            "target": "bronchiolitis",
+            "value": 0.000357546066294993
+        },
+        {
+            "source": "GABA",
+            "target": "conjunctival deposit",
+            "value": 0.00584878369249613
+        },
+        {
+            "source": "GABA",
+            "target": "dehydration",
+            "value": 0.000934586209473924
+        },
+        {
+            "source": "GABA",
+            "target": "ecchymoses",
+            "value": 0.00395385715111801
+        },
+        {
+            "source": "GABA",
+            "target": "fatty liver",
+            "value": 0.0116137102985689
+        },
+        {
+            "source": "GABA",
+            "target": "allergies",
+            "value": 0.0457493302646869
+        },
+        {
+            "source": "GABA",
+            "target": "High blood pressure",
+            "value": 0.019137247094937
+        },
+        {
+            "source": "GABA",
+            "target": "cirrhosis",
+            "value": 0.036723855138425
+        },
+        {
+            "source": "GABA",
+            "target": "nausea",
+            "value": 0.00399775609412717
+        },
+        {
+            "source": "GABA",
+            "target": "nocturia",
+            "value": 0.00276841543092301
+        },
+        {
+            "source": "GABA",
+            "target": "retinitis",
+            "value": 0.00988088949070012
+        },
+        {
+            "source": "GABA",
+            "target": "rupture of spleen",
+            "value": 0.00625293420998155
+        },
+        {
+            "source": "GABA",
+            "target": "stridor",
+            "value": 0.00152016789296015
+        },
+        {
+            "source": "GABA",
+            "target": "heart rate increased",
+            "value": 0.00563814838937727
+        },
+        {
+            "source": "GABA",
+            "target": "erythema",
+            "value": 0.0348829173969548
+        },
+        {
+            "source": "GABA",
+            "target": "dermographism",
+            "value": 0.00702832567187055
+        },
+        {
+            "source": "GABA",
+            "target": "phlebothrombosis",
+            "value": 0.00276959929771437
+        },
+        {
+            "source": "GABA",
+            "target": "Extrasystoles Ventricular",
+            "value": 0.0476183800970667
+        },
+        {
+            "source": "GABA",
+            "target": "haemorrhage intracranial",
+            "value": 0.00595374457415986
+        },
+        {
+            "source": "GABA",
+            "target": "hypermagnesaemia",
+            "value": 0.000406599576760037
+        },
+        {
+            "source": "GABA",
+            "target": "aching muscles",
+            "value": 0.0269101238582126
+        },
+        {
+            "source": "GABA",
+            "target": "haemangioma of liver",
+            "value": 0.0121634676693999
+        },
+        {
+            "source": "GABA",
+            "target": "accommodation disorder",
+            "value": 0.00048347655995462
+        },
+        {
+            "source": "GABA",
+            "target": "cerebral ischaemia",
+            "value": 0.000162464927732901
+        },
+        {
+            "source": "GABA",
+            "target": "early morning awakening",
+            "value": 0.000103128018946127
+        },
+        {
+            "source": "leucovorin",
+            "target": "atelectasis",
+            "value": 0.00213589606559894
+        },
+        {
+            "source": "leucovorin",
+            "target": "cutaneous candidiasis",
+            "value": 0.012499460092378
+        },
+        {
+            "source": "leucovorin",
+            "target": "chronic ulcerative colitis",
+            "value": 0.00377655124562045
+        },
+        {
+            "source": "leucovorin",
+            "target": "hepatorenal failure",
+            "value": 0.00127789152403157
+        },
+        {
+            "source": "leucovorin",
+            "target": "hydronephrosis",
+            "value": 0.000691287358225433
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood sodium increased",
+            "value": 0.0139771352147616
+        },
+        {
+            "source": "leucovorin",
+            "target": "body temperature",
+            "value": 0.0162780561211156
+        },
+        {
+            "source": "leucovorin",
+            "target": "laryngeal neoplasia",
+            "value": 0.000684743697402958
+        },
+        {
+            "source": "leucovorin",
+            "target": "neoplasia",
+            "value": 0.0247140289748115
+        },
+        {
+            "source": "leucovorin",
+            "target": "formication",
+            "value": 0.000738133462453694
+        },
+        {
+            "source": "leucovorin",
+            "target": "priapism",
+            "value": 0.00338118733476486
+        },
+        {
+            "source": "leucovorin",
+            "target": "Detached retina",
+            "value": 0.00809291477435202
+        },
+        {
+            "source": "leucovorin",
+            "target": "rupture of spleen",
+            "value": 0.00182661636809939
+        },
+        {
+            "source": "leucovorin",
+            "target": "Supraventricular tachycardia",
+            "value": 0.00238085072025116
+        },
+        {
+            "source": "leucovorin",
+            "target": "tetany",
+            "value": 0.0197708214652485
+        },
+        {
+            "source": "leucovorin",
+            "target": "antinuclear antibody",
+            "value": 0.0200352289886434
+        },
+        {
+            "source": "leucovorin",
+            "target": "haemorrhage intracranial",
+            "value": 0.029921681252692
+        },
+        {
+            "source": "leucovorin",
+            "target": "hypermagnesaemia",
+            "value": 0.00338118733476486
+        },
+        {
+            "source": "leucovorin",
+            "target": "intestinal ulcer",
+            "value": 0.000336970305065353
+        },
+        {
+            "source": "leucovorin",
+            "target": "hydroureter",
+            "value": 0.000272596139625284
+        },
+        {
+            "source": "PGE2",
+            "target": "meningeal irritation",
+            "value": 0.00437577921337017
+        },
+        {
+            "source": "PGE2",
+            "target": "aching muscles",
+            "value": 0.00701479661310256
+        },
+        {
+            "source": "prostacyclin",
+            "target": "alopecia",
+            "value": 0.0380408869655656
+        },
+        {
+            "source": "prostacyclin",
+            "target": "colitis",
+            "value": 0.00556102796593684
+        },
+        {
+            "source": "prostacyclin",
+            "target": "contact dermatitis",
+            "value": 0.000367886836714165
+        },
+        {
+            "source": "prostacyclin",
+            "target": "brain oedema",
+            "value": 0.00197758524930246
+        },
+        {
+            "source": "prostacyclin",
+            "target": "Endometrial hyperplasia",
+            "value": 0.000550222814854873
+        },
+        {
+            "source": "prostacyclin",
+            "target": "burn oesophageal",
+            "value": 0.00501178877778437
+        },
+        {
+            "source": "prostacyclin",
+            "target": "asystole",
+            "value": 0.0152049096484294
+        },
+        {
+            "source": "prostacyclin",
+            "target": "hematoma subdural",
+            "value": 0.000293445215199265
+        },
+        {
+            "source": "prostacyclin",
+            "target": "bile duct obstruction",
+            "value": 0.000303289527699739
+        },
+        {
+            "source": "prostacyclin",
+            "target": "blood calcium",
+            "value": 0.000206946967577568
+        },
+        {
+            "source": "prostacyclin",
+            "target": "black stools",
+            "value": 0.0087400196251601
+        },
+        {
+            "source": "prostacyclin",
+            "target": "psoriasis",
+            "value": 0.0291554734816628
+        },
+        {
+            "source": "prostacyclin",
+            "target": "aphthous stomatitis",
+            "value": 0.000881798890253191
+        },
+        {
+            "source": "prostacyclin",
+            "target": "tachycardia ventricular",
+            "value": 0.00285220868768721
+        },
+        {
+            "source": "prostacyclin",
+            "target": "encephalopathy",
+            "value": 0.000139076848701141
+        },
+        {
+            "source": "prostacyclin",
+            "target": "bleeding Vaginal",
+            "value": 0.000101813420798306
+        },
+        {
+            "source": "prostacyclin",
+            "target": "esophageal ulcer",
+            "value": 0.00621659923429578
+        },
+        {
+            "source": "prostacyclin",
+            "target": "Adenopathy",
+            "value": 0.000182172579868512
+        },
+        {
+            "source": "adenosine",
+            "target": "Arrhythmia",
+            "value": 0.00251447980946614
+        },
+        {
+            "source": "adenosine",
+            "target": "arthritis",
+            "value": 0.000188490349260133
+        },
+        {
+            "source": "adenosine",
+            "target": "cerebellar ataxia",
+            "value": 0.0108479749687492
+        },
+        {
+            "source": "adenosine",
+            "target": "acute brain syndrome",
+            "value": 0.000798033914025963
+        },
+        {
+            "source": "adenosine",
+            "target": "dizziness",
+            "value": 0.00443818146290627
+        },
+        {
+            "source": "adenosine",
+            "target": "fatty liver",
+            "value": 0.0421121300159677
+        },
+        {
+            "source": "adenosine",
+            "target": "gout",
+            "value": 0.0143872473207094
+        },
+        {
+            "source": "adenosine",
+            "target": "cardiac enlargement",
+            "value": 0.00301593311417905
+        },
+        {
+            "source": "adenosine",
+            "target": "atrial septal defect",
+            "value": 0.000632821246540234
+        },
+        {
+            "source": "adenosine",
+            "target": "enlarged liver",
+            "value": 0.00691081974764005
+        },
+        {
+            "source": "adenosine",
+            "target": "Hypotension Orthostatic",
+            "value": 0.000353228176440247
+        },
+        {
+            "source": "adenosine",
+            "target": "breast cellulitis",
+            "value": 0.042130649859279
+        },
+        {
+            "source": "adenosine",
+            "target": "movement disorder",
+            "value": 0.0359133229871782
+        },
+        {
+            "source": "adenosine",
+            "target": "nervous tension",
+            "value": 0.00247429534481349
+        },
+        {
+            "source": "adenosine",
+            "target": "Neurosis",
+            "value": 0.0148218859254449
+        },
+        {
+            "source": "adenosine",
+            "target": "agitated",
+            "value": 0.0466565071864433
+        },
+        {
+            "source": "adenosine",
+            "target": "abnormal EEG",
+            "value": 0.000200091831132087
+        },
+        {
+            "source": "adenosine",
+            "target": "Cardiac ischemia",
+            "value": 0.0166628495921012
+        },
+        {
+            "source": "adenosine",
+            "target": "pigmentation disorder",
+            "value": 0.00289044991496738
+        },
+        {
+            "source": "galactose",
+            "target": "Candida Infection",
+            "value": 0.000776018225991483
+        },
+        {
+            "source": "galactose",
+            "target": "corneal disorder",
+            "value": 0.0100574424292117
+        },
+        {
+            "source": "galactose",
+            "target": "arteriosclerotic heart disease",
+            "value": 0.000455295215844373
+        },
+        {
+            "source": "galactose",
+            "target": "ecchymoses",
+            "value": 0.0193737635557591
+        },
+        {
+            "source": "galactose",
+            "target": "Eosinophil Count Increased",
+            "value": 0.00416116286798197
+        },
+        {
+            "source": "galactose",
+            "target": "gangrene",
+            "value": 0.00571863344422361
+        },
+        {
+            "source": "galactose",
+            "target": "Cardiac decompensation",
+            "value": 0.000175754367250712
+        },
+        {
+            "source": "galactose",
+            "target": "hemiplegia",
+            "value": 0.0214022977603401
+        },
+        {
+            "source": "galactose",
+            "target": "hemothorax",
+            "value": 0.000186691743913504
+        },
+        {
+            "source": "galactose",
+            "target": "hepatitis",
+            "value": 0.000148446542935684
+        },
+        {
+            "source": "galactose",
+            "target": "corneal oedema",
+            "value": 0.0100574424292117
+        },
+        {
+            "source": "galactose",
+            "target": "Acute myeloblastic leukemia",
+            "value": 0.00318526581772773
+        },
+        {
+            "source": "galactose",
+            "target": "disseminated lupus erythematosus",
+            "value": 0.021700749447022
+        },
+        {
+            "source": "galactose",
+            "target": "breast cellulitis",
+            "value": 0.00254730419343286
+        },
+        {
+            "source": "galactose",
+            "target": "movement disorder",
+            "value": 0.0129343033108974
+        },
+        {
+            "source": "galactose",
+            "target": "myelitis",
+            "value": 0.00152067209424841
+        },
+        {
+            "source": "galactose",
+            "target": "Ovarian cancer",
+            "value": 0.00297371569790803
+        },
+        {
+            "source": "galactose",
+            "target": "Phlebitis",
+            "value": 0.0428592874345834
+        },
+        {
+            "source": "galactose",
+            "target": "psychoses",
+            "value": 0.000346117124680625
+        },
+        {
+            "source": "galactose",
+            "target": "Nodule Skin",
+            "value": 0.00611149835164303
+        },
+        {
+            "source": "galactose",
+            "target": "aphthous stomatitis",
+            "value": 0.00319901148479524
+        },
+        {
+            "source": "galactose",
+            "target": "thyroid disease",
+            "value": 0.0164296839573699
+        },
+        {
+            "source": "galactose",
+            "target": "angiopathy",
+            "value": 0.0331914933640356
+        },
+        {
+            "source": "galactose",
+            "target": "angiitis",
+            "value": 0.00110771067440345
+        },
+        {
+            "source": "galactose",
+            "target": "chill",
+            "value": 0.00137704144041126
+        },
+        {
+            "source": "galactose",
+            "target": "Hypophosphataemia",
+            "value": 0.00207736607245449
+        },
+        {
+            "source": "galactose",
+            "target": "Cardiac ischemia",
+            "value": 0.0158055533730597
+        },
+        {
+            "source": "galactose",
+            "target": "depigmentation",
+            "value": 0.00152151780713307
+        },
+        {
+            "source": "galactose",
+            "target": "eosinophilic pneumonia",
+            "value": 0.00759101389161324
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "atrioventricular block",
+            "value": 0.00216918245159308
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "Decreased Libido",
+            "value": 0.00147069340377968
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "duodenal ulcer",
+            "value": 0.0351947860771316
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "erythema multiforme",
+            "value": 0.00287074102098568
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "herpes zoster",
+            "value": 0.000515261499224618
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "heart attack",
+            "value": 0.0351834494350947
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "thrombotic microangiopathy",
+            "value": 0.00623434119309076
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "Supraventricular tachycardia",
+            "value": 0.000120362750405075
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "Thrombophlebitis",
+            "value": 0.00305108201325173
+        },
+        {
+            "source": "prostaglandin E1",
+            "target": "Extrasystoles Ventricular",
+            "value": 0.0279149831340065
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "albuminuria",
+            "value": 0.00275026569169813
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "alopecia",
+            "value": 0.0221869346406013
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "aortic stenosis",
+            "value": 0.00698426094653568
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "atrial flutter",
+            "value": 0.00245806925237934
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "atrioventricular block",
+            "value": 0.0166357656030766
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "diarrhea",
+            "value": 0.00150711026357429
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "drowsiness",
+            "value": 0.000504276371133035
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "ecchymoses",
+            "value": 0.000150277401152177
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "blood in urine",
+            "value": 0.000591264823913061
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "blood glucose",
+            "value": 0.0016271210693794
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "hyperlipaemia",
+            "value": 0.017112644298849
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "Hypotension Orthostatic",
+            "value": 0.0120935363556618
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "body temperature",
+            "value": 0.0136840453574848
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "acute kidney failure",
+            "value": 0.0347481376848397
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "disease of liver",
+            "value": 0.000583952751259045
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "periodontitis",
+            "value": 0.00280241649671616
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "Pleural Effusion",
+            "value": 0.0127976152693172
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "neumonia",
+            "value": 0.00170819528620245
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "polyuria",
+            "value": 0.0180067864060711
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "pyelonephritis",
+            "value": 0.0164060487203847
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "pyuria",
+            "value": 0.00468184317394643
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "synovitis",
+            "value": 0.00536054593926225
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "intention tremor",
+            "value": 0.0395856127812334
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "intraocular inflammation",
+            "value": 0.00383042743378061
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "phlebothrombosis",
+            "value": 0.0108285323380331
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "mouth ulcer",
+            "value": 0.00441286986017932
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "antinuclear antibody",
+            "value": 0.000190704966818071
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "iron deficiency anaemia",
+            "value": 0.0043603953193923
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "haemorrhage rectum",
+            "value": 0.00487422558012922
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "dry eye",
+            "value": 0.00223386573918459
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "accommodation disorder",
+            "value": 0.000763375847294575
+        },
+        {
+            "source": "ascorbic acid",
+            "target": "Adenopathy",
+            "value": 0.000600119656197864
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "deglutition disorder",
+            "value": 0.0423547436617198
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "duodenal ulcer",
+            "value": 0.000121236205053315
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "blood glucose decreased",
+            "value": 0.000205813061150987
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "acute leukaemia",
+            "value": 0.00100181212783924
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "OPTIC NEURITIS",
+            "value": 0.00443680732600924
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "proctitis",
+            "value": 0.0206134041014943
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "henoch-schonlein purpura",
+            "value": 0.0146769259893597
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "burning sensation mucosal",
+            "value": 0.00088323923328206
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "thyroid disease",
+            "value": 0.000374556176546895
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "phlebothrombosis",
+            "value": 0.0195743359912141
+        },
+        {
+            "source": "adenosine triphosphate",
+            "target": "spinning sensation",
+            "value": 0.00143313392371581
+        },
+        {
+            "source": "biotin",
+            "target": "Arrhythmia",
+            "value": 0.000103997612742951
+        },
+        {
+            "source": "biotin",
+            "target": "cerebral vascular disorder",
+            "value": 0.00042108836407333
+        },
+        {
+            "source": "biotin",
+            "target": "constipated",
+            "value": 0.00010845759694973
+        },
+        {
+            "source": "biotin",
+            "target": "dermatomyositis",
+            "value": 0.00712311051984745
+        },
+        {
+            "source": "biotin",
+            "target": "herpes zoster",
+            "value": 0.00230414736730587
+        },
+        {
+            "source": "biotin",
+            "target": "blood cholesterol",
+            "value": 0.000493940178829008
+        },
+        {
+            "source": "biotin",
+            "target": "pharyngeal inflammation",
+            "value": 0.0153744907860625
+        },
+        {
+            "source": "biotin",
+            "target": "Phlebitis",
+            "value": 0.000384586749597864
+        },
+        {
+            "source": "biotin",
+            "target": "lung edema",
+            "value": 0.00765446586241742
+        },
+        {
+            "source": "biotin",
+            "target": "Sinusitis",
+            "value": 0.000329687575970666
+        },
+        {
+            "source": "biotin",
+            "target": "thyroid neoplasia",
+            "value": 0.0498540953799606
+        },
+        {
+            "source": "biotin",
+            "target": "Hepatic failure",
+            "value": 0.000756484466428648
+        },
+        {
+            "source": "biotin",
+            "target": "deep vein thromboses",
+            "value": 0.00352977189521553
+        },
+        {
+            "source": "biotin",
+            "target": "Aspartate Aminotransferase Increase",
+            "value": 0.000155740653068342
+        },
+        {
+            "source": "biotin",
+            "target": "dry skin",
+            "value": 0.0157289545595499
+        },
+        {
+            "source": "biotin",
+            "target": "iron deficiency anaemia",
+            "value": 0.02650036769841
+        },
+        {
+            "source": "biotin",
+            "target": "early morning awakening",
+            "value": 0.00230931120229385
+        },
+        {
+            "source": "calcium",
+            "target": "blepharitis",
+            "value": 0.00588342007020573
+        },
+        {
+            "source": "calcium",
+            "target": "chest pain",
+            "value": 0.00378191273095114
+        },
+        {
+            "source": "calcium",
+            "target": "bile duct stone",
+            "value": 0.00428205780157802
+        },
+        {
+            "source": "calcium",
+            "target": "colitis",
+            "value": 0.000116540497005959
+        },
+        {
+            "source": "calcium",
+            "target": "conjunctival deposit",
+            "value": 0.000454214397563617
+        },
+        {
+            "source": "calcium",
+            "target": "arteriosclerotic heart disease",
+            "value": 0.000226589262491545
+        },
+        {
+            "source": "calcium",
+            "target": "dysuria",
+            "value": 0.000840554164201078
+        },
+        {
+            "source": "calcium",
+            "target": "enteritis",
+            "value": 0.0130462537306004
+        },
+        {
+            "source": "calcium",
+            "target": "belching",
+            "value": 0.00206012747010632
+        },
+        {
+            "source": "calcium",
+            "target": "breast dysplasia",
+            "value": 0.0082635027427011
+        },
+        {
+            "source": "calcium",
+            "target": "asystole",
+            "value": 0.00490149292088122
+        },
+        {
+            "source": "calcium",
+            "target": "hydronephrosis",
+            "value": 0.00126961135119856
+        },
+        {
+            "source": "calcium",
+            "target": "Blood Calcium Increased",
+            "value": 0.0248889749310708
+        },
+        {
+            "source": "calcium",
+            "target": "Excess potassium",
+            "value": 0.0486027381481302
+        },
+        {
+            "source": "calcium",
+            "target": "salivary gland enlargement",
+            "value": 0.0241664983356891
+        },
+        {
+            "source": "calcium",
+            "target": "intestinal perforation",
+            "value": 0.00480748294401294
+        },
+        {
+            "source": "calcium",
+            "target": "iritis",
+            "value": 0.000855756618422572
+        },
+        {
+            "source": "calcium",
+            "target": "laryngeal inflammation",
+            "value": 0.00104985153810699
+        },
+        {
+            "source": "calcium",
+            "target": "hepatic neoplasia",
+            "value": 0.00420521759540891
+        },
+        {
+            "source": "calcium",
+            "target": "movement disorder",
+            "value": 0.020723931512803
+        },
+        {
+            "source": "calcium",
+            "target": "heart attack",
+            "value": 0.000110548405224756
+        },
+        {
+            "source": "calcium",
+            "target": "pancreatitis",
+            "value": 0.000501986508166756
+        },
+        {
+            "source": "calcium",
+            "target": "gastroduodenal ulcer",
+            "value": 0.0272505967264148
+        },
+        {
+            "source": "calcium",
+            "target": "pericardial effusion",
+            "value": 0.000248799748707523
+        },
+        {
+            "source": "calcium",
+            "target": "periodontitis",
+            "value": 0.000170450322914131
+        },
+        {
+            "source": "calcium",
+            "target": "Pleural Effusion",
+            "value": 0.0119562020390972
+        },
+        {
+            "source": "calcium",
+            "target": "pyelonephritis",
+            "value": 0.00767660874330334
+        },
+        {
+            "source": "calcium",
+            "target": "sarcoidosis",
+            "value": 0.00334253965118336
+        },
+        {
+            "source": "calcium",
+            "target": "apoplexy",
+            "value": 0.000190142403052138
+        },
+        {
+            "source": "calcium",
+            "target": "subarachnoid haemorrhage",
+            "value": 0.00366146314675054
+        },
+        {
+            "source": "calcium",
+            "target": "thyroid disease",
+            "value": 0.00369258140769386
+        },
+        {
+            "source": "calcium",
+            "target": "thyroid neoplasia",
+            "value": 0.00984343288591317
+        },
+        {
+            "source": "calcium",
+            "target": "intraocular inflammation",
+            "value": 0.00649839965185426
+        },
+        {
+            "source": "calcium",
+            "target": "micturition urgency",
+            "value": 0.00238385730771574
+        },
+        {
+            "source": "calcium",
+            "target": "sinus bradycardia",
+            "value": 0.00104301974415197
+        },
+        {
+            "source": "calcium",
+            "target": "hyperphosphataemia",
+            "value": 0.049598919799164
+        },
+        {
+            "source": "calcium",
+            "target": "hypermagnesaemia",
+            "value": 0.000582950147576104
+        },
+        {
+            "source": "calcium",
+            "target": "bacterial toxaemia",
+            "value": 0.000163713771563333
+        },
+        {
+            "source": "calcium",
+            "target": "carcinoma of the cervix",
+            "value": 0.0241664983356891
+        },
+        {
+            "source": "calcium",
+            "target": "abnormal ECG",
+            "value": 0.0205289003451016
+        },
+        {
+            "source": "calcium",
+            "target": "kidney pain",
+            "value": 0.000144597676570641
+        },
+        {
+            "source": "calcium",
+            "target": "blood uric acid",
+            "value": 0.00063566511846007
+        },
+        {
+            "source": "calcium",
+            "target": "granulomatous liver disease",
+            "value": 0.00980197759447691
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "Amnesia",
+            "value": 0.000116272646841188
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "Anxiety",
+            "value": 0.0162228830450896
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "atelectasis",
+            "value": 0.00348942796266695
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "cerebral haemorrhage",
+            "value": 0.0424348722904499
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "corneal ulcer",
+            "value": 0.000418786511479198
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "deglutition disorder",
+            "value": 0.000349497821071815
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "abnormal movements",
+            "value": 0.0338544064981918
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "dyspepsia",
+            "value": 0.000267873733507724
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "fib",
+            "value": 0.00142219354608526
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "gastrointestinal bleed",
+            "value": 0.00564370256482104
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "aura",
+            "value": 0.00256994369379418
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "hematoma subdural",
+            "value": 0.000591606757531645
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "fungal disease",
+            "value": 0.000185675620930039
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "nervous tension",
+            "value": 0.0169079894134712
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "Disorder Retinal",
+            "value": 0.00588150076351181
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "aphthous stomatitis",
+            "value": 0.00677798444536405
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "Infection Urinary Tract",
+            "value": 0.00874563386950966
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "esophageal ulcer",
+            "value": 0.0336699430124378
+        },
+        {
+            "source": "chloramphenicol",
+            "target": "depigmentation",
+            "value": 0.000499617331373441
+        },
+        {
+            "source": "cholesterol",
+            "target": "angioedema",
+            "value": 0.0377618330823822
+        },
+        {
+            "source": "cholesterol",
+            "target": "dyspepsia",
+            "value": 0.000878213985142694
+        },
+        {
+            "source": "cholesterol",
+            "target": "glaucoma",
+            "value": 0.00591301066955144
+        },
+        {
+            "source": "cholesterol",
+            "target": "cardiac failure",
+            "value": 0.0240127654465524
+        },
+        {
+            "source": "cholesterol",
+            "target": "hypokalaemia",
+            "value": 0.0034397785988144
+        },
+        {
+            "source": "cholesterol",
+            "target": "disseminated lupus erythematosus",
+            "value": 0.00596982345496584
+        },
+        {
+            "source": "cholesterol",
+            "target": "fat tissue increased",
+            "value": 0.000840237031785072
+        },
+        {
+            "source": "cholesterol",
+            "target": "emesis",
+            "value": 0.00058870971334759
+        },
+        {
+            "source": "cholesterol",
+            "target": "migraine",
+            "value": 0.0373896013047137
+        },
+        {
+            "source": "cholesterol",
+            "target": "bone pain",
+            "value": 0.00425748869968417
+        },
+        {
+            "source": "cholesterol",
+            "target": "Carcinoma of Prostate",
+            "value": 0.000471127789704362
+        },
+        {
+            "source": "chloride",
+            "target": "AFIB",
+            "value": 0.00377761389226492
+        },
+        {
+            "source": "chloride",
+            "target": "atrial flutter",
+            "value": 0.00534675488432073
+        },
+        {
+            "source": "chloride",
+            "target": "abnormal movements",
+            "value": 0.0327987651045494
+        },
+        {
+            "source": "chloride",
+            "target": "epididymitis",
+            "value": 0.000417737235062041
+        },
+        {
+            "source": "chloride",
+            "target": "Bleeding gums",
+            "value": 0.00138290958852419
+        },
+        {
+            "source": "chloride",
+            "target": "goiter",
+            "value": 0.0451435533420057
+        },
+        {
+            "source": "chloride",
+            "target": "asystole",
+            "value": 0.0179921410124297
+        },
+        {
+            "source": "chloride",
+            "target": "meningitides",
+            "value": 0.000839292936419151
+        },
+        {
+            "source": "chloride",
+            "target": "movement disorder",
+            "value": 0.000452288120540132
+        },
+        {
+            "source": "chloride",
+            "target": "kidney failure",
+            "value": 0.00350108733558111
+        },
+        {
+            "source": "chloride",
+            "target": "spinning sensation",
+            "value": 0.00140360911432461
+        },
+        {
+            "source": "chloride",
+            "target": "vocal cord paralysis",
+            "value": 0.0117718343389194
+        },
+        {
+            "source": "salicylate",
+            "target": "agraphia",
+            "value": 0.00546010890927187
+        },
+        {
+            "source": "salicylate",
+            "target": "coma",
+            "value": 0.0277394950291243
+        },
+        {
+            "source": "salicylate",
+            "target": "constipated",
+            "value": 0.000594506276643721
+        },
+        {
+            "source": "salicylate",
+            "target": "dermatitis exfoliative",
+            "value": 0.0103248429045407
+        },
+        {
+            "source": "salicylate",
+            "target": "diabetes insipidus",
+            "value": 0.000522333860745118
+        },
+        {
+            "source": "salicylate",
+            "target": "encephalitis",
+            "value": 0.0039492961928069
+        },
+        {
+            "source": "salicylate",
+            "target": "esophageal stenosis",
+            "value": 0.000319707121542401
+        },
+        {
+            "source": "salicylate",
+            "target": "cardiac failure",
+            "value": 0.00120994563163652
+        },
+        {
+            "source": "salicylate",
+            "target": "bile duct obstruction",
+            "value": 0.00410434920966701
+        },
+        {
+            "source": "salicylate",
+            "target": "body temperature",
+            "value": 0.0190314166938829
+        },
+        {
+            "source": "salicylate",
+            "target": "aspiration pneumonia",
+            "value": 0.00030580897059756
+        },
+        {
+            "source": "salicylate",
+            "target": "pneumothorax",
+            "value": 0.0130539542578542
+        },
+        {
+            "source": "salicylate",
+            "target": "ventricular fibrillation",
+            "value": 0.000323818322890848
+        },
+        {
+            "source": "salicylate",
+            "target": "antinuclear antibody",
+            "value": 0.026202177658475
+        },
+        {
+            "source": "salicylate",
+            "target": "haemorrhage intracranial",
+            "value": 0.00659417483894753
+        },
+        {
+            "source": "salicylate",
+            "target": "duodenal ulcer perforation",
+            "value": 0.00312971686757981
+        },
+        {
+            "source": "aspartate",
+            "target": "atrioventricular block",
+            "value": 0.00483793960189704
+        },
+        {
+            "source": "aspartate",
+            "target": "blepharoptosis",
+            "value": 0.0405880885533223
+        },
+        {
+            "source": "aspartate",
+            "target": "coma",
+            "value": 0.00577764854857373
+        },
+        {
+            "source": "aspartate",
+            "target": "Eosinophil Count Increased",
+            "value": 0.00240591474191948
+        },
+        {
+            "source": "aspartate",
+            "target": "facial palsy",
+            "value": 0.00538040693688471
+        },
+        {
+            "source": "aspartate",
+            "target": "gastrointestinal bleed",
+            "value": 0.0235293657629792
+        },
+        {
+            "source": "aspartate",
+            "target": "body temperature",
+            "value": 0.0165189671287589
+        },
+        {
+            "source": "aspartate",
+            "target": "Disorder Lung",
+            "value": 0.0459727188619156
+        },
+        {
+            "source": "aspartate",
+            "target": "neoplasia",
+            "value": 0.0168320866524659
+        },
+        {
+            "source": "aspartate",
+            "target": "scotoma",
+            "value": 0.00444530349672996
+        },
+        {
+            "source": "aspartate",
+            "target": "thyroid disease",
+            "value": 0.000679997590089284
+        },
+        {
+            "source": "aspartate",
+            "target": "sinus bradycardia",
+            "value": 0.0168574988436013
+        },
+        {
+            "source": "aspartate",
+            "target": "Breast cancer",
+            "value": 0.00382184036803028
+        },
+        {
+            "source": "bupropion",
+            "target": "adenoma",
+            "value": 0.0285129102508535
+        },
+        {
+            "source": "bupropion",
+            "target": "angioedema",
+            "value": 0.0115400607642363
+        },
+        {
+            "source": "bupropion",
+            "target": "arteriosclerosis",
+            "value": 0.000434399837714441
+        },
+        {
+            "source": "bupropion",
+            "target": "candidiasis of vagina",
+            "value": 0.00076106154799938
+        },
+        {
+            "source": "bupropion",
+            "target": "cerebral vascular disorder",
+            "value": 0.000106120122180051
+        },
+        {
+            "source": "bupropion",
+            "target": "patent ductus arteriosis",
+            "value": 0.0474825820718478
+        },
+        {
+            "source": "bupropion",
+            "target": "enteritis",
+            "value": 0.0242027303320331
+        },
+        {
+            "source": "bupropion",
+            "target": "gout",
+            "value": 0.0001100641063748
+        },
+        {
+            "source": "bupropion",
+            "target": "blood in urine",
+            "value": 0.0354455980244562
+        },
+        {
+            "source": "bupropion",
+            "target": "oral neoplasm",
+            "value": 0.000168269039921313
+        },
+        {
+            "source": "bupropion",
+            "target": "neoplasia",
+            "value": 0.00378611722101784
+        },
+        {
+            "source": "bupropion",
+            "target": "calcinosis",
+            "value": 0.000564044667738473
+        },
+        {
+            "source": "bupropion",
+            "target": "neumonia",
+            "value": 0.00409897562513188
+        },
+        {
+            "source": "bupropion",
+            "target": "pneumothorax",
+            "value": 0.0375353140829027
+        },
+        {
+            "source": "bupropion",
+            "target": "atrial ectopic beats",
+            "value": 0.00225058145162228
+        },
+        {
+            "source": "bupropion",
+            "target": "neoplasm prostate",
+            "value": 0.0169752328801216
+        },
+        {
+            "source": "bupropion",
+            "target": "scotoma",
+            "value": 0.00507207205960261
+        },
+        {
+            "source": "bupropion",
+            "target": "salivary gland inflammation",
+            "value": 0.000894322526184666
+        },
+        {
+            "source": "bupropion",
+            "target": "aphthous stomatitis",
+            "value": 0.000603287600552457
+        },
+        {
+            "source": "bupropion",
+            "target": "binocular eye movement disorder",
+            "value": 0.00749366505225485
+        },
+        {
+            "source": "bupropion",
+            "target": "Tenosynovitis",
+            "value": 0.00027802024533828
+        },
+        {
+            "source": "bupropion",
+            "target": "uterine bleeding",
+            "value": 0.00449306233136802
+        },
+        {
+            "source": "bupropion",
+            "target": "Colpitis",
+            "value": 0.000125149107047102
+        },
+        {
+            "source": "bupropion",
+            "target": "Infection Viral",
+            "value": 0.0144473825716219
+        },
+        {
+            "source": "bupropion",
+            "target": "Extrasystoles Ventricular",
+            "value": 0.000153977440332134
+        },
+        {
+            "source": "bupropion",
+            "target": "Aspartate Aminotransferase Increase",
+            "value": 0.0258147660144465
+        }
+    ]
+}

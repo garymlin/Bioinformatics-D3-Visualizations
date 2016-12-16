@@ -15,10 +15,10 @@ We conclude that confounding effects from covariates in observational clinical d
 This is a graph of nodes that links drugs and reactions.  Multiple drugs can share similar reactions, graphically showing intersection relationships among drug reactions.
 
 ### Data-set
-We have four different views based on the number of data points we started with.  After our filtering and sanitization, the amount of good data points are significantly fewer than what we started with.  We used datasets that originally had 1500, 2000, 5000, and 10000 points.
+This graph uses the off-sides dataset.  We have four different views based on the number of data points we started with.  After our filtering and sanitization, the amount of good data points are significantly fewer than what we started with.  We used datasets that originally had 1,500, 2,000, 5,000, and 10,000 points.
 
 ## Adjacency-Matrix
-
+This graph uses the two-sides dataset.  This graph shows drug-drug-effect relationships, where the rows and columns are both organized by ATC values.  
 
 # Data Sources
 

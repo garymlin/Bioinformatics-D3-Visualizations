@@ -1,4 +1,4 @@
-# Bioinformatics-D3-Visualizations
+# Bioinformatics D3 Visualizations
 
 # Background
 Data-Driven Prediction of Drug Effects and Interactions (by Prof Tatonetti et al)
@@ -9,12 +9,14 @@ We also present a comprehensive database of drug effects (OFFSIDES) and a databa
 We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.
 
 
-# Offsides
+# Data Sources
+
+## Offsides
 Drug side effects were mined from publicly available data. Offsides is a database of drug side-effects that were found, but are not listed on the official FDA label.
 Links drugs to adverse reactions
 
-# Twosides
+## Twosides
 Drug interactions were mined from publicly available sources. Twosides is the only comprehensive database drug-drug-effect relationships.
 
-# Download link
+## Download link
 http://tatonettilab.org/resources.html

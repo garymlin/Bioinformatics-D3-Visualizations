@@ -42,13 +42,23 @@ json_data=open(doc1).read()
 
 data = json.loads(json_data)
 
-hello ={}
+atc_to_num = {}
+atc_num = 1
+
 count = 0
 for line in data['nodes']:
   stitch = drug_to_stitch[line["name"]]
   atc = stitch_to_ATC[stitch]
   line["ATC"] = atc
+  if atc not in atc_to_num:
+    atc_to_num[atc] = atc_num
+    line["ATC-num"] = atc_num
+    atc_num = atc_num + 1
+    print atc
+  else:
+    line["ATC-num"] = atc_to_num[atc]
   nodes_final.append(line)
+print atc_num
 # print nodes_final
 
 

@@ -19,6 +19,18 @@ def fd():
 def fd_every_10():
     return render_template('force-directed-every-10.html', api_data=[])
 
+@app.route('/fd-1500')
+def fd_1500():
+    return render_template('force-directed-1500.html', api_data=[])
+
+@app.route('/fd-5000')
+def fd_5000():
+    return render_template('force-directed-5000.html', api_data=[])
+
+@app.route('/fd-10000')
+def fd_10000():
+    return render_template('force-directed-10000.html', api_data=[])
+
 # COLORED MATRIX 
 @app.route('/matrix')
 def matrix():
@@ -61,6 +73,25 @@ def fd_json_offsides_first_1500():
 @app.route('/drugs_effects_offsides_first10000.json')
 def fd_json_offsides_first_10000():
     return render_template('drugs_effects_offsides_first10000.json', api_data=[])
+
+
+@app.route('/final-2000.json')
+def fd_json_offsides_final_2000():
+    return render_template('final-2000.json', api_data=[])
+
+@app.route('/final-1500.json')
+def fd_json_offsides_final_1500():
+    return render_template('final-1500.json', api_data=[])
+
+@app.route('/final-5000.json')
+def fd_json_offsides_final_5000():
+    return render_template('final-5000.json', api_data=[])
+
+@app.route('/final-10000.json')
+def fd_json_offsides_final_10000():
+    return render_template('final-10000.json', api_data=[])
+
+
 
 @app.route('/drugs_effects_twosides_first1500.json')
 def matrix_json_twosides_first_1500():

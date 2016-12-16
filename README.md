@@ -9,6 +9,17 @@ We also present a comprehensive database of drug effects (OFFSIDES) and a databa
 We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.
 
 
+# Graphs
+
+## Force-Directed
+This is a graph of nodes that links drugs and reactions.  Multiple drugs can share similar reactions, graphically showing intersection relationships among drug reactions.
+
+### Data-set
+We have four different views based on the number of data points we started with.  After our filtering and sanitization, the amount of good data points are significantly fewer than what we started with.  We used datasets that originally had 1500, 2000, 5000, and 10000 points.
+
+## Adjacency-Matrix
+
+
 # Data Sources
 
 ## Offsides

@@ -1,0 +1,5728 @@
+{
+    "nodes": [
+        {
+            "group": 1,
+            "id": "dehydroepiandrosterone",
+            "name": "dehydroepiandrosterone"
+        },
+        {
+            "group": 3,
+            "id": "hyperadrenalism"
+        },
+        {
+            "group": 4,
+            "id": "adrenal insufficiency"
+        },
+        {
+            "group": 5,
+            "id": "anaphylactic reaction",
+            "name": "anaphylactic reaction"
+        },
+        {
+            "group": 6,
+            "id": "aneurysm"
+        },
+        {
+            "group": 7,
+            "id": "Anxiety"
+        },
+        {
+            "group": 11,
+            "id": "asthenia"
+        },
+        {
+            "group": 12,
+            "id": "Bacterial infection"
+        },
+        {
+            "group": 13,
+            "id": "bronchitis"
+        },
+        {
+            "group": 14,
+            "id": "cachectic"
+        },
+        {
+            "group": 16,
+            "id": "cerebral infarct"
+        },
+        {
+            "group": 18,
+            "id": "cervical dysplasia"
+        },
+        {
+            "group": 19,
+            "id": "chest pain"
+        },
+        {
+            "group": 20,
+            "id": "abdominal discomfort"
+        },
+        {
+            "group": 21,
+            "id": "Cholangitis sclerosing"
+        },
+        {
+            "group": 22,
+            "id": "cluster headache"
+        },
+        {
+            "group": 23,
+            "id": "chronic ulcerative colitis",
+            "name": "chronic ulcerative colitis"
+        },
+        {
+            "group": 24,
+            "id": "bacterial conjunctivitis"
+        },
+        {
+            "group": 26,
+            "id": "dehydration"
+        },
+        {
+            "group": 27,
+            "id": "diabetes mellitus non-insulin-dependent"
+        },
+        {
+            "group": 30,
+            "id": "cartilage development disorder",
+            "name": "cartilage development disorder"
+        },
+        {
+            "group": 31,
+            "id": "choking sensation"
+        },
+        {
+            "group": 34,
+            "id": "Eosinophil Count Increased"
+        },
+        {
+            "group": 35,
+            "id": "automatism"
+        },
+        {
+            "group": 36,
+            "id": "cardiospasm"
+        },
+        {
+            "group": 38,
+            "id": "female sexual arousal disorder"
+        },
+        {
+            "group": 40,
+            "id": "facial flushing"
+        },
+        {
+            "group": 41,
+            "id": "cardiac flutter"
+        },
+        {
+            "group": 46,
+            "id": "haematochezia"
+        },
+        {
+            "group": 47,
+            "id": "Blood disorder"
+        },
+        {
+            "group": 49,
+            "id": "enlarged liver",
+            "name": "enlarged liver"
+        },
+        {
+            "group": 50,
+            "id": "hernia"
+        },
+        {
+            "group": 51,
+            "id": "Hernia Inguinal"
+        },
+        {
+            "group": 52,
+            "id": "histoplasmosis"
+        },
+        {
+            "group": 53,
+            "id": "hot flash"
+        },
+        {
+            "group": 54,
+            "id": "hypokalaemia"
+        },
+        {
+            "group": 55,
+            "id": "infection"
+        },
+        {
+            "group": 56,
+            "id": "Colon Spastic"
+        },
+        {
+            "group": 57,
+            "id": "bundle branch block left"
+        },
+        {
+            "group": 58,
+            "id": "adrenal neoplasm"
+        },
+        {
+            "group": 59,
+            "id": "lethargy"
+        },
+        {
+            "group": 60,
+            "id": "nausea"
+        },
+        {
+            "group": 61,
+            "id": "nervous tension"
+        },
+        {
+            "group": 62,
+            "id": "leukopenia neonatal"
+        },
+        {
+            "group": 63,
+            "id": "osteoporosis"
+        },
+        {
+            "group": 64,
+            "id": "pancreatic insufficiency"
+        },
+        {
+            "group": 65,
+            "id": "panic disorder"
+        },
+        {
+            "group": 66,
+            "id": "neuropathy peripheral",
+            "name": "neuropathy peripheral"
+        },
+        {
+            "group": 67,
+            "id": "itch"
+        },
+        {
+            "group": 68,
+            "id": "abscess bacterial"
+        },
+        {
+            "group": 70,
+            "id": "cardiogenic shock"
+        },
+        {
+            "group": 72,
+            "id": "hypertonia"
+        },
+        {
+            "group": 73,
+            "id": "aphthous stomatitis"
+        },
+        {
+            "group": 75,
+            "id": "heart rate increased"
+        },
+        {
+            "group": 76,
+            "id": "atrial tachycardia"
+        },
+        {
+            "group": 77,
+            "id": "testes pain"
+        },
+        {
+            "group": 78,
+            "id": "nail tinea"
+        },
+        {
+            "group": 81,
+            "id": "pollakiuria"
+        },
+        {
+            "group": 82,
+            "id": "dermographism",
+            "name": "dermographism"
+        },
+        {
+            "group": 85,
+            "id": "left ventricular hypertrophy"
+        },
+        {
+            "group": 86,
+            "id": "muscle weakness"
+        },
+        {
+            "group": 87,
+            "id": "Irritation Skin",
+            "name": "Irritation Skin"
+        },
+        {
+            "group": 89,
+            "id": "Skin Striae"
+        },
+        {
+            "group": 90,
+            "id": "staphylococcal bacteraemia"
+        },
+        {
+            "group": 91,
+            "id": "pseudomonal sepsis"
+        },
+        {
+            "group": 92,
+            "id": "ankle fracture"
+        },
+        {
+            "group": 93,
+            "id": "joint sprain"
+        },
+        {
+            "group": 94,
+            "id": "iron deficiency anaemia"
+        },
+        {
+            "group": 95,
+            "id": "rotator cuff repair"
+        },
+        {
+            "group": 96,
+            "id": "coronary angioplasty"
+        },
+        {
+            "group": 97,
+            "id": "colon operation"
+        },
+        {
+            "group": 98,
+            "id": "cervical conisation"
+        },
+        {
+            "group": 99,
+            "id": "neuroendocrine carcinoma"
+        },
+        {
+            "group": 100,
+            "id": "cushing's syndrome"
+        },
+        {
+            "group": 101,
+            "id": "depression suicidal",
+            "name": "depression suicidal"
+        },
+        {
+            "group": 103,
+            "id": "increased appetite"
+        },
+        {
+            "group": 105,
+            "id": "judgement impaired"
+        },
+        {
+            "group": 107,
+            "id": "abnormal dreams"
+        },
+        {
+            "group": 108,
+            "id": "euphoric mood"
+        },
+        {
+            "group": 109,
+            "id": "hair texture abnormal"
+        },
+        {
+            "group": 110,
+            "id": "lung infiltration"
+        },
+        {
+            "group": 111,
+            "id": "anxiety disorder"
+        },
+        {
+            "group": 113,
+            "id": "dyslipidaemia"
+        },
+        {
+            "group": 114,
+            "id": "erosive oesophagitis"
+        },
+        {
+            "group": 116,
+            "id": "non-secretory adenoma of pituitary"
+        },
+        {
+            "group": 118,
+            "id": "metastases to peritoneum"
+        },
+        {
+            "group": 119,
+            "id": "injection site urticaria"
+        },
+        {
+            "group": 120,
+            "id": "bradypnoea"
+        },
+        {
+            "group": 121,
+            "id": "transaminases increased"
+        },
+        {
+            "group": 122,
+            "id": "demyelination"
+        },
+        {
+            "group": 123,
+            "id": "haemorrhagic cerebral infarction"
+        },
+        {
+            "group": 125,
+            "id": "non-cardiac chest pain"
+        },
+        {
+            "group": 126,
+            "id": "metastases to liver"
+        },
+        {
+            "group": 128,
+            "id": "accelerated hypertension"
+        },
+        {
+            "group": 130,
+            "id": "application site irritation"
+        },
+        {
+            "group": 131,
+            "id": "application site rash"
+        },
+        {
+            "group": 132,
+            "id": "vaginal mycosis"
+        },
+        {
+            "group": 133,
+            "id": "blood pressure fluctuation"
+        },
+        {
+            "group": 134,
+            "id": "accident at work"
+        },
+        {
+            "group": 135,
+            "id": "plastic surgery"
+        },
+        {
+            "group": 136,
+            "id": "perivascular dermatitis"
+        },
+        {
+            "group": 137,
+            "id": "tonsil cancer"
+        },
+        {
+            "group": 138,
+            "id": "ear disorder"
+        },
+        {
+            "group": 139,
+            "id": "skin haemorrhage"
+        },
+        {
+            "group": 140,
+            "id": "mental impairment"
+        },
+        {
+            "group": 143,
+            "id": "therapeutic response unexpected"
+        },
+        {
+            "group": 144,
+            "id": "biopsy skin"
+        },
+        {
+            "group": 145,
+            "id": "local swelling"
+        },
+        {
+            "group": 146,
+            "id": "application site pruritus"
+        },
+        {
+            "group": 151,
+            "id": "decreased immune responsiveness"
+        },
+        {
+            "group": 152,
+            "id": "spontaneous penile erection"
+        },
+        {
+            "group": 154,
+            "id": "adverse event"
+        },
+        {
+            "group": 155,
+            "id": "application site burn"
+        },
+        {
+            "group": 156,
+            "id": "cerebral ischaemia",
+            "name": "cerebral ischaemia"
+        },
+        {
+            "group": 157,
+            "id": "excessive sleepiness"
+        },
+        {
+            "group": 158,
+            "id": "early morning awakening",
+            "name": "early morning awakening"
+        },
+        {
+            "group": 160,
+            "id": "protein s decreased"
+        },
+        {
+            "group": 161,
+            "id": "nasal mucosal disorder"
+        },
+        {
+            "group": 162,
+            "id": "rhinalgia"
+        },
+        {
+            "group": 165,
+            "id": "musculoskeletal discomfort"
+        },
+        {
+            "group": 167,
+            "id": "application site swelling"
+        },
+        {
+            "group": 168,
+            "id": "enterococcal infection",
+            "name": "enterococcal infection"
+        },
+        {
+            "group": 169,
+            "id": "off label use"
+        },
+        {
+            "group": 171,
+            "id": "dihydrotestosterone decreased"
+        },
+        {
+            "group": 172,
+            "id": "gastric banding"
+        },
+        {
+            "group": 174,
+            "id": "sjogren's syndrome",
+            "name": "sjogren's syndrome"
+        },
+        {
+            "group": 175,
+            "id": "dysphonia",
+            "name": "dysphonia"
+        },
+        {
+            "group": 176,
+            "id": "gastrointestinal inflammation"
+        },
+        {
+            "group": 177,
+            "id": "extrasystoles"
+        },
+        {
+            "group": 179,
+            "id": "crohn's disease"
+        },
+        {
+            "group": 180,
+            "id": "anorectal discomfort"
+        },
+        {
+            "group": 181,
+            "id": "carnitine",
+            "name": "carnitine"
+        },
+        {
+            "group": 182,
+            "id": "anaemia"
+        },
+        {
+            "group": 186,
+            "id": "atelectasis",
+            "name": "atelectasis"
+        },
+        {
+            "group": 190,
+            "id": "Breast disorder"
+        },
+        {
+            "group": 191,
+            "id": "asthmatic crisis"
+        },
+        {
+            "group": 192,
+            "id": "bronchiolitis",
+            "name": "bronchiolitis"
+        },
+        {
+            "group": 195,
+            "id": "carotid artery disease"
+        },
+        {
+            "group": 197,
+            "id": "communication disorder"
+        },
+        {
+            "group": 199,
+            "id": "constipated"
+        },
+        {
+            "group": 201,
+            "id": "arteriosclerotic heart disease"
+        },
+        {
+            "group": 202,
+            "id": "Cough"
+        },
+        {
+            "group": 208,
+            "id": "epilepsy"
+        },
+        {
+            "group": 209,
+            "id": "reflux esophagitis"
+        },
+        {
+            "group": 211,
+            "id": "fib"
+        },
+        {
+            "group": 212,
+            "id": "folate deficiency"
+        },
+        {
+            "group": 217,
+            "id": "cardiac disease"
+        },
+        {
+            "group": 218,
+            "id": "cardiac enlargement"
+        },
+        {
+            "group": 225,
+            "id": "Hypercapnia"
+        },
+        {
+            "group": 226,
+            "id": "blood cholesterol"
+        },
+        {
+            "group": 227,
+            "id": "hyperhidrosis"
+        },
+        {
+            "group": 228,
+            "id": "hyperlipaemia"
+        },
+        {
+            "group": 229,
+            "id": "hyperparathyroidism secondary"
+        },
+        {
+            "group": 230,
+            "id": "Hyperprolactinaemia"
+        },
+        {
+            "group": 231,
+            "id": "High blood pressure"
+        },
+        {
+            "group": 233,
+            "id": "impetigo"
+        },
+        {
+            "group": 234,
+            "id": "intestinal perforation"
+        },
+        {
+            "group": 237,
+            "id": "inner ear inflammation"
+        },
+        {
+            "group": 238,
+            "id": "leucopenia"
+        },
+        {
+            "group": 241,
+            "id": "malabsorption"
+        },
+        {
+            "group": 242,
+            "id": "mitral valve disease"
+        },
+        {
+            "group": 244,
+            "id": "nasal congestion"
+        },
+        {
+            "group": 245,
+            "id": "nasopharyngitis"
+        },
+        {
+            "group": 246,
+            "id": "melanocytic naevus"
+        },
+        {
+            "group": 248,
+            "id": "nodule",
+            "name": "nodule"
+        },
+        {
+            "group": 249,
+            "id": "vitreous opacities"
+        },
+        {
+            "group": 253,
+            "id": "bone marrow failure"
+        },
+        {
+            "group": 255,
+            "id": "pericardial effusion"
+        },
+        {
+            "group": 256,
+            "id": "peritonitis"
+        },
+        {
+            "group": 258,
+            "id": "alveolitis"
+        },
+        {
+            "group": 259,
+            "id": "polycystic ovaries"
+        },
+        {
+            "group": 262,
+            "id": "pseudomonas infection"
+        },
+        {
+            "group": 263,
+            "id": "benign intracranial hypertension"
+        },
+        {
+            "group": 264,
+            "id": "pyelonephritis"
+        },
+        {
+            "group": 265,
+            "id": "pyonephrosis"
+        },
+        {
+            "group": 267,
+            "id": "rib fracture"
+        },
+        {
+            "group": 268,
+            "id": "ischias"
+        },
+        {
+            "group": 269,
+            "id": "snoring"
+        },
+        {
+            "group": 273,
+            "id": "postoperative wound infection",
+            "name": "postoperative wound infection"
+        },
+        {
+            "group": 274,
+            "id": "anuria"
+        },
+        {
+            "group": 276,
+            "id": "uterine bleeding"
+        },
+        {
+            "group": 277,
+            "id": "angiitis"
+        },
+        {
+            "group": 278,
+            "id": "phlebothrombosis",
+            "name": "phlebothrombosis"
+        },
+        {
+            "group": 279,
+            "id": "ventricular fibrillation"
+        },
+        {
+            "group": 280,
+            "id": "Infection Viral"
+        },
+        {
+            "group": 281,
+            "id": "vitrectomy"
+        },
+        {
+            "group": 283,
+            "id": "wheeze"
+        },
+        {
+            "group": 285,
+            "id": "essential hypertension"
+        },
+        {
+            "group": 287,
+            "id": "sinus bradycardia"
+        },
+        {
+            "group": 292,
+            "id": "pyogenic granuloma"
+        },
+        {
+            "group": 293,
+            "id": "alveolitis fibrosing"
+        },
+        {
+            "group": 295,
+            "id": "cataract"
+        },
+        {
+            "group": 297,
+            "id": "Extrasystoles Ventricular"
+        },
+        {
+            "group": 298,
+            "id": "high density lipoprotein decreased",
+            "name": "high density lipoprotein decreased"
+        },
+        {
+            "group": 301,
+            "id": "dry skin"
+        },
+        {
+            "group": 303,
+            "id": "clavicle fracture"
+        },
+        {
+            "group": 304,
+            "id": "hepatic trauma"
+        },
+        {
+            "group": 305,
+            "id": "retinal ischaemia"
+        },
+        {
+            "group": 307,
+            "id": "hyperpigmentation"
+        },
+        {
+            "group": 308,
+            "id": "fibroadenoma of breast"
+        },
+        {
+            "group": 309,
+            "id": "scab"
+        },
+        {
+            "group": 310,
+            "id": "ild"
+        },
+        {
+            "group": 311,
+            "id": "follicular thyroid cancer"
+        },
+        {
+            "group": 312,
+            "id": "metabolic acidosis"
+        },
+        {
+            "group": 314,
+            "id": "aphagia"
+        },
+        {
+            "group": 315,
+            "id": "respiratory rate increased"
+        },
+        {
+            "group": 318,
+            "id": "cyanosis"
+        },
+        {
+            "group": 321,
+            "id": "gastric polyps"
+        },
+        {
+            "group": 322,
+            "id": "serum ferritin increased"
+        },
+        {
+            "group": 325,
+            "id": "hypoxia"
+        },
+        {
+            "group": 326,
+            "id": "left ventricular dysfunction"
+        },
+        {
+            "group": 328,
+            "id": "abdominal abscess"
+        },
+        {
+            "group": 329,
+            "id": "cervical vertebral fracture"
+        },
+        {
+            "group": 330,
+            "id": "bronchitis bacterial"
+        },
+        {
+            "group": 331,
+            "id": "pleural fibrosis"
+        },
+        {
+            "group": 332,
+            "id": "atrioventricular block second degree"
+        },
+        {
+            "group": 333,
+            "id": "pericarditis infective"
+        },
+        {
+            "group": 334,
+            "id": "haemorrhage rectum"
+        },
+        {
+            "group": 337,
+            "id": "foot fracture"
+        },
+        {
+            "group": 338,
+            "id": "skin swelling"
+        },
+        {
+            "group": 339,
+            "id": "parainfluenzae virus infection"
+        },
+        {
+            "group": 340,
+            "id": "difficulty in walking"
+        },
+        {
+            "group": 341,
+            "id": "tumour necrosis"
+        },
+        {
+            "group": 342,
+            "id": "economic problem"
+        },
+        {
+            "group": 344,
+            "id": "peritonitis bacterial"
+        },
+        {
+            "group": 345,
+            "id": "renal impairment"
+        },
+        {
+            "group": 346,
+            "id": "emotional disorder"
+        },
+        {
+            "group": 347,
+            "id": "aortic valve disease"
+        },
+        {
+            "group": 348,
+            "id": "Nephrolithiasis"
+        },
+        {
+            "group": 349,
+            "id": "bradycardia"
+        },
+        {
+            "group": 350,
+            "id": "pharyngeal erythema"
+        },
+        {
+            "group": 352,
+            "id": "vulvovaginal discomfort",
+            "name": "vulvovaginal discomfort"
+        },
+        {
+            "group": 353,
+            "id": "delusion"
+        },
+        {
+            "group": 354,
+            "id": "cross sensitivity reaction"
+        },
+        {
+            "group": 355,
+            "id": "skin fragility"
+        },
+        {
+            "group": 356,
+            "id": "lip dry"
+        },
+        {
+            "group": 357,
+            "id": "bacterial sepsis"
+        },
+        {
+            "group": 359,
+            "id": "emotional distress"
+        },
+        {
+            "group": 361,
+            "id": "lung transplant",
+            "name": "lung transplant"
+        },
+        {
+            "group": 363,
+            "id": "catheter sepsis"
+        },
+        {
+            "group": 365,
+            "id": "opportunistic infection",
+            "name": "opportunistic infection"
+        },
+        {
+            "group": 366,
+            "id": "Pneumocystis carinii infection"
+        },
+        {
+            "group": 367,
+            "id": "mycobacterial infection"
+        },
+        {
+            "group": 368,
+            "id": "respiratory disorder"
+        },
+        {
+            "group": 369,
+            "id": "cervical laser therapy"
+        },
+        {
+            "group": 372,
+            "id": "photocoagulation"
+        },
+        {
+            "group": 373,
+            "id": "pulmonary alveolar haemorrhage"
+        },
+        {
+            "group": 375,
+            "id": "activated partial thromboplastin time prolonged"
+        },
+        {
+            "group": 376,
+            "id": "blood triglycerides increased"
+        },
+        {
+            "group": 377,
+            "id": "blood potassium decreased"
+        },
+        {
+            "group": 379,
+            "id": "aspiration bone marrow"
+        },
+        {
+            "group": 382,
+            "id": "haemoglobin s increased"
+        },
+        {
+            "group": 383,
+            "id": "complex partial seizures"
+        },
+        {
+            "group": 386,
+            "id": "posturing"
+        },
+        {
+            "group": 388,
+            "id": "lipodystrophy acquired"
+        },
+        {
+            "group": 389,
+            "id": "immobilisation prolonged"
+        },
+        {
+            "group": 391,
+            "id": "viith nerve paralysis"
+        },
+        {
+            "group": 392,
+            "id": "lung infection"
+        },
+        {
+            "group": 394,
+            "id": "anaemic hypoxia"
+        },
+        {
+            "group": 395,
+            "id": "enterobacter infection"
+        },
+        {
+            "group": 396,
+            "id": "impaired work ability"
+        },
+        {
+            "group": 397,
+            "id": "infusion related reaction"
+        },
+        {
+            "group": 398,
+            "id": "haemorrhagic anaemia"
+        },
+        {
+            "group": 399,
+            "id": "extraocular muscle disorder"
+        },
+        {
+            "group": 400,
+            "id": "mitochondrial toxicity"
+        },
+        {
+            "group": 401,
+            "id": "puncture site haemorrhage"
+        },
+        {
+            "group": 402,
+            "id": "central line infection"
+        },
+        {
+            "group": 404,
+            "id": "postoperative respiratory distress"
+        },
+        {
+            "group": 405,
+            "id": "arteriovenous graft site infection"
+        },
+        {
+            "group": 406,
+            "id": "haemorrhagic transformation stroke"
+        },
+        {
+            "group": 408,
+            "id": "medical device discomfort"
+        },
+        {
+            "group": 409,
+            "id": "neovascularisation"
+        },
+        {
+            "group": 410,
+            "id": "post procedural complication"
+        },
+        {
+            "group": 413,
+            "id": "aortic arteriosclerosis"
+        },
+        {
+            "group": 414,
+            "id": "cardiopulmonary failure"
+        },
+        {
+            "group": 415,
+            "id": "labelled drug-drug interaction medication error"
+        },
+        {
+            "group": 416,
+            "id": "circumstance or information capable of leading to medication error"
+        },
+        {
+            "group": 420,
+            "id": "peritoneal cloudy effluent"
+        },
+        {
+            "group": 425,
+            "id": "congenital tricuspid valve incompetence"
+        },
+        {
+            "group": 426,
+            "id": "inhibitory drug interaction"
+        },
+        {
+            "group": 427,
+            "id": "GABA",
+            "name": "GABA"
+        },
+        {
+            "group": 434,
+            "id": "Anisocoria"
+        },
+        {
+            "group": 440,
+            "id": "asthma"
+        },
+        {
+            "group": 449,
+            "id": "metabolic encephalopathy"
+        },
+        {
+            "group": 456,
+            "id": "intracranial aneurysm"
+        },
+        {
+            "group": 457,
+            "id": "transient ischaemic attack"
+        },
+        {
+            "group": 458,
+            "id": "cervix disorder"
+        },
+        {
+            "group": 462,
+            "id": "conjunctival deposit"
+        },
+        {
+            "group": 474,
+            "id": "allergic dermatitis"
+        },
+        {
+            "group": 475,
+            "id": "dialysis"
+        },
+        {
+            "group": 479,
+            "id": "ecchymoses"
+        },
+        {
+            "group": 486,
+            "id": "Excoriation"
+        },
+        {
+            "group": 490,
+            "id": "fatty liver"
+        },
+        {
+            "group": 492,
+            "id": "body temperature increased"
+        },
+        {
+            "group": 493,
+            "id": "fistula"
+        },
+        {
+            "group": 497,
+            "id": "stress fracture"
+        },
+        {
+            "group": 506,
+            "id": "encephalitis allergic"
+        },
+        {
+            "group": 507,
+            "id": "hepatosplenomegaly"
+        },
+        {
+            "group": 510,
+            "id": "herpes virus infection"
+        },
+        {
+            "group": 512,
+            "id": "hydronephrosis"
+        },
+        {
+            "group": 515,
+            "id": "allergies"
+        },
+        {
+            "group": 520,
+            "id": "actinic keratosis"
+        },
+        {
+            "group": 522,
+            "id": "laryngeal stenosis"
+        },
+        {
+            "group": 526,
+            "id": "cirrhosis"
+        },
+        {
+            "group": 527,
+            "id": "alcoholic cirrhosis"
+        },
+        {
+            "group": 532,
+            "id": "mixed connective tissue disease"
+        },
+        {
+            "group": 534,
+            "id": "nocturia"
+        },
+        {
+            "group": 545,
+            "id": "adynamic ileus"
+        },
+        {
+            "group": 546,
+            "id": "paronychia"
+        },
+        {
+            "group": 557,
+            "id": "proteus infection"
+        },
+        {
+            "group": 565,
+            "id": "retinitis"
+        },
+        {
+            "group": 571,
+            "id": "rupture of spleen",
+            "name": "rupture of spleen"
+        },
+        {
+            "group": 573,
+            "id": "staphylococcal skin infection"
+        },
+        {
+            "group": 575,
+            "id": "stridor"
+        },
+        {
+            "group": 588,
+            "id": "erythema"
+        },
+        {
+            "group": 601,
+            "id": "acute bronchitis"
+        },
+        {
+            "group": 605,
+            "id": "corticosteroid therapy"
+        },
+        {
+            "group": 606,
+            "id": "adenoid hypertrophy"
+        },
+        {
+            "group": 608,
+            "id": "neutrophilia"
+        },
+        {
+            "group": 610,
+            "id": "haemorrhage intracranial",
+            "name": "haemorrhage intracranial"
+        },
+        {
+            "group": 612,
+            "id": "hypermagnesaemia",
+            "name": "hypermagnesaemia"
+        },
+        {
+            "group": 613,
+            "id": "injection site inflammation"
+        },
+        {
+            "group": 616,
+            "id": "hesitancy"
+        },
+        {
+            "group": 620,
+            "id": "autism"
+        },
+        {
+            "group": 624,
+            "id": "bladder diverticulum"
+        },
+        {
+            "group": 635,
+            "id": "skin lesion excision"
+        },
+        {
+            "group": 637,
+            "id": "brain operation"
+        },
+        {
+            "group": 639,
+            "id": "crest syndrome"
+        },
+        {
+            "group": 640,
+            "id": "cheilitis"
+        },
+        {
+            "group": 642,
+            "id": "aching muscles"
+        },
+        {
+            "group": 647,
+            "id": "haemangioma of liver"
+        },
+        {
+            "group": 651,
+            "id": "pain of skin"
+        },
+        {
+            "group": 652,
+            "id": "wound haemorrhage"
+        },
+        {
+            "group": 653,
+            "id": "Intervertebral Disc Herniation"
+        },
+        {
+            "group": 659,
+            "id": "hepatitis b core antigen positive"
+        },
+        {
+            "group": 664,
+            "id": "perirectal abscess",
+            "name": "perirectal abscess"
+        },
+        {
+            "group": 665,
+            "id": "otitis media chronic"
+        },
+        {
+            "group": 668,
+            "id": "Viral Pharyngitis"
+        },
+        {
+            "group": 672,
+            "id": "mucosal inflammation"
+        },
+        {
+            "group": 673,
+            "id": "dry gangrene"
+        },
+        {
+            "group": 674,
+            "id": "intracranial venous sinus thrombosis"
+        },
+        {
+            "group": 677,
+            "id": "dieulafoy's vascular malformation"
+        },
+        {
+            "group": 684,
+            "id": "critical illness polyneuropathy"
+        },
+        {
+            "group": 692,
+            "id": "accommodation disorder"
+        },
+        {
+            "group": 695,
+            "id": "cardio-respiratory arrest",
+            "name": "cardio-respiratory arrest"
+        },
+        {
+            "group": 698,
+            "id": "venous pressure jugular increased"
+        },
+        {
+            "group": 700,
+            "id": "influenza like illness"
+        },
+        {
+            "group": 702,
+            "id": "fluid overload"
+        },
+        {
+            "group": 706,
+            "id": "sacroiliitis"
+        },
+        {
+            "group": 709,
+            "id": "allergic pharyngitis"
+        },
+        {
+            "group": 712,
+            "id": "hip surgery"
+        },
+        {
+            "group": 719,
+            "id": "arterial thrombosis"
+        },
+        {
+            "group": 720,
+            "id": "cerebellar atrophy"
+        },
+        {
+            "group": 726,
+            "id": "knee arthroplasty"
+        },
+        {
+            "group": 727,
+            "id": "lipids increased"
+        },
+        {
+            "group": 728,
+            "id": "immune system disorder"
+        },
+        {
+            "group": 732,
+            "id": "retinal tear"
+        },
+        {
+            "group": 734,
+            "id": "international normalised ratio increased"
+        },
+        {
+            "group": 736,
+            "id": "venous thrombosis limb"
+        },
+        {
+            "group": 737,
+            "id": "croup infectious"
+        },
+        {
+            "group": 738,
+            "id": "urine osmolarity increased"
+        },
+        {
+            "group": 741,
+            "id": "mucosal haemorrhage"
+        },
+        {
+            "group": 742,
+            "id": "beta-n-acetyl-d-glucosaminidase increased"
+        },
+        {
+            "group": 745,
+            "id": "complications of maternal exposure to therapeutic drugs"
+        },
+        {
+            "group": 747,
+            "id": "lung squamous cell carcinoma stage i"
+        },
+        {
+            "group": 748,
+            "id": "b-cell small lymphocytic lymphoma"
+        },
+        {
+            "group": 753,
+            "id": "injection site warmth"
+        },
+        {
+            "group": 755,
+            "id": "pyelonephritis acute"
+        },
+        {
+            "group": 756,
+            "id": "cardiac death"
+        },
+        {
+            "group": 757,
+            "id": "hepatitis b antibody positive"
+        },
+        {
+            "group": 759,
+            "id": "basophilia"
+        },
+        {
+            "group": 761,
+            "id": "graft loss"
+        },
+        {
+            "group": 763,
+            "id": "saliva discolouration"
+        },
+        {
+            "group": 770,
+            "id": "pharmaceutical product complaint"
+        },
+        {
+            "group": 774,
+            "id": "femoral artery occlusion"
+        },
+        {
+            "group": 775,
+            "id": "anti-hbc antibody"
+        },
+        {
+            "group": 776,
+            "id": "anti-hbs antibody positive"
+        },
+        {
+            "group": 777,
+            "id": "escherichia urinary tract infection"
+        },
+        {
+            "group": 778,
+            "id": "no therapeutic response"
+        },
+        {
+            "group": 783,
+            "id": "meniscus lesion"
+        },
+        {
+            "group": 784,
+            "id": "enterococcal sepsis"
+        },
+        {
+            "group": 788,
+            "id": "cardiac procedure complication"
+        },
+        {
+            "group": 794,
+            "id": "respiratory failure"
+        },
+        {
+            "group": 795,
+            "id": "band neutrophil percentage decreased"
+        },
+        {
+            "group": 801,
+            "id": "human herpes virus 6 serology positive"
+        },
+        {
+            "group": 804,
+            "id": "urinoma"
+        },
+        {
+            "group": 807,
+            "id": "aortic valve sclerosis"
+        },
+        {
+            "group": 819,
+            "id": "leucovorin",
+            "name": "leucovorin"
+        },
+        {
+            "group": 821,
+            "id": "als"
+        },
+        {
+            "group": 824,
+            "id": "apraxia"
+        },
+        {
+            "group": 825,
+            "id": "psoriatic arthritis"
+        },
+        {
+            "group": 826,
+            "id": "Astrocytoma"
+        },
+        {
+            "group": 827,
+            "id": "av dissociation"
+        },
+        {
+            "group": 829,
+            "id": "platelet disorder"
+        },
+        {
+            "group": 831,
+            "id": "bronchial fistula"
+        },
+        {
+            "group": 832,
+            "id": "cutaneous candidiasis"
+        },
+        {
+            "group": 833,
+            "id": "hypertrophic cardiomyopathy"
+        },
+        {
+            "group": 842,
+            "id": "cranial neuropathy"
+        },
+        {
+            "group": 844,
+            "id": "dental plaque"
+        },
+        {
+            "group": 846,
+            "id": "Diabetic Nephropathy"
+        },
+        {
+            "group": 847,
+            "id": "female genital-digestive tract fistula"
+        },
+        {
+            "group": 850,
+            "id": "ectropion"
+        },
+        {
+            "group": 851,
+            "id": "empty sella syndrome"
+        },
+        {
+            "group": 852,
+            "id": "esophageal perforation"
+        },
+        {
+            "group": 854,
+            "id": "eye injury"
+        },
+        {
+            "group": 855,
+            "id": "eye penetration"
+        },
+        {
+            "group": 856,
+            "id": "face pain"
+        },
+        {
+            "group": 860,
+            "id": "conductive deafness"
+        },
+        {
+            "group": 862,
+            "id": "hepatorenal failure"
+        },
+        {
+            "group": 863,
+            "id": "Herpes ophthalmic"
+        },
+        {
+            "group": 865,
+            "id": "diabetic hyperosmolar coma"
+        },
+        {
+            "group": 866,
+            "id": "blood sodium increased"
+        },
+        {
+            "group": 867,
+            "id": "type iv hypersensitivity reaction"
+        },
+        {
+            "group": 868,
+            "id": "malignant hypertension"
+        },
+        {
+            "group": 870,
+            "id": "body temperature"
+        },
+        {
+            "group": 874,
+            "id": "laryngeal neoplasia"
+        },
+        {
+            "group": 881,
+            "id": "edentulous"
+        },
+        {
+            "group": 882,
+            "id": "muscle necrosis"
+        },
+        {
+            "group": 884,
+            "id": "neoplasia"
+        },
+        {
+            "group": 888,
+            "id": "optic nerve disorder"
+        },
+        {
+            "group": 890,
+            "id": "pachymeningitis"
+        },
+        {
+            "group": 892,
+            "id": "formication"
+        },
+        {
+            "group": 893,
+            "id": "pelvic infection"
+        },
+        {
+            "group": 894,
+            "id": "peritoneal disorder"
+        },
+        {
+            "group": 898,
+            "id": "Post thrombotic syndrome"
+        },
+        {
+            "group": 899,
+            "id": "priapism"
+        },
+        {
+            "group": 903,
+            "id": "pupillary disorder"
+        },
+        {
+            "group": 905,
+            "id": "rectal neoplasm"
+        },
+        {
+            "group": 906,
+            "id": "renal infarct"
+        },
+        {
+            "group": 907,
+            "id": "surgical procedure repeated"
+        },
+        {
+            "group": 910,
+            "id": "Detached retina"
+        },
+        {
+            "group": 913,
+            "id": "Vasomotor Rhinitis"
+        },
+        {
+            "group": 920,
+            "id": "Supraventricular tachycardia"
+        },
+        {
+            "group": 921,
+            "id": "telangiectases"
+        },
+        {
+            "group": 922,
+            "id": "tetany"
+        },
+        {
+            "group": 927,
+            "id": "varicose ulceration"
+        },
+        {
+            "group": 928,
+            "id": "syncope vasovagal"
+        },
+        {
+            "group": 933,
+            "id": "urogenital disorder"
+        },
+        {
+            "group": 936,
+            "id": "erythema infectiosum"
+        },
+        {
+            "group": 939,
+            "id": "arterial spasm"
+        },
+        {
+            "group": 942,
+            "id": "antinuclear antibody"
+        },
+        {
+            "group": 952,
+            "id": "intestinal ulcer"
+        },
+        {
+            "group": 956,
+            "id": "retroperitoneal cancer"
+        },
+        {
+            "group": 957,
+            "id": "metastases to pleura"
+        },
+        {
+            "group": 959,
+            "id": "pharyngeal neoplasm"
+        },
+        {
+            "group": 964,
+            "id": "aortic atherosclerosis"
+        },
+        {
+            "group": 965,
+            "id": "sinus polyp"
+        },
+        {
+            "group": 968,
+            "id": "gallbladder perforation"
+        },
+        {
+            "group": 970,
+            "id": "colitis ischaemic"
+        },
+        {
+            "group": 971,
+            "id": "gastric outlet obstruction"
+        },
+        {
+            "group": 972,
+            "id": "disuse syndrome"
+        },
+        {
+            "group": 974,
+            "id": "chest tube insertion"
+        },
+        {
+            "group": 975,
+            "id": "ureteric operation"
+        },
+        {
+            "group": 976,
+            "id": "urethral operation"
+        },
+        {
+            "group": 979,
+            "id": "radiation pneumonitis"
+        },
+        {
+            "group": 980,
+            "id": "tympanic membrane perforation"
+        },
+        {
+            "group": 981,
+            "id": "neuroendocrine tumour"
+        },
+        {
+            "group": 985,
+            "id": "injection site infection"
+        },
+        {
+            "group": 987,
+            "id": "cold sweat"
+        },
+        {
+            "group": 988,
+            "id": "gallbladder non-functioning"
+        },
+        {
+            "group": 990,
+            "id": "epileptic aura"
+        },
+        {
+            "group": 991,
+            "id": "postictal state"
+        },
+        {
+            "group": 992,
+            "id": "tunnel vision"
+        },
+        {
+            "group": 997,
+            "id": "iliac artery thrombosis"
+        },
+        {
+            "group": 1000,
+            "id": "pupillary reflex impaired"
+        },
+        {
+            "group": 1005,
+            "id": "expressive language disorder"
+        },
+        {
+            "group": 1007,
+            "id": "anal inflammation"
+        },
+        {
+            "group": 1008,
+            "id": "antineutrophil cytoplasmic antibody positive"
+        },
+        {
+            "group": 1009,
+            "id": "prolonged expiration"
+        },
+        {
+            "group": 1011,
+            "id": "erythema of eyelid"
+        },
+        {
+            "group": 1012,
+            "id": "femoral pulse decreased"
+        },
+        {
+            "group": 1013,
+            "id": "gingivitis ulcerative"
+        },
+        {
+            "group": 1014,
+            "id": "haematocrit increased"
+        },
+        {
+            "group": 1015,
+            "id": "hepatic fibrosis"
+        },
+        {
+            "group": 1016,
+            "id": "inguinal mass"
+        },
+        {
+            "group": 1018,
+            "id": "pulse pressure decreased"
+        },
+        {
+            "group": 1020,
+            "id": "venous occlusion"
+        },
+        {
+            "group": 1021,
+            "id": "autoimmune thrombocytopenia"
+        },
+        {
+            "group": 1023,
+            "id": "xerosis"
+        },
+        {
+            "group": 1033,
+            "id": "inferior vena caval occlusion"
+        },
+        {
+            "group": 1034,
+            "id": "carotid artery occlusion"
+        },
+        {
+            "group": 1038,
+            "id": "gastroenteritis radiation"
+        },
+        {
+            "group": 1039,
+            "id": "colonic stenosis"
+        },
+        {
+            "group": 1042,
+            "id": "fluid imbalance"
+        },
+        {
+            "group": 1044,
+            "id": "bladder hypertrophy"
+        },
+        {
+            "group": 1047,
+            "id": "actinomycotic pulmonary infection"
+        },
+        {
+            "group": 1048,
+            "id": "bronchitis viral"
+        },
+        {
+            "group": 1050,
+            "id": "blood pressure systolic increased"
+        },
+        {
+            "group": 1051,
+            "id": "blood pressure systolic decreased"
+        },
+        {
+            "group": 1053,
+            "id": "venous stasis"
+        },
+        {
+            "group": 1054,
+            "id": "colon cancer stage i"
+        },
+        {
+            "group": 1058,
+            "id": "scrotal swelling"
+        },
+        {
+            "group": 1059,
+            "id": "abscess rupture"
+        },
+        {
+            "group": 1060,
+            "id": "lacunar infarction"
+        },
+        {
+            "group": 1062,
+            "id": "lesion excision"
+        },
+        {
+            "group": 1063,
+            "id": "superior sagittal sinus thrombosis"
+        },
+        {
+            "group": 1064,
+            "id": "renal artery thrombosis"
+        },
+        {
+            "group": 1065,
+            "id": "coronary artery dissection"
+        },
+        {
+            "group": 1067,
+            "id": "arteriovenous fistula thrombosis"
+        },
+        {
+            "group": 1075,
+            "id": "nail infection"
+        },
+        {
+            "group": 1077,
+            "id": "muscle abscess"
+        },
+        {
+            "group": 1078,
+            "id": "benign lung neoplasm"
+        },
+        {
+            "group": 1079,
+            "id": "metastases to retroperitoneum"
+        },
+        {
+            "group": 1080,
+            "id": "ureteric rupture"
+        },
+        {
+            "group": 1081,
+            "id": "radiculitis"
+        },
+        {
+            "group": 1082,
+            "id": "carcinoid tumour of the small bowel"
+        },
+        {
+            "group": 1083,
+            "id": "herpetic gingivostomatitis"
+        },
+        {
+            "group": 1084,
+            "id": "retinal artery spasm"
+        },
+        {
+            "group": 1086,
+            "id": "spinal cord infarction"
+        },
+        {
+            "group": 1087,
+            "id": "trousseau's syndrome"
+        },
+        {
+            "group": 1092,
+            "id": "spinal myelogram abnormal"
+        },
+        {
+            "group": 1094,
+            "id": "conjunctivitis infective"
+        },
+        {
+            "group": 1096,
+            "id": "small intestinal haemorrhage"
+        },
+        {
+            "group": 1102,
+            "id": "injection site dermatitis"
+        },
+        {
+            "group": 1103,
+            "id": "hydroureter"
+        },
+        {
+            "group": 1104,
+            "id": "drug interaction potentiation"
+        },
+        {
+            "group": 1105,
+            "id": "pre-existing condition improved"
+        },
+        {
+            "group": 1107,
+            "id": "sense of oppression"
+        },
+        {
+            "group": 1109,
+            "id": "disease complication"
+        },
+        {
+            "group": 1111,
+            "id": "joint lock"
+        },
+        {
+            "group": 1122,
+            "id": "chemical burn of skin"
+        },
+        {
+            "group": 1124,
+            "id": "pulmonary cavitation"
+        },
+        {
+            "group": 1128,
+            "id": "histology"
+        },
+        {
+            "group": 1133,
+            "id": "belligerence"
+        },
+        {
+            "group": 1138,
+            "id": "viral hepatitis carrier"
+        },
+        {
+            "group": 1139,
+            "id": "bone scan abnormal"
+        },
+        {
+            "group": 1142,
+            "id": "aortic embolus"
+        },
+        {
+            "group": 1147,
+            "id": "physical examination abnormal"
+        },
+        {
+            "group": 1148,
+            "id": "scleral haemorrhage"
+        },
+        {
+            "group": 1150,
+            "id": "putamen haemorrhage"
+        },
+        {
+            "group": 1151,
+            "id": "ear pruritus"
+        },
+        {
+            "group": 1152,
+            "id": "mole excision"
+        },
+        {
+            "group": 1156,
+            "id": "blood calcitonin increased"
+        },
+        {
+            "group": 1158,
+            "id": "blood fibrinogen increased"
+        },
+        {
+            "group": 1160,
+            "id": "cytotoxic cardiomyopathy"
+        },
+        {
+            "group": 1162,
+            "id": "endocarditis viral"
+        },
+        {
+            "group": 1163,
+            "id": "alcohol interaction"
+        },
+        {
+            "group": 1164,
+            "id": "scan abdomen abnormal"
+        },
+        {
+            "group": 1170,
+            "id": "mental disorder due to a general medical condition"
+        },
+        {
+            "group": 1171,
+            "id": "ph urine decreased"
+        },
+        {
+            "group": 1176,
+            "id": "abdominal hernia obstructive"
+        },
+        {
+            "group": 1179,
+            "id": "investigation abnormal"
+        },
+        {
+            "group": 1183,
+            "id": "liposarcoma"
+        },
+        {
+            "group": 1185,
+            "id": "urine sodium decreased"
+        },
+        {
+            "group": 1186,
+            "id": "red blood cell schistocytes present"
+        },
+        {
+            "group": 1189,
+            "id": "haemoglobin abnormal"
+        },
+        {
+            "group": 1192,
+            "id": "pharyngolaryngeal pain"
+        },
+        {
+            "group": 1196,
+            "id": "burkitt's lymphoma recurrent"
+        },
+        {
+            "group": 1197,
+            "id": "oesophageal squamous cell carcinoma"
+        },
+        {
+            "group": 1199,
+            "id": "catheter site related reaction"
+        },
+        {
+            "group": 1202,
+            "id": "ovarian adenoma"
+        },
+        {
+            "group": 1205,
+            "id": "visual brightness"
+        },
+        {
+            "group": 1207,
+            "id": "antiphospholipid antibodies positive"
+        },
+        {
+            "group": 1211,
+            "id": "troponin i"
+        },
+        {
+            "group": 1213,
+            "id": "faecal volume decreased"
+        },
+        {
+            "group": 1214,
+            "id": "subileus"
+        },
+        {
+            "group": 1215,
+            "id": "granulocytes maturation arrest"
+        },
+        {
+            "group": 1217,
+            "id": "creatinine urine increased"
+        },
+        {
+            "group": 1219,
+            "id": "electrocardiogram t wave amplitude increased"
+        },
+        {
+            "group": 1220,
+            "id": "postoperative abscess"
+        },
+        {
+            "group": 1221,
+            "id": "limb operation"
+        },
+        {
+            "group": 1224,
+            "id": "vascular access complication"
+        },
+        {
+            "group": 1226,
+            "id": "crystal urine"
+        },
+        {
+            "group": 1228,
+            "id": "metastases to salivary gland"
+        },
+        {
+            "group": 1229,
+            "id": "percussion test abnormal"
+        },
+        {
+            "group": 1231,
+            "id": "neuroborreliosis"
+        },
+        {
+            "group": 1232,
+            "id": "peritoneal carcinoma"
+        },
+        {
+            "group": 1233,
+            "id": "monocyte percentage increased"
+        },
+        {
+            "group": 1235,
+            "id": "electrocardiogram st-t segment abnormal"
+        },
+        {
+            "group": 1238,
+            "id": "bile duct stenosis"
+        },
+        {
+            "group": 1241,
+            "id": "anti-hbe antibody positive"
+        },
+        {
+            "group": 1243,
+            "id": "catheter site oedema"
+        },
+        {
+            "group": 1244,
+            "id": "catheter site inflammation"
+        },
+        {
+            "group": 1245,
+            "id": "abortion early"
+        },
+        {
+            "group": 1246,
+            "id": "catheter site cellulitis"
+        },
+        {
+            "group": 1247,
+            "id": "catheter site discharge"
+        },
+        {
+            "group": 1249,
+            "id": "lymphoid tissue hyperplasia"
+        },
+        {
+            "group": 1255,
+            "id": "general nutrition disorder"
+        },
+        {
+            "group": 1257,
+            "id": "injection site discomfort"
+        },
+        {
+            "group": 1258,
+            "id": "biliary cancer metastatic"
+        },
+        {
+            "group": 1260,
+            "id": "escherichia vaginitis"
+        },
+        {
+            "group": 1261,
+            "id": "fungus sputum test positive"
+        },
+        {
+            "group": 1262,
+            "id": "murder"
+        },
+        {
+            "group": 1264,
+            "id": "urine human chorionic gonadotropin increased"
+        },
+        {
+            "group": 1269,
+            "id": "temperature intolerance"
+        },
+        {
+            "group": 1273,
+            "id": "bone callus excessive"
+        },
+        {
+            "group": 1274,
+            "id": "abdominal sepsis"
+        },
+        {
+            "group": 1278,
+            "id": "medical device pain"
+        },
+        {
+            "group": 1279,
+            "id": "stoma site reaction"
+        },
+        {
+            "group": 1281,
+            "id": "suture line infection"
+        },
+        {
+            "group": 1283,
+            "id": "delirium febrile"
+        },
+        {
+            "group": 1285,
+            "id": "cytology abnormal"
+        },
+        {
+            "group": 1287,
+            "id": "bile culture positive"
+        },
+        {
+            "group": 1288,
+            "id": "red blood cell anisocytes present"
+        },
+        {
+            "group": 1290,
+            "id": "hepatic enzyme decreased"
+        },
+        {
+            "group": 1291,
+            "id": "bacteria urine"
+        },
+        {
+            "group": 1297,
+            "id": "diffuse large b-cell lymphoma"
+        },
+        {
+            "group": 1298,
+            "id": "nitrite urine"
+        },
+        {
+            "group": 1299,
+            "id": "oral mucosal disorder"
+        },
+        {
+            "group": 1305,
+            "id": "transaminases abnormal"
+        },
+        {
+            "group": 1306,
+            "id": "xanthogranuloma"
+        },
+        {
+            "group": 1307,
+            "id": "cardiovascular insufficiency"
+        },
+        {
+            "group": 1308,
+            "id": "anastomotic ulcer"
+        },
+        {
+            "group": 1309,
+            "id": "cerebral parenchymal calcification"
+        },
+        {
+            "group": 1311,
+            "id": "Morphea"
+        },
+        {
+            "group": 1312,
+            "id": "implant site extravasation"
+        },
+        {
+            "group": 1314,
+            "id": "incorrect drug administration rate"
+        },
+        {
+            "group": 1315,
+            "id": "soft tissue necrosis"
+        },
+        {
+            "group": 1316,
+            "id": "calcific deposits removal"
+        },
+        {
+            "group": 1319,
+            "id": "peritoneal perforation"
+        },
+        {
+            "group": 1324,
+            "id": "rectal obstruction"
+        },
+        {
+            "group": 1326,
+            "id": "aspermia"
+        },
+        {
+            "group": 1331,
+            "id": "visceral congestion"
+        },
+        {
+            "group": 1332,
+            "id": "stress cardiomyopathy"
+        },
+        {
+            "group": 1334,
+            "id": "coronary artery restenosis"
+        },
+        {
+            "group": 1335,
+            "id": "staphylococcal identification test positive"
+        },
+        {
+            "group": 1342,
+            "id": "cardioversion"
+        },
+        {
+            "group": 1343,
+            "id": "csf protein"
+        },
+        {
+            "group": 1349,
+            "id": "intestinal anastomosis complication"
+        }
+    ],
+    "links": [
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hyperadrenalism",
+            "value": "0.00164440804831995"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "adrenal insufficiency",
+            "value": "0.00988495160826169"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "anaphylactic reaction",
+            "value": "0.00335537977782533"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "aneurysm",
+            "value": "0.00339945662753651"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Anxiety",
+            "value": "0.00511624998437629"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Bacterial infection",
+            "value": "0.00326460921154602"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bronchitis",
+            "value": "0.00349184190815147"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cachectic",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cerebral infarct",
+            "value": "0.00112646236259679"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cervical dysplasia",
+            "value": "0.00321479032159653"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "chest pain",
+            "value": "0.00402709318175075"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "abdominal discomfort",
+            "value": "0.0116584398651702"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Cholangitis sclerosing",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cluster headache",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "chronic ulcerative colitis",
+            "value": "0.0028407805126684"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bacterial conjunctivitis",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "diabetes mellitus non-insulin-dependent",
+            "value": "0.0116936327064617"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cartilage development disorder",
+            "value": "0.00043387149064356"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "choking sensation",
+            "value": "0.0104127156750547"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Eosinophil Count Increased",
+            "value": "0.00362371200388707"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "automatism",
+            "value": "0.000193622605020405"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cardiospasm",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "female sexual arousal disorder",
+            "value": "0.00016523178909926"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "facial flushing",
+            "value": "0.00349899543652911"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cardiac flutter",
+            "value": "0.0181875291023405"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Blood disorder",
+            "value": "0.0006078251346707"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "enlarged liver",
+            "value": "0.00103141471481659"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hernia",
+            "value": "0.000182789827550865"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "histoplasmosis",
+            "value": "0.000229130536002586"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hypokalaemia",
+            "value": "0.00361055103419246"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Colon Spastic",
+            "value": "0.00736492443636606"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bundle branch block left",
+            "value": "0.0133176659146157"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "adrenal neoplasm",
+            "value": "0.000572671025651733"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "lethargy",
+            "value": "0.0253389778678429"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "nervous tension",
+            "value": "0.00015180034425084"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "leukopenia neonatal",
+            "value": "0.000505647235153416"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "osteoporosis",
+            "value": "0.000693493772740951"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "pancreatic insufficiency",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "panic disorder",
+            "value": "0.00114837731524408"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "neuropathy peripheral",
+            "value": "0.031197536296945"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "itch",
+            "value": "0.000315613545817856"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "abscess bacterial",
+            "value": "0.00215236771193869"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cardiogenic shock",
+            "value": "0.00153966960614522"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hypertonia",
+            "value": "0.000880331756983102"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "aphthous stomatitis",
+            "value": "0.0214272041443493"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "atrial tachycardia",
+            "value": "0.041204215345844"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "testes pain",
+            "value": "0.00138315493818167"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "nail tinea",
+            "value": "0.00220923395823928"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "pollakiuria",
+            "value": "0.00064123045990509"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "dermographism",
+            "value": "0.00387640622414921"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "left ventricular hypertrophy",
+            "value": "0.0378776603451032"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "muscle weakness",
+            "value": "0.000324932691719931"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Irritation Skin",
+            "value": "0.00341498411905134"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "Skin Striae",
+            "value": "0.00164440804831995"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "staphylococcal bacteraemia",
+            "value": "0.0197185217028229"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "ankle fracture",
+            "value": "0.0459262137496237"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "joint sprain",
+            "value": "0.0355232874203251"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "iron deficiency anaemia",
+            "value": "0.0305809073336515"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "rotator cuff repair",
+            "value": "0.0468026895605574"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "coronary angioplasty",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "colon operation",
+            "value": "0.00115091146597028"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cervical conisation",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "neuroendocrine carcinoma",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cushing's syndrome",
+            "value": "0.00993533723032883"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "depression suicidal",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "increased appetite",
+            "value": "0.0035356945117821"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "judgement impaired",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "abnormal dreams",
+            "value": "0.000352944557858601"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "euphoric mood",
+            "value": "0.0121557587529706"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "hair texture abnormal",
+            "value": "0.00654771232375676"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "lung infiltration",
+            "value": "0.000737947422858889"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "anxiety disorder",
+            "value": "0.000933382647101466"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "dyslipidaemia",
+            "value": "0.00160674102708806"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "erosive oesophagitis",
+            "value": "0.000831075783775174"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "non-secretory adenoma of pituitary",
+            "value": "0.0158747300349865"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "metastases to peritoneum",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "injection site urticaria",
+            "value": "0.0158747300349865"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "bradypnoea",
+            "value": "0.00829238783340583"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "transaminases increased",
+            "value": "0.0155369242756189"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "demyelination",
+            "value": "0.000115786093235142"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "haemorrhagic cerebral infarction",
+            "value": "0.000318053432612538"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "non-cardiac chest pain",
+            "value": "0.00157406470999805"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "metastases to liver",
+            "value": "0.015877949811042"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "application site irritation",
+            "value": "0.00280382967156196"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "application site rash",
+            "value": "0.00885507664901895"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "vaginal mycosis",
+            "value": "0.000318053432612538"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "blood pressure fluctuation",
+            "value": "0.0108365228003209"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "accident at work",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "plastic surgery",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "perivascular dermatitis",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "tonsil cancer",
+            "value": "0.000677020394261272"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "ear disorder",
+            "value": "0.00985006802178422"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "skin haemorrhage",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "therapeutic response unexpected",
+            "value": "0.000665987144532744"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "biopsy skin",
+            "value": "0.0293835173703467"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "local swelling",
+            "value": "0.000202530125941442"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "application site pruritus",
+            "value": "0.0127612811315698"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "decreased immune responsiveness",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "spontaneous penile erection",
+            "value": "0.0045734700414954"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "adverse event",
+            "value": "0.0428743427033306"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "application site burn",
+            "value": "0.00663781486045908"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "cerebral ischaemia",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "excessive sleepiness",
+            "value": "0.000390075521303212"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "protein s decreased",
+            "value": "0.00219959825827792"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "nasal mucosal disorder",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "rhinalgia",
+            "value": "0.0158747300349865"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "musculoskeletal discomfort",
+            "value": "0.0014214130548045"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "application site swelling",
+            "value": "0.00171716379291511"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "off label use",
+            "value": "0.000659524403616207"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "dihydrotestosterone decreased",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "gastric banding",
+            "value": "0.00164440804831995"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "sjogren's syndrome",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "dysphonia",
+            "value": "0.000610563806076164"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "gastrointestinal inflammation",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "extrasystoles",
+            "value": "0.00982620102731088"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "crohn's disease",
+            "value": "0.011802468417265"
+        },
+        {
+            "source": "dehydroepiandrosterone",
+            "target": "anorectal discomfort",
+            "value": "0.000352919225181849"
+        },
+        {
+            "source": "carnitine",
+            "target": "atelectasis",
+            "value": "0.00144608962908464"
+        },
+        {
+            "source": "carnitine",
+            "target": "Breast disorder",
+            "value": "0.0121218505009512"
+        },
+        {
+            "source": "carnitine",
+            "target": "asthmatic crisis",
+            "value": "0.00135993232214126"
+        },
+        {
+            "source": "carnitine",
+            "target": "bronchiolitis",
+            "value": "0.000450407578732891"
+        },
+        {
+            "source": "carnitine",
+            "target": "carotid artery disease",
+            "value": "0.0154801384885625"
+        },
+        {
+            "source": "carnitine",
+            "target": "communication disorder",
+            "value": "0.000405785186018059"
+        },
+        {
+            "source": "carnitine",
+            "target": "constipated",
+            "value": "0.00446499444372979"
+        },
+        {
+            "source": "carnitine",
+            "target": "arteriosclerotic heart disease",
+            "value": "0.0158951831871482"
+        },
+        {
+            "source": "carnitine",
+            "target": "Cough",
+            "value": "0.000251449924569476"
+        },
+        {
+            "source": "carnitine",
+            "target": "cartilage development disorder",
+            "value": "0.00297341205999519"
+        },
+        {
+            "source": "carnitine",
+            "target": "reflux esophagitis",
+            "value": "0.0191517818492117"
+        },
+        {
+            "source": "carnitine",
+            "target": "fib",
+            "value": "0.000151972153513236"
+        },
+        {
+            "source": "carnitine",
+            "target": "folate deficiency",
+            "value": "0.00146786405774804"
+        },
+        {
+            "source": "carnitine",
+            "target": "cardiac disease",
+            "value": "0.0176761367155413"
+        },
+        {
+            "source": "carnitine",
+            "target": "cardiac enlargement",
+            "value": "0.000649387167848034"
+        },
+        {
+            "source": "carnitine",
+            "target": "enlarged liver",
+            "value": "0.00341791028012154"
+        },
+        {
+            "source": "carnitine",
+            "target": "Hypercapnia",
+            "value": "0.000582285380837231"
+        },
+        {
+            "source": "carnitine",
+            "target": "blood cholesterol",
+            "value": "0.000470661095014382"
+        },
+        {
+            "source": "carnitine",
+            "target": "hyperhidrosis",
+            "value": "0.000899355603380188"
+        },
+        {
+            "source": "carnitine",
+            "target": "hyperlipaemia",
+            "value": "0.000845910047343267"
+        },
+        {
+            "source": "carnitine",
+            "target": "hyperparathyroidism secondary",
+            "value": "0.00141799609995799"
+        },
+        {
+            "source": "carnitine",
+            "target": "Hyperprolactinaemia",
+            "value": "0.00540913077544042"
+        },
+        {
+            "source": "carnitine",
+            "target": "impetigo",
+            "value": "0.00168787581890282"
+        },
+        {
+            "source": "carnitine",
+            "target": "infection",
+            "value": "0.0107803148058905"
+        },
+        {
+            "source": "carnitine",
+            "target": "intestinal perforation",
+            "value": "0.000725054728763269"
+        },
+        {
+            "source": "carnitine",
+            "target": "inner ear inflammation",
+            "value": "0.0225163232424923"
+        },
+        {
+            "source": "carnitine",
+            "target": "leucopenia",
+            "value": "0.0307401401445453"
+        },
+        {
+            "source": "carnitine",
+            "target": "malabsorption",
+            "value": "0.0121218505009512"
+        },
+        {
+            "source": "carnitine",
+            "target": "mitral valve disease",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "nasal congestion",
+            "value": "0.00660553350742419"
+        },
+        {
+            "source": "carnitine",
+            "target": "nasopharyngitis",
+            "value": "0.0247305194062286"
+        },
+        {
+            "source": "carnitine",
+            "target": "melanocytic naevus",
+            "value": "0.00182880879059949"
+        },
+        {
+            "source": "carnitine",
+            "target": "nodule",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "vitreous opacities",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "bone marrow failure",
+            "value": "0.00621944235219114"
+        },
+        {
+            "source": "carnitine",
+            "target": "pericardial effusion",
+            "value": "0.014372105591361"
+        },
+        {
+            "source": "carnitine",
+            "target": "neuropathy peripheral",
+            "value": "0.0067033279092417"
+        },
+        {
+            "source": "carnitine",
+            "target": "peritonitis",
+            "value": "0.00640310697472786"
+        },
+        {
+            "source": "carnitine",
+            "target": "alveolitis",
+            "value": "0.00932653567776027"
+        },
+        {
+            "source": "carnitine",
+            "target": "polycystic ovaries",
+            "value": "0.0197993240414873"
+        },
+        {
+            "source": "carnitine",
+            "target": "pseudomonas infection",
+            "value": "0.00722046863096813"
+        },
+        {
+            "source": "carnitine",
+            "target": "benign intracranial hypertension",
+            "value": "0.000198983993834083"
+        },
+        {
+            "source": "carnitine",
+            "target": "pyelonephritis",
+            "value": "0.028812538416969"
+        },
+        {
+            "source": "carnitine",
+            "target": "pyonephrosis",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "rib fracture",
+            "value": "0.00246003428945605"
+        },
+        {
+            "source": "carnitine",
+            "target": "ischias",
+            "value": "0.00754209317642993"
+        },
+        {
+            "source": "carnitine",
+            "target": "postoperative wound infection",
+            "value": "0.045374004189569"
+        },
+        {
+            "source": "carnitine",
+            "target": "anuria",
+            "value": "0.00212697302137506"
+        },
+        {
+            "source": "carnitine",
+            "target": "uterine bleeding",
+            "value": "0.0404815823432936"
+        },
+        {
+            "source": "carnitine",
+            "target": "angiitis",
+            "value": "0.000729352927371391"
+        },
+        {
+            "source": "carnitine",
+            "target": "phlebothrombosis",
+            "value": "0.0149331608148374"
+        },
+        {
+            "source": "carnitine",
+            "target": "ventricular fibrillation",
+            "value": "0.00538425087868484"
+        },
+        {
+            "source": "carnitine",
+            "target": "Infection Viral",
+            "value": "0.000898994458848722"
+        },
+        {
+            "source": "carnitine",
+            "target": "vitrectomy",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "wheeze",
+            "value": "0.026553850585474"
+        },
+        {
+            "source": "carnitine",
+            "target": "essential hypertension",
+            "value": "0.0035333179208008"
+        },
+        {
+            "source": "carnitine",
+            "target": "sinus bradycardia",
+            "value": "0.000167543178485383"
+        },
+        {
+            "source": "carnitine",
+            "target": "pyogenic granuloma",
+            "value": "0.00162916628108546"
+        },
+        {
+            "source": "carnitine",
+            "target": "alveolitis fibrosing",
+            "value": "0.0107117188151448"
+        },
+        {
+            "source": "carnitine",
+            "target": "cataract",
+            "value": "0.00158212603751207"
+        },
+        {
+            "source": "carnitine",
+            "target": "high density lipoprotein decreased",
+            "value": "0.0154801384885625"
+        },
+        {
+            "source": "carnitine",
+            "target": "dry skin",
+            "value": "0.00038577983181231"
+        },
+        {
+            "source": "carnitine",
+            "target": "clavicle fracture",
+            "value": "0.0121218505009512"
+        },
+        {
+            "source": "carnitine",
+            "target": "hepatic trauma",
+            "value": "0.00723576996837797"
+        },
+        {
+            "source": "carnitine",
+            "target": "retinal ischaemia",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "hyperpigmentation",
+            "value": "0.0199195234185794"
+        },
+        {
+            "source": "carnitine",
+            "target": "scab",
+            "value": "0.000616787660604479"
+        },
+        {
+            "source": "carnitine",
+            "target": "ild",
+            "value": "0.0176044359387303"
+        },
+        {
+            "source": "carnitine",
+            "target": "follicular thyroid cancer",
+            "value": "0.000499154127069118"
+        },
+        {
+            "source": "carnitine",
+            "target": "metabolic acidosis",
+            "value": "0.00370567939742239"
+        },
+        {
+            "source": "carnitine",
+            "target": "respiratory rate increased",
+            "value": "0.00402621540964215"
+        },
+        {
+            "source": "carnitine",
+            "target": "cyanosis",
+            "value": "0.000182639827633887"
+        },
+        {
+            "source": "carnitine",
+            "target": "gastric polyps",
+            "value": "0.00797762082096256"
+        },
+        {
+            "source": "carnitine",
+            "target": "serum ferritin increased",
+            "value": "0.00697160966044386"
+        },
+        {
+            "source": "carnitine",
+            "target": "hypoxia",
+            "value": "0.000423665956185464"
+        },
+        {
+            "source": "carnitine",
+            "target": "left ventricular dysfunction",
+            "value": "0.000342105370191149"
+        },
+        {
+            "source": "carnitine",
+            "target": "abdominal abscess",
+            "value": "0.0296237919132928"
+        },
+        {
+            "source": "carnitine",
+            "target": "cervical vertebral fracture",
+            "value": "0.000133601282338213"
+        },
+        {
+            "source": "carnitine",
+            "target": "bronchitis bacterial",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "pleural fibrosis",
+            "value": "0.000104108427059473"
+        },
+        {
+            "source": "carnitine",
+            "target": "atrioventricular block second degree",
+            "value": "0.0174188765219366"
+        },
+        {
+            "source": "carnitine",
+            "target": "pericarditis infective",
+            "value": "0.000661831004729902"
+        },
+        {
+            "source": "carnitine",
+            "target": "haemorrhage rectum",
+            "value": "0.00135769728893029"
+        },
+        {
+            "source": "carnitine",
+            "target": "foot fracture",
+            "value": "0.0124424844326337"
+        },
+        {
+            "source": "carnitine",
+            "target": "parainfluenzae virus infection",
+            "value": "0.00306872177349066"
+        },
+        {
+            "source": "carnitine",
+            "target": "difficulty in walking",
+            "value": "0.00847583562657547"
+        },
+        {
+            "source": "carnitine",
+            "target": "tumour necrosis",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "peritonitis bacterial",
+            "value": "0.0118215075862924"
+        },
+        {
+            "source": "carnitine",
+            "target": "renal impairment",
+            "value": "0.00186619761000187"
+        },
+        {
+            "source": "carnitine",
+            "target": "emotional disorder",
+            "value": "0.000312956994740446"
+        },
+        {
+            "source": "carnitine",
+            "target": "aortic valve disease",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "Nephrolithiasis",
+            "value": "0.00136517250758681"
+        },
+        {
+            "source": "carnitine",
+            "target": "bradycardia",
+            "value": "0.000190095765022146"
+        },
+        {
+            "source": "carnitine",
+            "target": "pharyngeal erythema",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "vulvovaginal discomfort",
+            "value": "0.0482061271252432"
+        },
+        {
+            "source": "carnitine",
+            "target": "cross sensitivity reaction",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "skin fragility",
+            "value": "0.0197993240414873"
+        },
+        {
+            "source": "carnitine",
+            "target": "lip dry",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "bacterial sepsis",
+            "value": "0.000105883965779836"
+        },
+        {
+            "source": "carnitine",
+            "target": "emotional distress",
+            "value": "0.00155108526581129"
+        },
+        {
+            "source": "carnitine",
+            "target": "lung transplant",
+            "value": "0.00106071940413384"
+        },
+        {
+            "source": "carnitine",
+            "target": "catheter sepsis",
+            "value": "0.000244461053667725"
+        },
+        {
+            "source": "carnitine",
+            "target": "opportunistic infection",
+            "value": "0.0019265599042448"
+        },
+        {
+            "source": "carnitine",
+            "target": "Pneumocystis carinii infection",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "mycobacterial infection",
+            "value": "0.00903606093804419"
+        },
+        {
+            "source": "carnitine",
+            "target": "respiratory disorder",
+            "value": "0.0190330462871026"
+        },
+        {
+            "source": "carnitine",
+            "target": "mental impairment",
+            "value": "0.000151798719672143"
+        },
+        {
+            "source": "carnitine",
+            "target": "cervical laser therapy",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "photocoagulation",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "pulmonary alveolar haemorrhage",
+            "value": "0.00378201045057487"
+        },
+        {
+            "source": "carnitine",
+            "target": "activated partial thromboplastin time prolonged",
+            "value": "0.00649048372383019"
+        },
+        {
+            "source": "carnitine",
+            "target": "blood triglycerides increased",
+            "value": "0.000689845955112153"
+        },
+        {
+            "source": "carnitine",
+            "target": "blood potassium decreased",
+            "value": "0.00231306608828273"
+        },
+        {
+            "source": "carnitine",
+            "target": "aspiration bone marrow",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "haemoglobin s increased",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "complex partial seizures",
+            "value": "0.0100828652937659"
+        },
+        {
+            "source": "carnitine",
+            "target": "lipodystrophy acquired",
+            "value": "0.0361460822240668"
+        },
+        {
+            "source": "carnitine",
+            "target": "early morning awakening",
+            "value": "0.0485995973609255"
+        },
+        {
+            "source": "carnitine",
+            "target": "immobilisation prolonged",
+            "value": "0.00306872177349066"
+        },
+        {
+            "source": "carnitine",
+            "target": "viith nerve paralysis",
+            "value": "0.0197993240414873"
+        },
+        {
+            "source": "carnitine",
+            "target": "lung infection",
+            "value": "0.00633369666664502"
+        },
+        {
+            "source": "carnitine",
+            "target": "anaemic hypoxia",
+            "value": "0.0012461122006273"
+        },
+        {
+            "source": "carnitine",
+            "target": "enterobacter infection",
+            "value": "0.0225163232424923"
+        },
+        {
+            "source": "carnitine",
+            "target": "impaired work ability",
+            "value": "0.000535087641044235"
+        },
+        {
+            "source": "carnitine",
+            "target": "infusion related reaction",
+            "value": "0.0146842068285628"
+        },
+        {
+            "source": "carnitine",
+            "target": "enterococcal infection",
+            "value": "0.000661831004729902"
+        },
+        {
+            "source": "carnitine",
+            "target": "extraocular muscle disorder",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "mitochondrial toxicity",
+            "value": "0.026699670578387"
+        },
+        {
+            "source": "carnitine",
+            "target": "puncture site haemorrhage",
+            "value": "0.0012461122006273"
+        },
+        {
+            "source": "carnitine",
+            "target": "central line infection",
+            "value": "0.000222473552319673"
+        },
+        {
+            "source": "carnitine",
+            "target": "postoperative respiratory distress",
+            "value": "0.000121038206839965"
+        },
+        {
+            "source": "carnitine",
+            "target": "arteriovenous graft site infection",
+            "value": "0.000133601282338213"
+        },
+        {
+            "source": "carnitine",
+            "target": "haemorrhagic transformation stroke",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "medical device discomfort",
+            "value": "0.0482061271252432"
+        },
+        {
+            "source": "carnitine",
+            "target": "neovascularisation",
+            "value": "0.0416841434647146"
+        },
+        {
+            "source": "carnitine",
+            "target": "post procedural complication",
+            "value": "0.00363550013270554"
+        },
+        {
+            "source": "carnitine",
+            "target": "aortic arteriosclerosis",
+            "value": "0.0169360266937641"
+        },
+        {
+            "source": "carnitine",
+            "target": "cardiopulmonary failure",
+            "value": "0.00649010304631462"
+        },
+        {
+            "source": "carnitine",
+            "target": "labelled drug-drug interaction medication error",
+            "value": "0.000956530665760014"
+        },
+        {
+            "source": "carnitine",
+            "target": "circumstance or information capable of leading to medication error",
+            "value": "0.00541631976396474"
+        },
+        {
+            "source": "carnitine",
+            "target": "peritoneal cloudy effluent",
+            "value": "0.0197993240414873"
+        },
+        {
+            "source": "carnitine",
+            "target": "congenital tricuspid valve incompetence",
+            "value": "0.0493315766319998"
+        },
+        {
+            "source": "carnitine",
+            "target": "inhibitory drug interaction",
+            "value": "0.000234115781007505"
+        },
+        {
+            "source": "GABA",
+            "target": "anaphylactic reaction",
+            "value": "0.00450730176122615"
+        },
+        {
+            "source": "GABA",
+            "target": "anaemia",
+            "value": "0.00577069779346065"
+        },
+        {
+            "source": "GABA",
+            "target": "Anisocoria",
+            "value": "0.0013189319791787"
+        },
+        {
+            "source": "GABA",
+            "target": "asthma",
+            "value": "0.000104418794053493"
+        },
+        {
+            "source": "GABA",
+            "target": "metabolic encephalopathy",
+            "value": "0.0299489080431893"
+        },
+        {
+            "source": "GABA",
+            "target": "bronchiolitis",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "intracranial aneurysm",
+            "value": "0.00202195167474998"
+        },
+        {
+            "source": "GABA",
+            "target": "transient ischaemic attack",
+            "value": "0.0296468525022436"
+        },
+        {
+            "source": "GABA",
+            "target": "cervix disorder",
+            "value": "0.0184127567565276"
+        },
+        {
+            "source": "GABA",
+            "target": "conjunctival deposit",
+            "value": "0.00584878369249613"
+        },
+        {
+            "source": "GABA",
+            "target": "dehydration",
+            "value": "0.000934586209473924"
+        },
+        {
+            "source": "GABA",
+            "target": "allergic dermatitis",
+            "value": "0.00314067986947758"
+        },
+        {
+            "source": "GABA",
+            "target": "dialysis",
+            "value": "0.0303841605461134"
+        },
+        {
+            "source": "GABA",
+            "target": "ecchymoses",
+            "value": "0.00395385715111801"
+        },
+        {
+            "source": "GABA",
+            "target": "Excoriation",
+            "value": "0.0262248397189338"
+        },
+        {
+            "source": "GABA",
+            "target": "fatty liver",
+            "value": "0.0116137102985689"
+        },
+        {
+            "source": "GABA",
+            "target": "body temperature increased",
+            "value": "0.000191357608280877"
+        },
+        {
+            "source": "GABA",
+            "target": "stress fracture",
+            "value": "0.030567835424601"
+        },
+        {
+            "source": "GABA",
+            "target": "haematochezia",
+            "value": "0.00556112428400735"
+        },
+        {
+            "source": "GABA",
+            "target": "encephalitis allergic",
+            "value": "0.00804664365001406"
+        },
+        {
+            "source": "GABA",
+            "target": "hepatosplenomegaly",
+            "value": "0.000113339935316156"
+        },
+        {
+            "source": "GABA",
+            "target": "Hernia Inguinal",
+            "value": "0.0305743634385914"
+        },
+        {
+            "source": "GABA",
+            "target": "herpes virus infection",
+            "value": "0.00960914783975376"
+        },
+        {
+            "source": "GABA",
+            "target": "hot flash",
+            "value": "0.000426203151795927"
+        },
+        {
+            "source": "GABA",
+            "target": "allergies",
+            "value": "0.0457493302646869"
+        },
+        {
+            "source": "GABA",
+            "target": "High blood pressure",
+            "value": "0.019137247094937"
+        },
+        {
+            "source": "GABA",
+            "target": "actinic keratosis",
+            "value": "0.00328157281076563"
+        },
+        {
+            "source": "GABA",
+            "target": "laryngeal stenosis",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "cirrhosis",
+            "value": "0.036723855138425"
+        },
+        {
+            "source": "GABA",
+            "target": "alcoholic cirrhosis",
+            "value": "0.00988088949070012"
+        },
+        {
+            "source": "GABA",
+            "target": "mixed connective tissue disease",
+            "value": "0.00085654046570767"
+        },
+        {
+            "source": "GABA",
+            "target": "nausea",
+            "value": "0.00399775609412717"
+        },
+        {
+            "source": "GABA",
+            "target": "nocturia",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "adynamic ileus",
+            "value": "0.012524410650628"
+        },
+        {
+            "source": "GABA",
+            "target": "paronychia",
+            "value": "0.000790398057863101"
+        },
+        {
+            "source": "GABA",
+            "target": "neuropathy peripheral",
+            "value": "0.0216477199504163"
+        },
+        {
+            "source": "GABA",
+            "target": "proteus infection",
+            "value": "0.00146402364769415"
+        },
+        {
+            "source": "GABA",
+            "target": "retinitis",
+            "value": "0.00988088949070012"
+        },
+        {
+            "source": "GABA",
+            "target": "rupture of spleen",
+            "value": "0.00625293420998155"
+        },
+        {
+            "source": "GABA",
+            "target": "staphylococcal skin infection",
+            "value": "0.000184310208868538"
+        },
+        {
+            "source": "GABA",
+            "target": "stridor",
+            "value": "0.00152016789296015"
+        },
+        {
+            "source": "GABA",
+            "target": "heart rate increased",
+            "value": "0.00563814838937727"
+        },
+        {
+            "source": "GABA",
+            "target": "erythema",
+            "value": "0.0348829173969548"
+        },
+        {
+            "source": "GABA",
+            "target": "dermographism",
+            "value": "0.00702832567187055"
+        },
+        {
+            "source": "GABA",
+            "target": "phlebothrombosis",
+            "value": "0.00276959929771437"
+        },
+        {
+            "source": "GABA",
+            "target": "acute bronchitis",
+            "value": "0.0133372184631366"
+        },
+        {
+            "source": "GABA",
+            "target": "corticosteroid therapy",
+            "value": "0.0222735267066811"
+        },
+        {
+            "source": "GABA",
+            "target": "adenoid hypertrophy",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "Extrasystoles Ventricular",
+            "value": "0.0476183800970667"
+        },
+        {
+            "source": "GABA",
+            "target": "neutrophilia",
+            "value": "0.0156095763620847"
+        },
+        {
+            "source": "GABA",
+            "target": "high density lipoprotein decreased",
+            "value": "0.00750358073121053"
+        },
+        {
+            "source": "GABA",
+            "target": "haemorrhage intracranial",
+            "value": "0.00595374457415986"
+        },
+        {
+            "source": "GABA",
+            "target": "hypermagnesaemia",
+            "value": "0.000406599576760037"
+        },
+        {
+            "source": "GABA",
+            "target": "injection site inflammation",
+            "value": "0.00528537826228798"
+        },
+        {
+            "source": "GABA",
+            "target": "Irritation Skin",
+            "value": "0.00276895226144611"
+        },
+        {
+            "source": "GABA",
+            "target": "hesitancy",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "autism",
+            "value": "0.00545724292165219"
+        },
+        {
+            "source": "GABA",
+            "target": "bladder diverticulum",
+            "value": "0.00146402364769415"
+        },
+        {
+            "source": "GABA",
+            "target": "skin lesion excision",
+            "value": "0.00146402364769415"
+        },
+        {
+            "source": "GABA",
+            "target": "brain operation",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "crest syndrome",
+            "value": "0.0121634676693999"
+        },
+        {
+            "source": "GABA",
+            "target": "cheilitis",
+            "value": "0.00571833932517998"
+        },
+        {
+            "source": "GABA",
+            "target": "aphagia",
+            "value": "0.0327139976325312"
+        },
+        {
+            "source": "GABA",
+            "target": "aching muscles",
+            "value": "0.0269101238582126"
+        },
+        {
+            "source": "GABA",
+            "target": "haemangioma of liver",
+            "value": "0.0121634676693999"
+        },
+        {
+            "source": "GABA",
+            "target": "pain of skin",
+            "value": "0.000987178749656125"
+        },
+        {
+            "source": "GABA",
+            "target": "wound haemorrhage",
+            "value": "0.000429887271211715"
+        },
+        {
+            "source": "GABA",
+            "target": "Intervertebral Disc Herniation",
+            "value": "0.00174218322198521"
+        },
+        {
+            "source": "GABA",
+            "target": "hepatitis b core antigen positive",
+            "value": "0.0128412430067181"
+        },
+        {
+            "source": "GABA",
+            "target": "perirectal abscess",
+            "value": "0.00146402364769415"
+        },
+        {
+            "source": "GABA",
+            "target": "otitis media chronic",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "Viral Pharyngitis",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "skin swelling",
+            "value": "0.0342588735938762"
+        },
+        {
+            "source": "GABA",
+            "target": "mucosal inflammation",
+            "value": "0.00319381961955173"
+        },
+        {
+            "source": "GABA",
+            "target": "dry gangrene",
+            "value": "0.00146402364769415"
+        },
+        {
+            "source": "GABA",
+            "target": "economic problem",
+            "value": "0.0451132483994613"
+        },
+        {
+            "source": "GABA",
+            "target": "dieulafoy's vascular malformation",
+            "value": "0.0342588735938762"
+        },
+        {
+            "source": "GABA",
+            "target": "critical illness polyneuropathy",
+            "value": "0.0342588735938762"
+        },
+        {
+            "source": "GABA",
+            "target": "accommodation disorder",
+            "value": "0.00048347655995462"
+        },
+        {
+            "source": "GABA",
+            "target": "cardio-respiratory arrest",
+            "value": "0.00202865671387572"
+        },
+        {
+            "source": "GABA",
+            "target": "delusion",
+            "value": "0.0129052779601485"
+        },
+        {
+            "source": "GABA",
+            "target": "venous pressure jugular increased",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "influenza like illness",
+            "value": "0.0205200922884401"
+        },
+        {
+            "source": "GABA",
+            "target": "fluid overload",
+            "value": "0.000797212378567628"
+        },
+        {
+            "source": "GABA",
+            "target": "sacroiliitis",
+            "value": "0.0121634676693999"
+        },
+        {
+            "source": "GABA",
+            "target": "allergic pharyngitis",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "hip surgery",
+            "value": "0.00012137262750821"
+        },
+        {
+            "source": "GABA",
+            "target": "arterial thrombosis",
+            "value": "0.00488518262776332"
+        },
+        {
+            "source": "GABA",
+            "target": "lung transplant",
+            "value": "0.0140367378267571"
+        },
+        {
+            "source": "GABA",
+            "target": "cerebellar atrophy",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "opportunistic infection",
+            "value": "0.00208336162979119"
+        },
+        {
+            "source": "GABA",
+            "target": "knee arthroplasty",
+            "value": "0.0240465193857636"
+        },
+        {
+            "source": "GABA",
+            "target": "lipids increased",
+            "value": "0.000184310208868538"
+        },
+        {
+            "source": "GABA",
+            "target": "immune system disorder",
+            "value": "0.00905203010766851"
+        },
+        {
+            "source": "GABA",
+            "target": "retinal tear",
+            "value": "0.0121634676693999"
+        },
+        {
+            "source": "GABA",
+            "target": "international normalised ratio increased",
+            "value": "0.00178936780539686"
+        },
+        {
+            "source": "GABA",
+            "target": "venous thrombosis limb",
+            "value": "0.000367555206735301"
+        },
+        {
+            "source": "GABA",
+            "target": "croup infectious",
+            "value": "0.000357546066294993"
+        },
+        {
+            "source": "GABA",
+            "target": "urine osmolarity increased",
+            "value": "0.00109181369753545"
+        },
+        {
+            "source": "GABA",
+            "target": "mucosal haemorrhage",
+            "value": "0.000735346866001412"
+        },
+        {
+            "source": "GABA",
+            "target": "beta-n-acetyl-d-glucosaminidase increased",
+            "value": "0.00248843709032447"
+        },
+        {
+            "source": "GABA",
+            "target": "complications of maternal exposure to therapeutic drugs",
+            "value": "0.000610927617943102"
+        },
+        {
+            "source": "GABA",
+            "target": "lung squamous cell carcinoma stage i",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "b-cell small lymphocytic lymphoma",
+            "value": "0.00024362748553935"
+        },
+        {
+            "source": "GABA",
+            "target": "injection site warmth",
+            "value": "0.00528537826228798"
+        },
+        {
+            "source": "GABA",
+            "target": "pyelonephritis acute",
+            "value": "0.021585677854559"
+        },
+        {
+            "source": "GABA",
+            "target": "cardiac death",
+            "value": "0.0240465193857636"
+        },
+        {
+            "source": "GABA",
+            "target": "hepatitis b antibody positive",
+            "value": "0.0019746105423133"
+        },
+        {
+            "source": "GABA",
+            "target": "basophilia",
+            "value": "0.00528537826228798"
+        },
+        {
+            "source": "GABA",
+            "target": "graft loss",
+            "value": "0.0128072554662309"
+        },
+        {
+            "source": "GABA",
+            "target": "saliva discolouration",
+            "value": "0.0342588735938762"
+        },
+        {
+            "source": "GABA",
+            "target": "cerebral ischaemia",
+            "value": "0.000162464927732901"
+        },
+        {
+            "source": "GABA",
+            "target": "early morning awakening",
+            "value": "0.000103128018946127"
+        },
+        {
+            "source": "GABA",
+            "target": "pharmaceutical product complaint",
+            "value": "0.000352833392563243"
+        },
+        {
+            "source": "GABA",
+            "target": "anti-hbc antibody",
+            "value": "0.0058888042326094"
+        },
+        {
+            "source": "GABA",
+            "target": "anti-hbs antibody positive",
+            "value": "0.0013189319791787"
+        },
+        {
+            "source": "GABA",
+            "target": "escherichia urinary tract infection",
+            "value": "0.0038729286748886"
+        },
+        {
+            "source": "GABA",
+            "target": "no therapeutic response",
+            "value": "0.000479506256555057"
+        },
+        {
+            "source": "GABA",
+            "target": "meniscus lesion",
+            "value": "0.00341902651464514"
+        },
+        {
+            "source": "GABA",
+            "target": "enterococcal sepsis",
+            "value": "0.00342267721746694"
+        },
+        {
+            "source": "GABA",
+            "target": "cardiac procedure complication",
+            "value": "0.00276841543092301"
+        },
+        {
+            "source": "GABA",
+            "target": "respiratory failure",
+            "value": "0.0427594195982777"
+        },
+        {
+            "source": "GABA",
+            "target": "band neutrophil percentage decreased",
+            "value": "0.0122663431400203"
+        },
+        {
+            "source": "GABA",
+            "target": "human herpes virus 6 serology positive",
+            "value": "0.0240531618740678"
+        },
+        {
+            "source": "GABA",
+            "target": "urinoma",
+            "value": "0.0046906459613774"
+        },
+        {
+            "source": "GABA",
+            "target": "aortic valve sclerosis",
+            "value": "0.000690973062175886"
+        },
+        {
+            "source": "GABA",
+            "target": "sjogren's syndrome",
+            "value": "0.0437744215409635"
+        },
+        {
+            "source": "GABA",
+            "target": "dysphonia",
+            "value": "0.000921047830044228"
+        },
+        {
+            "source": "leucovorin",
+            "target": "als",
+            "value": "0.0080645718427293"
+        },
+        {
+            "source": "leucovorin",
+            "target": "apraxia",
+            "value": "0.00320116792275939"
+        },
+        {
+            "source": "leucovorin",
+            "target": "psoriatic arthritis",
+            "value": "0.0036799178263078"
+        },
+        {
+            "source": "leucovorin",
+            "target": "asthenia",
+            "value": "0.00325097701875393"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Astrocytoma",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "atelectasis",
+            "value": "0.00213589606559894"
+        },
+        {
+            "source": "leucovorin",
+            "target": "av dissociation",
+            "value": "0.00378809257204019"
+        },
+        {
+            "source": "leucovorin",
+            "target": "platelet disorder",
+            "value": "0.0113260855247856"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bronchial fistula",
+            "value": "0.000485169813215035"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cutaneous candidiasis",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hypertrophic cardiomyopathy",
+            "value": "0.00229451351915758"
+        },
+        {
+            "source": "leucovorin",
+            "target": "chronic ulcerative colitis",
+            "value": "0.00377655124562045"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cranial neuropathy",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "dental plaque",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Diabetic Nephropathy",
+            "value": "0.00422836280101479"
+        },
+        {
+            "source": "leucovorin",
+            "target": "female genital-digestive tract fistula",
+            "value": "0.000186477586206611"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ectropion",
+            "value": "0.000666987892387199"
+        },
+        {
+            "source": "leucovorin",
+            "target": "empty sella syndrome",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "epilepsy",
+            "value": "0.000617091942872438"
+        },
+        {
+            "source": "leucovorin",
+            "target": "esophageal perforation",
+            "value": "0.0382784323511854"
+        },
+        {
+            "source": "leucovorin",
+            "target": "eye injury",
+            "value": "0.00078213371967129"
+        },
+        {
+            "source": "leucovorin",
+            "target": "eye penetration",
+            "value": "0.00078213371967129"
+        },
+        {
+            "source": "leucovorin",
+            "target": "face pain",
+            "value": "0.00794532645498688"
+        },
+        {
+            "source": "leucovorin",
+            "target": "fistula",
+            "value": "0.000146834062975165"
+        },
+        {
+            "source": "leucovorin",
+            "target": "conductive deafness",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hepatorenal failure",
+            "value": "0.00127789152403157"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Herpes ophthalmic",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hydronephrosis",
+            "value": "0.000691287358225433"
+        },
+        {
+            "source": "leucovorin",
+            "target": "diabetic hyperosmolar coma",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood sodium increased",
+            "value": "0.0139771352147616"
+        },
+        {
+            "source": "leucovorin",
+            "target": "type iv hypersensitivity reaction",
+            "value": "0.00292562708383302"
+        },
+        {
+            "source": "leucovorin",
+            "target": "malignant hypertension",
+            "value": "0.00945589672067053"
+        },
+        {
+            "source": "leucovorin",
+            "target": "body temperature",
+            "value": "0.0162780561211156"
+        },
+        {
+            "source": "leucovorin",
+            "target": "laryngeal neoplasia",
+            "value": "0.000684743697402958"
+        },
+        {
+            "source": "leucovorin",
+            "target": "edentulous",
+            "value": "0.000134671983992174"
+        },
+        {
+            "source": "leucovorin",
+            "target": "muscle necrosis",
+            "value": "0.0272847804521914"
+        },
+        {
+            "source": "leucovorin",
+            "target": "neoplasia",
+            "value": "0.0247140289748115"
+        },
+        {
+            "source": "leucovorin",
+            "target": "nodule",
+            "value": "0.000238773457773886"
+        },
+        {
+            "source": "leucovorin",
+            "target": "optic nerve disorder",
+            "value": "0.00014198047795309"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pachymeningitis",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "formication",
+            "value": "0.000738133462453694"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pelvic infection",
+            "value": "0.000347459549830842"
+        },
+        {
+            "source": "leucovorin",
+            "target": "peritoneal disorder",
+            "value": "0.0297897810943782"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Post thrombotic syndrome",
+            "value": "0.0155071879354058"
+        },
+        {
+            "source": "leucovorin",
+            "target": "priapism",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pupillary disorder",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "rectal neoplasm",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "renal infarct",
+            "value": "0.00201846566149559"
+        },
+        {
+            "source": "leucovorin",
+            "target": "surgical procedure repeated",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Detached retina",
+            "value": "0.00809291477435202"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Vasomotor Rhinitis",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "snoring",
+            "value": "0.00910640792143845"
+        },
+        {
+            "source": "leucovorin",
+            "target": "rupture of spleen",
+            "value": "0.00182661636809939"
+        },
+        {
+            "source": "leucovorin",
+            "target": "postoperative wound infection",
+            "value": "0.000788144627516813"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Supraventricular tachycardia",
+            "value": "0.00238085072025116"
+        },
+        {
+            "source": "leucovorin",
+            "target": "telangiectases",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "tetany",
+            "value": "0.0197708214652485"
+        },
+        {
+            "source": "leucovorin",
+            "target": "varicose ulceration",
+            "value": "0.00240313842970434"
+        },
+        {
+            "source": "leucovorin",
+            "target": "syncope vasovagal",
+            "value": "0.00370398205217052"
+        },
+        {
+            "source": "leucovorin",
+            "target": "urogenital disorder",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "erythema infectiosum",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "arterial spasm",
+            "value": "0.000485169813215035"
+        },
+        {
+            "source": "leucovorin",
+            "target": "antinuclear antibody",
+            "value": "0.0200352289886434"
+        },
+        {
+            "source": "leucovorin",
+            "target": "haemorrhage intracranial",
+            "value": "0.029921681252692"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hypermagnesaemia",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "intestinal ulcer",
+            "value": "0.000336970305065353"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pseudomonal sepsis",
+            "value": "0.000206364419926183"
+        },
+        {
+            "source": "leucovorin",
+            "target": "retroperitoneal cancer",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "metastases to pleura",
+            "value": "0.000236415958091706"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pharyngeal neoplasm",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "aortic atherosclerosis",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "sinus polyp",
+            "value": "0.00587577415190679"
+        },
+        {
+            "source": "leucovorin",
+            "target": "gallbladder perforation",
+            "value": "0.000485169813215035"
+        },
+        {
+            "source": "leucovorin",
+            "target": "colitis ischaemic",
+            "value": "0.00985160112628999"
+        },
+        {
+            "source": "leucovorin",
+            "target": "gastric outlet obstruction",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "fibroadenoma of breast",
+            "value": "0.00130541913022584"
+        },
+        {
+            "source": "leucovorin",
+            "target": "disuse syndrome",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "chest tube insertion",
+            "value": "0.00172121935076642"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ureteric operation",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "urethral operation",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "radiation pneumonitis",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "tympanic membrane perforation",
+            "value": "0.0339894402411702"
+        },
+        {
+            "source": "leucovorin",
+            "target": "neuroendocrine tumour",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "injection site infection",
+            "value": "0.000192352968266229"
+        },
+        {
+            "source": "leucovorin",
+            "target": "depression suicidal",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cold sweat",
+            "value": "0.0017457534875786"
+        },
+        {
+            "source": "leucovorin",
+            "target": "gallbladder non-functioning",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "epileptic aura",
+            "value": "0.0208228671060528"
+        },
+        {
+            "source": "leucovorin",
+            "target": "postictal state",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "tunnel vision",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "iliac artery thrombosis",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pupillary reflex impaired",
+            "value": "0.00030093174897481"
+        },
+        {
+            "source": "leucovorin",
+            "target": "expressive language disorder",
+            "value": "0.000171205959064985"
+        },
+        {
+            "source": "leucovorin",
+            "target": "anal inflammation",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "antineutrophil cytoplasmic antibody positive",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "prolonged expiration",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "erythema of eyelid",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "femoral pulse decreased",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "gingivitis ulcerative",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "haematocrit increased",
+            "value": "0.000520794855693165"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hepatic fibrosis",
+            "value": "0.00562956350578836"
+        },
+        {
+            "source": "leucovorin",
+            "target": "inguinal mass",
+            "value": "0.00078213371967129"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pulse pressure decreased",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "venous occlusion",
+            "value": "0.000126646962950407"
+        },
+        {
+            "source": "leucovorin",
+            "target": "autoimmune thrombocytopenia",
+            "value": "0.000531611595728665"
+        },
+        {
+            "source": "leucovorin",
+            "target": "xerosis",
+            "value": "0.000179560640900471"
+        },
+        {
+            "source": "leucovorin",
+            "target": "inferior vena caval occlusion",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "carotid artery occlusion",
+            "value": "0.0114584053631194"
+        },
+        {
+            "source": "leucovorin",
+            "target": "gastroenteritis radiation",
+            "value": "0.000244151059685272"
+        },
+        {
+            "source": "leucovorin",
+            "target": "colonic stenosis",
+            "value": "0.046868973449384"
+        },
+        {
+            "source": "leucovorin",
+            "target": "perirectal abscess",
+            "value": "0.0231029096764864"
+        },
+        {
+            "source": "leucovorin",
+            "target": "fluid imbalance",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bladder hypertrophy",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "actinomycotic pulmonary infection",
+            "value": "0.0225046796100883"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bronchitis viral",
+            "value": "0.000255101361361719"
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood pressure systolic increased",
+            "value": "0.00120447246500258"
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood pressure systolic decreased",
+            "value": "0.000225529789984439"
+        },
+        {
+            "source": "leucovorin",
+            "target": "venous stasis",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "colon cancer stage i",
+            "value": "0.000126646962950407"
+        },
+        {
+            "source": "leucovorin",
+            "target": "scrotal swelling",
+            "value": "0.0297897810943782"
+        },
+        {
+            "source": "leucovorin",
+            "target": "abscess rupture",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "lacunar infarction",
+            "value": "0.015496519885823"
+        },
+        {
+            "source": "leucovorin",
+            "target": "lesion excision",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "intracranial venous sinus thrombosis",
+            "value": "0.000255101361361719"
+        },
+        {
+            "source": "leucovorin",
+            "target": "superior sagittal sinus thrombosis",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "renal artery thrombosis",
+            "value": "0.000484399155928532"
+        },
+        {
+            "source": "leucovorin",
+            "target": "coronary artery dissection",
+            "value": "0.000877799570364323"
+        },
+        {
+            "source": "leucovorin",
+            "target": "arteriovenous fistula thrombosis",
+            "value": "0.00172121935076642"
+        },
+        {
+            "source": "leucovorin",
+            "target": "nail infection",
+            "value": "0.0382784323511854"
+        },
+        {
+            "source": "leucovorin",
+            "target": "muscle abscess",
+            "value": "0.0225046796100883"
+        },
+        {
+            "source": "leucovorin",
+            "target": "benign lung neoplasm",
+            "value": "0.000684743697402958"
+        },
+        {
+            "source": "leucovorin",
+            "target": "metastases to retroperitoneum",
+            "value": "0.0225046796100883"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ureteric rupture",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "radiculitis",
+            "value": "0.0382784323511854"
+        },
+        {
+            "source": "leucovorin",
+            "target": "carcinoid tumour of the small bowel",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "herpetic gingivostomatitis",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "retinal artery spasm",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "spinal cord infarction",
+            "value": "0.00172121935076642"
+        },
+        {
+            "source": "leucovorin",
+            "target": "trousseau's syndrome",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "spinal myelogram abnormal",
+            "value": "0.00172121935076642"
+        },
+        {
+            "source": "leucovorin",
+            "target": "conjunctivitis infective",
+            "value": "0.00582687446710126"
+        },
+        {
+            "source": "leucovorin",
+            "target": "accelerated hypertension",
+            "value": "0.044334747333202"
+        },
+        {
+            "source": "leucovorin",
+            "target": "small intestinal haemorrhage",
+            "value": "0.00167379841760746"
+        },
+        {
+            "source": "leucovorin",
+            "target": "vulvovaginal discomfort",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cardio-respiratory arrest",
+            "value": "0.0106505264266697"
+        },
+        {
+            "source": "leucovorin",
+            "target": "injection site dermatitis",
+            "value": "0.00876467005128617"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hydroureter",
+            "value": "0.000272596139625284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "drug interaction potentiation",
+            "value": "0.00135620955276187"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pre-existing condition improved",
+            "value": "0.000499971217896624"
+        },
+        {
+            "source": "leucovorin",
+            "target": "sense of oppression",
+            "value": "0.000485169813215035"
+        },
+        {
+            "source": "leucovorin",
+            "target": "disease complication",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "joint lock",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "chemical burn of skin",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pulmonary cavitation",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "histology",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "belligerence",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "viral hepatitis carrier",
+            "value": "0.000270823982295381"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bone scan abnormal",
+            "value": "0.000860521246044443"
+        },
+        {
+            "source": "leucovorin",
+            "target": "aortic embolus",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "physical examination abnormal",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "scleral haemorrhage",
+            "value": "0.000236613334566569"
+        },
+        {
+            "source": "leucovorin",
+            "target": "putamen haemorrhage",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ear pruritus",
+            "value": "0.000484399155928532"
+        },
+        {
+            "source": "leucovorin",
+            "target": "mole excision",
+            "value": "0.000499971217896624"
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood calcitonin increased",
+            "value": "0.0113260855247856"
+        },
+        {
+            "source": "leucovorin",
+            "target": "blood fibrinogen increased",
+            "value": "0.00663757702391818"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cytotoxic cardiomyopathy",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "endocarditis viral",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "alcohol interaction",
+            "value": "0.00115389322791004"
+        },
+        {
+            "source": "leucovorin",
+            "target": "scan abdomen abnormal",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "mental disorder due to a general medical condition",
+            "value": "0.000247757599193062"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ph urine decreased",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "abdominal hernia obstructive",
+            "value": "0.0382784323511854"
+        },
+        {
+            "source": "leucovorin",
+            "target": "investigation abnormal",
+            "value": "0.00910640792143845"
+        },
+        {
+            "source": "leucovorin",
+            "target": "liposarcoma",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "urine sodium decreased",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "red blood cell schistocytes present",
+            "value": "0.00203649004253608"
+        },
+        {
+            "source": "leucovorin",
+            "target": "haemoglobin abnormal",
+            "value": "0.000218673799224721"
+        },
+        {
+            "source": "leucovorin",
+            "target": "pharyngolaryngeal pain",
+            "value": "0.0450060059724498"
+        },
+        {
+            "source": "leucovorin",
+            "target": "burkitt's lymphoma recurrent",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "oesophageal squamous cell carcinoma",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "catheter site related reaction",
+            "value": "0.00172121935076642"
+        },
+        {
+            "source": "leucovorin",
+            "target": "posturing",
+            "value": "0.000171205959064985"
+        },
+        {
+            "source": "leucovorin",
+            "target": "ovarian adenoma",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "visual brightness",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "antiphospholipid antibodies positive",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "troponin i",
+            "value": "0.00167950257262069"
+        },
+        {
+            "source": "leucovorin",
+            "target": "faecal volume decreased",
+            "value": "0.00359678352090284"
+        },
+        {
+            "source": "leucovorin",
+            "target": "subileus",
+            "value": "0.00131673520234445"
+        },
+        {
+            "source": "leucovorin",
+            "target": "granulocytes maturation arrest",
+            "value": "0.00135620955276187"
+        },
+        {
+            "source": "leucovorin",
+            "target": "creatinine urine increased",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "electrocardiogram t wave amplitude increased",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "postoperative abscess",
+            "value": "0.00360386512338576"
+        },
+        {
+            "source": "leucovorin",
+            "target": "limb operation",
+            "value": "0.00221581063155018"
+        },
+        {
+            "source": "leucovorin",
+            "target": "vascular access complication",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "crystal urine",
+            "value": "0.000255101361361719"
+        },
+        {
+            "source": "leucovorin",
+            "target": "metastases to salivary gland",
+            "value": "0.000247757599193062"
+        },
+        {
+            "source": "leucovorin",
+            "target": "percussion test abnormal",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "femoral artery occlusion",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "neuroborreliosis",
+            "value": "0.0382784323511854"
+        },
+        {
+            "source": "leucovorin",
+            "target": "peritoneal carcinoma",
+            "value": "0.00156955988004733"
+        },
+        {
+            "source": "leucovorin",
+            "target": "monocyte percentage increased",
+            "value": "0.000484399155928532"
+        },
+        {
+            "source": "leucovorin",
+            "target": "electrocardiogram st-t segment abnormal",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bile duct stenosis",
+            "value": "0.0275577938575375"
+        },
+        {
+            "source": "leucovorin",
+            "target": "anti-hbe antibody positive",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "catheter site oedema",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "catheter site inflammation",
+            "value": "0.0155071879354058"
+        },
+        {
+            "source": "leucovorin",
+            "target": "haemorrhagic anaemia",
+            "value": "0.0431499354508804"
+        },
+        {
+            "source": "leucovorin",
+            "target": "abortion early",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "catheter site cellulitis",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "catheter site discharge",
+            "value": "0.00078213371967129"
+        },
+        {
+            "source": "leucovorin",
+            "target": "lymphoid tissue hyperplasia",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "enterococcal infection",
+            "value": "0.00291027979877991"
+        },
+        {
+            "source": "leucovorin",
+            "target": "general nutrition disorder",
+            "value": "0.0225046796100883"
+        },
+        {
+            "source": "leucovorin",
+            "target": "injection site discomfort",
+            "value": "0.00147671743656957"
+        },
+        {
+            "source": "leucovorin",
+            "target": "biliary cancer metastatic",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "escherichia vaginitis",
+            "value": "0.000108046467847945"
+        },
+        {
+            "source": "leucovorin",
+            "target": "fungus sputum test positive",
+            "value": "0.0239467302308705"
+        },
+        {
+            "source": "leucovorin",
+            "target": "murder",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "urine human chorionic gonadotropin increased",
+            "value": "0.000485169813215035"
+        },
+        {
+            "source": "leucovorin",
+            "target": "temperature intolerance",
+            "value": "0.0082778124567165"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bone callus excessive",
+            "value": "0.00240313842970434"
+        },
+        {
+            "source": "leucovorin",
+            "target": "abdominal sepsis",
+            "value": "0.000347459549830842"
+        },
+        {
+            "source": "leucovorin",
+            "target": "medical device pain",
+            "value": "0.00135620955276187"
+        },
+        {
+            "source": "leucovorin",
+            "target": "stoma site reaction",
+            "value": "0.00592031831034664"
+        },
+        {
+            "source": "leucovorin",
+            "target": "suture line infection",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "delirium febrile",
+            "value": "0.000255101361361719"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cytology abnormal",
+            "value": "0.00184283318038477"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bile culture positive",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "red blood cell anisocytes present",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "hepatic enzyme decreased",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "bacteria urine",
+            "value": "0.0113260855247856"
+        },
+        {
+            "source": "leucovorin",
+            "target": "diffuse large b-cell lymphoma",
+            "value": "0.010993895717424"
+        },
+        {
+            "source": "leucovorin",
+            "target": "nitrite urine",
+            "value": "0.000387637040917968"
+        },
+        {
+            "source": "leucovorin",
+            "target": "oral mucosal disorder",
+            "value": "0.000347459549830842"
+        },
+        {
+            "source": "leucovorin",
+            "target": "transaminases abnormal",
+            "value": "0.00340653357856133"
+        },
+        {
+            "source": "leucovorin",
+            "target": "xanthogranuloma",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cardiovascular insufficiency",
+            "value": "0.0431904069146604"
+        },
+        {
+            "source": "leucovorin",
+            "target": "anastomotic ulcer",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cerebral parenchymal calcification",
+            "value": "0.00712467596657304"
+        },
+        {
+            "source": "leucovorin",
+            "target": "Morphea",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "implant site extravasation",
+            "value": "0.000827497695879507"
+        },
+        {
+            "source": "leucovorin",
+            "target": "incorrect drug administration rate",
+            "value": "0.00248413342753734"
+        },
+        {
+            "source": "leucovorin",
+            "target": "soft tissue necrosis",
+            "value": "0.00203649004253608"
+        },
+        {
+            "source": "leucovorin",
+            "target": "calcific deposits removal",
+            "value": "0.00102093607922525"
+        },
+        {
+            "source": "leucovorin",
+            "target": "peritoneal perforation",
+            "value": "0.0118273294203776"
+        },
+        {
+            "source": "leucovorin",
+            "target": "rectal obstruction",
+            "value": "0.0467099699493615"
+        },
+        {
+            "source": "leucovorin",
+            "target": "aspermia",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "visceral congestion",
+            "value": "0.00338118733476486"
+        },
+        {
+            "source": "leucovorin",
+            "target": "stress cardiomyopathy",
+            "value": "0.000106792453927824"
+        },
+        {
+            "source": "leucovorin",
+            "target": "coronary artery restenosis",
+            "value": "0.00603975696475744"
+        },
+        {
+            "source": "leucovorin",
+            "target": "staphylococcal identification test positive",
+            "value": "0.012499460092378"
+        },
+        {
+            "source": "leucovorin",
+            "target": "cardioversion",
+            "value": "0.0004737822921127"
+        },
+        {
+            "source": "leucovorin",
+            "target": "csf protein",
+            "value": "0.0431240922448596"
+        },
+        {
+            "source": "leucovorin",
+            "target": "intestinal anastomosis complication",
+            "value": "0.0225046796100883"
+        }
+    ]
+}

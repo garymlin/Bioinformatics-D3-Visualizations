@@ -1,0 +1,745 @@
+"umls_id","side_effect","cui","category",count
+"C0033117","priapism","C1145628","Autonomic Nervous Disorders",1
+"C0003811","Arrhythmia","C0007222","Cardiovascular Disorders",1
+"C0010054","arteriosclerotic heart disease","C0007222","Cardiovascular Disorders",1
+"C0020538","hypertension","C0007222","Cardiovascular Disorders",1
+"C0020649","hypotension","C0007222","Cardiovascular Disorders",1
+"C0036974","shock","C0007222","Cardiovascular Disorders",1
+"C0040128","Thyroid gland disorders","C0014136","Endocrine Disorders",1
+"C0017160","gastroenteritis","C0017178","Gastrointestinal Disorders",1
+"C0018520","Halitosis","C0017178","Gastrointestinal Disorders",1
+"C0019270","hernia","C0017178","Gastrointestinal Disorders",1
+"C0023895","liver disease","C0017178","Gastrointestinal Disorders",1
+"C0025319","Menopausal Syndrome","C0017411","Gynecologic Disorders",1
+"C0025345","Menstrual Disorder","C0017411","Gynecologic Disorders",1
+"C0007784","Cerebral hemorrhage","C0019080","Hemorrhage",1
+"C0013491","ecchymosis","C0019080","Hemorrhage",1
+"C0014591","epistaxis","C0019080","Hemorrhage",1
+"C0017181","gastrointestinal bleeding","C0019080","Hemorrhage",1
+"C0017565","gum hemorrhage","C0019080","Hemorrhage",1
+"C0018926","hematemesis","C0019080","Hemorrhage",1
+"C0018946","subdural hematoma","C0019080","Hemorrhage",1
+"C0018965","hematuria","C0019080","Hemorrhage",1
+"C0019079","hemoptysis","C0019080","Hemorrhage",1
+"C0019080","Bleeding","C0019080","Hemorrhage",1
+"C0019123","hemothorax","C0019080","Hemorrhage",1
+"C0025222","black stools","C0019080","Hemorrhage",1
+"C0025323","menorrhagia","C0019080","Hemorrhage",1
+"C0025874","metrorrhagia","C0019080","Hemorrhage",1
+"C0031256","petechia","C0019080","Hemorrhage",1
+"C0034150","purpura","C0019080","Hemorrhage",1
+"C0034155","thrombotic thrombocytopenic purpura","C0019080","Hemorrhage",1
+"C0035317","retinal hemorrhage","C0019080","Hemorrhage",1
+"C0038525","subarachnoid hemorrhage","C0019080","Hemorrhage",1
+"C0042134","Uterine hemorrhage","C0019080","Hemorrhage",1
+"C0151699","intracranial bleeding","C0019080","Hemorrhage",1
+"C0151706","Vaginal hemorrhage","C0019080","Hemorrhage",1
+"C0151966","duodenal ulcer hemorrhage","C0019080","Hemorrhage",1
+"C0267596","rectal hemorrhage","C0019080","Hemorrhage",1
+"C0000768","Congenital Anomalies","C0549600","Maternal-Fetal Disorders",1
+"C0154251","disorders of lipid metabolism","C0028715","Metabolic and Nutritional Disorders",1
+"C0549567","pigmentation disorder","C0028715","Metabolic and Nutritional Disorders",1
+"C0001122","Acidosis","C0025517","Metabolic Disorders",1
+"C0002063","alkalosis","C0025517","Metabolic Disorders",1
+"C0018099","gout","C0025517","Metabolic Disorders",1
+"C0020488","Hypernatremia","C0025517","Metabolic Disorders",1
+"C0020625","Hyponatremia","C0025517","Metabolic Disorders",1
+"C0021141","syndrome of inappropriate antidiuretic hormone","C0025517","Metabolic Disorders",1
+"C0032708","Porphyria","C0025517","Metabolic Disorders",1
+"C0085679","hyperchloremia","C0025517","Metabolic Disorders",1
+"C0085680","hypochloremia","C0025517","Metabolic Disorders",1
+"C0151714","hypermagnesemia","C0025517","Metabolic Disorders",1
+"C0151723","Hypomagnesemia","C0025517","Metabolic Disorders",1
+"C0022408","arthrosis","C0026860","Musculo-skeletal System",1
+"C0026848","muscular disorder","C0026860","Musculo-skeletal System",1
+"C0010034","corneal disorders","C0015397","Ophthalmic Disorders",1
+"C0035309","Retinopathy","C0015397","Ophthalmic Disorders",1
+"C0002726","amyloidosis","C0030660","Pathological Disorders",1
+"C0006826","malignant neoplasm","C0030660","Pathological Disorders",2
+"C0016059","fibrosis","C0030660","Pathological Disorders",1
+"C0018188","granuloma","C0030660","Pathological Disorders",1
+"C0020517","allergies","C0030660","Pathological Disorders",1
+"C0021311","infection","C0030660","Pathological Disorders",2
+"C0042487","vein thrombosis","C0030660","Pathological Disorders",1
+"C0086692","benign tumors","C0030660","Pathological Disorders",1
+"C0262428","collagenvascular disease","C0030660","Pathological Disorders",1
+"C0004144","atelectasis","C0024115","Pulmonary Disorders",1
+"C0006267","bronchiectasis","C0024115","Pulmonary Disorders",1
+"C0006271","bronchiolitis","C0024115","Pulmonary Disorders",1
+"C0006277","bronchitis","C0024115","Pulmonary Disorders",1
+"C0021311","infection","C0024115","Pulmonary Disorders",2
+"C0024115","Lung disorder","C0024115","Pulmonary Disorders",2
+"C0032285","pneumonia","C0024115","Pulmonary Disorders",1
+"C0032290","aspiration pneumonia","C0024115","Pulmonary Disorders",1
+"C0034063","Pulmonary Edema","C0024115","Pulmonary Disorders",1
+"C0034067","emphysema","C0024115","Pulmonary Disorders",1
+"C0034069","pulmonary fibrosis","C0024115","Pulmonary Disorders",1
+"C0206061","interstitial pneumonitis","C0024115","Pulmonary Disorders",1
+"C0684249","pulmonary carcinoma","C0024115","Pulmonary Disorders",1
+"C1527407","eosinophilic pneumonia","C0024115","Pulmonary Disorders",1
+"C0019212","hepatorenal syndrome","C0022658","Renal Disorders",1
+"C0020295","hydronephrosis","C0022658","Renal Disorders",1
+"C0022658","nephropathy","C0022658","Renal Disorders",1
+"C0022667","renal papillary necrosis","C0022658","Renal Disorders",1
+"C0022680","polycystic kidney","C0022658","Renal Disorders",1
+"C0027720","nephrosis","C0022658","Renal Disorders",1
+"C0032617","polyuria","C0022658","Renal Disorders",1
+"C0034186","pyelonephritis","C0022658","Renal Disorders",1
+"C0034359","pyuria","C0022658","Renal Disorders",1
+"C0392525","Nephrolithiasis","C0022658","Renal Disorders",1
+"C0521620","hydroureter","C0022658","Renal Disorders",1
+"C0677481","urinary frequency","C0022658","Renal Disorders",1
+"C0024115","Lung disorder","C0035237","Respiratory System",2
+"C0006826","malignant neoplasm","C0549602","Reticuloendthelial Disorders",2
+"C0024282","lymphocytosis","C0549602","Reticuloendthelial Disorders",1
+"C0038000","Splenic Rupture","C0549602","Reticuloendthelial Disorders",1
+"C0038002","splenomegaly","C0549602","Reticuloendthelial Disorders",1
+"C0497156","Lymphadenopathy","C0549602","Reticuloendthelial Disorders",1
+"C0015230","rash","C0037274","Skin and Appendages",1
+"C0026946","infection fungal","C0037274","Skin and Appendages",1
+"C0041834","erythema","C0037274","Skin and Appendages",1
+"C0151514","skin atrophy","C0037274","Skin and Appendages",1
+"C0009806","constipation","C1145628","Autonomic Nervous Disorders",2
+"C0038353","gastric dilatation","C1145628","Autonomic Nervous Disorders",2
+"C0043352","dry mouth","C1145628","Autonomic Nervous Disorders",2
+"C0080274","urinary retention","C1145628","Autonomic Nervous Disorders",2
+"C0152020","gastric stasis","C1145628","Autonomic Nervous Disorders",2
+"C0003079","Anisocoria","C1145628","Autonomic Nervous Disorders",2
+"C0005745","eyelid ptosis","C1145628","Autonomic Nervous Disorders",3
+"C0020651","postural hypotension","C1145628","Autonomic Nervous Disorders",2
+"C0037036","salivation","C1145628","Autonomic Nervous Disorders",2
+"C0085610","sinus bradycardia","C1145628","Autonomic Nervous Disorders",2
+"C0428977","bradycardia","C1145628","Autonomic Nervous Disorders",2
+"C0004238","Atrial Fibrillation","C0007222","Cardiovascular Disorders",1
+"C0004239","atrial flutter","C0007222","Cardiovascular Disorders",1
+"C0004245","AV block","C0007222","Cardiovascular Disorders",1
+"C0006384","bundle branch block","C0007222","Cardiovascular Disorders",1
+"C0018790","Cardiac arrest","C0007222","Cardiovascular Disorders",2
+"C0018794","Heart block","C0007222","Cardiovascular Disorders",1
+"C0030252","palpitation","C0007222","Cardiovascular Disorders",1
+"C0033036","supraventricular extrasystoles","C0007222","Cardiovascular Disorders",1
+"C0039231","tachycardia","C0007222","Cardiovascular Disorders",1
+"C0039240","Supraventricular tachycardia","C0007222","Cardiovascular Disorders",1
+"C0042510","ventricular fibrillation","C0007222","Cardiovascular Disorders",2
+"C0042514","Ventricular tachycardia","C0007222","Cardiovascular Disorders",1
+"C0085610","sinus bradycardia","C0007222","Cardiovascular Disorders",2
+"C0085614","first degree heart block","C0007222","Cardiovascular Disorders",1
+"C0151517","third degree heart block","C0007222","Cardiovascular Disorders",1
+"C0151636","premature ventricular contraction","C0007222","Cardiovascular Disorders",1
+"C0262662","Bigeminy","C0007222","Cardiovascular Disorders",1
+"C0264906","AV block second degree","C0007222","Cardiovascular Disorders",1
+"C0428977","bradycardia","C0007222","Cardiovascular Disorders",2
+"C0428982","Tachycardia Nodal","C0007222","Cardiovascular Disorders",1
+"C0522055","abnormal ECG","C0007222","Cardiovascular Disorders",1
+"C0002962","angina pectoris","C0007222","Cardiovascular Disorders",1
+"C0008031","chest pain","C0007222","Cardiovascular Disorders",1
+"C0027051","myocardial infarction","C0007222","Cardiovascular Disorders",1
+"C0151744","myocardial ischemia","C0007222","Cardiovascular Disorders",1
+"C0151754","LDH increased","C0007222","Cardiovascular Disorders",3
+"C0151826","substernal chest pain","C0007222","Cardiovascular Disorders",1
+"C0151620","Hypertensive encephalopathy","C0007222","Cardiovascular Disorders",1
+"C0020651","postural hypotension","C0007222","Cardiovascular Disorders",2
+"C0039070","syncope","C0007222","Cardiovascular Disorders",1
+"C0003850","arteriosclerosis","C0007222","Cardiovascular Disorders",1
+"C0003860","arteritis","C0007222","Cardiovascular Disorders",2
+"C0007820","cerebrovascular disorder","C0007222","Cardiovascular Disorders",1
+"C0017086","gangrene","C0007222","Cardiovascular Disorders",1
+"C0038454","cerebrovascular accident","C0007222","Cardiovascular Disorders",2
+"C0042373","Vascular disorders","C0007222","Cardiovascular Disorders",1
+"C0085096","peripheral vascular disorder","C0007222","Cardiovascular Disorders",1
+"C0158570","vascular anomaly","C0007222","Cardiovascular Disorders",2
+"C0003507","aortic stenosis","C0007222","Cardiovascular Disorders",1
+"C0013274","patent ductus arteriosus","C0007222","Cardiovascular Disorders",2
+"C0013404","Dyspnea","C0007222","Cardiovascular Disorders",3
+"C0013604","edema","C0007222","Cardiovascular Disorders",2
+"C0018801","heart failure","C0007222","Cardiovascular Disorders",1
+"C0018802","congestive heart failure","C0007222","Cardiovascular Disorders",2
+"C0018817","atrial septal defect","C0007222","Cardiovascular Disorders",2
+"C0032227","Pleural Effusion","C0007222","Cardiovascular Disorders",3
+"C0034072","Cor pulmonale","C0007222","Cardiovascular Disorders",3
+"C0085649","Peripheral Edema","C0007222","Cardiovascular Disorders",2
+"C0014118","endocarditis","C0007222","Cardiovascular Disorders",1
+"C0018800","cardiomegaly","C0007222","Cardiovascular Disorders",1
+"C0027059","myocarditis","C0007222","Cardiovascular Disorders",1
+"C0031039","pericardial effusion","C0007222","Cardiovascular Disorders",1
+"C0031046","pericarditis","C0007222","Cardiovascular Disorders",1
+"C0878544","Cardiomyopathy","C0007222","Cardiovascular Disorders",1
+"C0024225","lymphangitis","C0007222","Cardiovascular Disorders",1
+"C0024236","lymphedema","C0007222","Cardiovascular Disorders",1
+"C0042345","varicose veins","C0007222","Cardiovascular Disorders",1
+"C0002453","amenorrhea","C0014136","Endocrine Disorders",2
+"C0025218","Melasma","C0014136","Endocrine Disorders",4
+"C0029925","Ovarian cancer","C0014136","Endocrine Disorders",4
+"C0042755","Masculinization","C0014136","Endocrine Disorders",2
+"C0016663","pathologic fracture","C0014136","Endocrine Disorders",1
+"C0020437","hypercalcemia","C0014136","Endocrine Disorders",2
+"C0085682","hypophosphatemia","C0014136","Endocrine Disorders",2
+"C0029191","orchitis","C0014136","Endocrine Disorders",2
+"C0156312","testicular atrophy","C0014136","Endocrine Disorders",1
+"C0018021","goiter","C0014136","Endocrine Disorders",1
+"C0020550","hyperthyroidism","C0014136","Endocrine Disorders",1
+"C0020676","hypothyroidism","C0014136","Endocrine Disorders",1
+"C0040136","thyroid neoplasm","C0014136","Endocrine Disorders",3
+"C0040147","thyroiditis","C0014136","Endocrine Disorders",1
+"C0151468","thyroid adenoma","C0014136","Endocrine Disorders",2
+"C0549473","thyroid cancer","C0014136","Endocrine Disorders",3
+"C0011849","Diabetes Mellitus","C0014136","Endocrine Disorders",2
+"C0011880","diabetic acidosis","C0014136","Endocrine Disorders",2
+"C0001621","adrenal disease","C0014136","Endocrine Disorders",1
+"C0010481","Cushing syndrome","C0014136","Endocrine Disorders",1
+"C0014130","Endocrine Disorders","C0014136","Endocrine Disorders",1
+"C0011168","dysphagia","C0017178","Gastrointestinal Disorders",1
+"C0014866","esophageal stricture","C0017178","Gastrointestinal Disorders",1
+"C0014868","esophagitis","C0017178","Gastrointestinal Disorders",1
+"C0151970","esophageal ulceration","C0017178","Gastrointestinal Disorders",1
+"C0019147","hepatic coma","C0017178","Gastrointestinal Disorders",1
+"C0019158","hepatitis","C0017178","Gastrointestinal Disorders",1
+"C0019204","hepatoma","C0017178","Gastrointestinal Disorders",3
+"C0019209","Hepatomegaly","C0017178","Gastrointestinal Disorders",1
+"C0022346","jaundice","C0017178","Gastrointestinal Disorders",1
+"C0022353","Neonatal jaundice","C0017178","Gastrointestinal Disorders",2
+"C0023890","cirrhosis","C0017178","Gastrointestinal Disorders",1
+"C0023903","hepatic neoplasia","C0017178","Gastrointestinal Disorders",3
+"C0085605","liver failure","C0017178","Gastrointestinal Disorders",1
+"C0149709","hepatitis B surface antigen positive","C0017178","Gastrointestinal Disorders",1
+"C0151754","LDH increased","C0017178","Gastrointestinal Disorders",3
+"C0151766","liver function tests abnormal","C0017178","Gastrointestinal Disorders",1
+"C0151798","hepatic necrosis","C0017178","Gastrointestinal Disorders",1
+"C0151904","aspartate aminotransferase increased","C0017178","Gastrointestinal Disorders",2
+"C0003962","ascites","C0017178","Gastrointestinal Disorders",1
+"C0085666","spider angioma","C0017178","Gastrointestinal Disorders",1
+"C0008311","Cholangitis","C0017178","Gastrointestinal Disorders",1
+"C0008313","sclerosing cholangitis","C0017178","Gastrointestinal Disorders",2
+"C0008325","cholecystitis","C0017178","Gastrointestinal Disorders",1
+"C0008350","cholelithiasis","C0017178","Gastrointestinal Disorders",1
+"C0020433","Bilirubinemia","C0017178","Gastrointestinal Disorders",2
+"C0013295","duodenal ulcer","C0017178","Gastrointestinal Disorders",1
+"C0013298","duodenitis","C0017178","Gastrointestinal Disorders",1
+"C0013395","dyspepsia","C0017178","Gastrointestinal Disorders",1
+"C0014724","eructation","C0017178","Gastrointestinal Disorders",1
+"C0019521","hiccups","C0017178","Gastrointestinal Disorders",2
+"C0027497","nausea","C0017178","Gastrointestinal Disorders",1
+"C0030920","peptic ulcer","C0017178","Gastrointestinal Disorders",1
+"C0030925","perforated peptic ulcer","C0017178","Gastrointestinal Disorders",1
+"C0038353","gastric dilatation","C0017178","Gastrointestinal Disorders",2
+"C0038358","stomach ulcer","C0017178","Gastrointestinal Disorders",1
+"C0042963","vomiting","C0017178","Gastrointestinal Disorders",1
+"C0152020","gastric stasis","C0017178","Gastrointestinal Disorders",2
+"C0341163","perforated gastric ulcer","C0017178","Gastrointestinal Disorders",1
+"C0740401","duodenal ulcer perforation","C0017178","Gastrointestinal Disorders",1
+"C0151849","alkaline phosphatase increased","C0017178","Gastrointestinal Disorders",2
+"C0015732","fecal incontinence","C0017178","Gastrointestinal Disorders",1
+"C0015734","fecal impaction","C0017178","Gastrointestinal Disorders",1
+"C0033246","proctitis","C0017178","Gastrointestinal Disorders",1
+"C0232726","tenesmus","C0017178","Gastrointestinal Disorders",1
+"C0267572","ulcerative proctitis","C0017178","Gastrointestinal Disorders",1
+"C0009319","colitis","C0017178","Gastrointestinal Disorders",1
+"C0009324","ulcerative colitis","C0017178","Gastrointestinal Disorders",1
+"C0009806","constipation","C0017178","Gastrointestinal Disorders",2
+"C0011991","diarrhea","C0017178","Gastrointestinal Disorders",1
+"C0014335","enteritis","C0017178","Gastrointestinal Disorders",1
+"C0014356","enterocolitis","C0017178","Gastrointestinal Disorders",1
+"C0016204","flatulence","C0017178","Gastrointestinal Disorders",1
+"C0017152","gastritis","C0017178","Gastrointestinal Disorders",1
+"C0021845","intestinal perforation","C0017178","Gastrointestinal Disorders",1
+"C0024523","malabsorption","C0017178","Gastrointestinal Disorders",2
+"C0025160","megacolon","C0017178","Gastrointestinal Disorders",1
+"C0151971","intestinal ulcer","C0017178","Gastrointestinal Disorders",1
+"C1257843","Pseudomembranous colitis","C0017178","Gastrointestinal Disorders",1
+"C0006849","oral moniliasis","C0017178","Gastrointestinal Disorders",3
+"C0011334","dental caries","C0017178","Gastrointestinal Disorders",1
+"C0017574","gingivitis","C0017178","Gastrointestinal Disorders",1
+"C0017675","Glossitis","C0017178","Gastrointestinal Disorders",1
+"C0020569","salivary gland enlargement","C0017178","Gastrointestinal Disorders",1
+"C0023532","leukoplakia of mouth","C0017178","Gastrointestinal Disorders",1
+"C0031085","periodontal abscess","C0017178","Gastrointestinal Disorders",3
+"C0031099","periodontitis","C0017178","Gastrointestinal Disorders",1
+"C0037023","sialadenitis","C0017178","Gastrointestinal Disorders",1
+"C0037036","salivation","C0017178","Gastrointestinal Disorders",2
+"C0038362","stomatitis","C0017178","Gastrointestinal Disorders",1
+"C0038363","aphthous stomatitis","C0017178","Gastrointestinal Disorders",1
+"C0040435","Tooth Disorder","C0017178","Gastrointestinal Disorders",1
+"C0043352","dry mouth","C0017178","Gastrointestinal Disorders",2
+"C0149745","mouth ulcer","C0017178","Gastrointestinal Disorders",1
+"C0151790","nasal septum disorder","C0017178","Gastrointestinal Disorders",2
+"C0341047","parotid gland enlargement","C0017178","Gastrointestinal Disorders",1
+"C0030305","pancreatitis","C0017178","Gastrointestinal Disorders",1
+"C0151479","amylase increased","C0017178","Gastrointestinal Disorders",2
+"C0005695","Bladder Neoplasm","C0080276","Genitourinary Disorders",3
+"C0010692","cystitis","C0080276","Genitourinary Disorders",1
+"C0013428","dysuria","C0080276","Genitourinary Disorders",2
+"C0041976","urethritis","C0080276","Genitourinary Disorders",1
+"C0042024","Urinary Incontinence","C0080276","Genitourinary Disorders",1
+"C0080274","urinary retention","C0080276","Genitourinary Disorders",2
+"C0085606","urinary urgency","C0080276","Genitourinary Disorders",2
+"C0451641","urolithiasis","C0080276","Genitourinary Disorders",2
+"C0699885","bladder carcinoma","C0080276","Genitourinary Disorders",3
+"C0004690","balanitis","C0080276","Genitourinary Disorders",3
+"C0014534","epididymitis","C0080276","Genitourinary Disorders",1
+"C0029191","orchitis","C0080276","Genitourinary Disorders",2
+"C0011124","libido decreased","C0080276","Genitourinary Disorders",3
+"C0178415","prostatic specific antigen increase","C0080276","Genitourinary Disorders",1
+"C0600139","prostate cancer","C0080276","Genitourinary Disorders",3
+"C0007860","cervicitis","C0017411","Gynecologic Disorders",1
+"C0302592","cervical carcinoma","C0017411","Gynecologic Disorders",3
+"C0851140","Cervical intraepithelial neoplasia","C0017411","Gynecologic Disorders",3
+"C0036130","Salpingitis","C0017411","Gynecologic Disorders",1
+"C0002453","amenorrhea","C0017411","Gynecologic Disorders",2
+"C0013390","dysmenorrhea","C0017411","Gynecologic Disorders",1
+"C0020624","hypomenorrhea","C0017411","Gynecologic Disorders",1
+"C0025218","Melasma","C0017411","Gynecologic Disorders",4
+"C0029925","Ovarian cancer","C0017411","Gynecologic Disorders",4
+"C0042755","Masculinization","C0017411","Gynecologic Disorders",2
+"C0014173","Endometrial hyperplasia","C0017411","Gynecologic Disorders",1
+"C0476089","Endometrial cancer","C0017411","Gynecologic Disorders",3
+"C0006852","vaginal candidiasis","C0017411","Gynecologic Disorders",3
+"C0042267","vaginitis","C0017411","Gynecologic Disorders",1
+"C0042998","vulvovaginitis","C0017411","Gynecologic Disorders",1
+"C0032914","toxemia of pregnancy","C0017411","Gynecologic Disorders",2
+"C0032989","multiple pregnancies","C0017411","Gynecologic Disorders",1
+"C0595939","stillbirths","C0017411","Gynecologic Disorders",2
+"C0011124","libido decreased","C0017411","Gynecologic Disorders",3
+"C0013428","dysuria","C0017411","Gynecologic Disorders",2
+"C0085606","urinary urgency","C0017411","Gynecologic Disorders",2
+"C0016034","fibrocystic breast","C0017411","Gynecologic Disorders",1
+"C0020565","breast enlargement","C0017411","Gynecologic Disorders",2
+"C0024894","mastitis","C0017411","Gynecologic Disorders",1
+"C0151463","Breast abscess","C0017411","Gynecologic Disorders",2
+"C0678222","Breast cancer","C0017411","Gynecologic Disorders",3
+"C1458155","breast neoplasm","C0017411","Gynecologic Disorders",3
+"C0008924","cleft lip","C0549600","Maternal-Fetal Disorders",1
+"C0008925","cleft palate","C0549600","Maternal-Fetal Disorders",1
+"C0013274","patent ductus arteriosus","C0549600","Maternal-Fetal Disorders",2
+"C0013336","dwarfism","C0549600","Maternal-Fetal Disorders",2
+"C0018798","Cardiac Abnormality","C0549600","Maternal-Fetal Disorders",1
+"C0018817","atrial septal defect","C0549600","Maternal-Fetal Disorders",2
+"C0018818","ventricular septal defect","C0549600","Maternal-Fetal Disorders",1
+"C0025362","mental retardation","C0549600","Maternal-Fetal Disorders",1
+"C0034194","pyloric stenosis","C0549600","Maternal-Fetal Disorders",1
+"C0039685","tetralogy of Fallot","C0549600","Maternal-Fetal Disorders",1
+"C0042063","urogenital anomaly","C0549600","Maternal-Fetal Disorders",1
+"C0158570","vascular anomaly","C0549600","Maternal-Fetal Disorders",2
+"C0032914","toxemia of pregnancy","C0549600","Maternal-Fetal Disorders",2
+"C0595939","stillbirths","C0549600","Maternal-Fetal Disorders",2
+"C0022353","Neonatal jaundice","C0549600","Maternal-Fetal Disorders",2
+"C0020565","breast enlargement","C0549600","Maternal-Fetal Disorders",2
+"C0151463","Breast abscess","C0549600","Maternal-Fetal Disorders",2
+"C0020443","hypercholesterolemia","C0028715","Metabolic and Nutritional Disorders",2
+"C0020473","hyperlipemia","C0028715","Metabolic and Nutritional Disorders",2
+"C0023787","lipodystrophy","C0028715","Metabolic and Nutritional Disorders",2
+"C0151582","Urate Crystalluria","C0028715","Metabolic and Nutritional Disorders",3
+"C0740394","hyperuricemia","C0028715","Metabolic and Nutritional Disorders",2
+"C0011849","Diabetes Mellitus","C0028715","Metabolic and Nutritional Disorders",2
+"C0017979","glycosuria","C0028715","Metabolic and Nutritional Disorders",2
+"C0020456","hyperglycemia","C0028715","Metabolic and Nutritional Disorders",1
+"C0020615","hypoglycemia","C0028715","Metabolic and Nutritional Disorders",1
+"C0001925","albuminuria","C0028715","Metabolic and Nutritional Disorders",2
+"C0011175","dehydration","C0028715","Metabolic and Nutritional Disorders",1
+"C0013604","edema","C0028715","Metabolic and Nutritional Disorders",2
+"C0085649","Peripheral Edema","C0028715","Metabolic and Nutritional Disorders",2
+"C0020433","Bilirubinemia","C0028715","Metabolic and Nutritional Disorders",2
+"C0025209","melanosis","C0028715","Metabolic and Nutritional Disorders",2
+"C0025218","Melasma","C0028715","Metabolic and Nutritional Disorders",4
+"C0162835","hypopigmentation","C0028715","Metabolic and Nutritional Disorders",2
+"C0151479","amylase increased","C0028715","Metabolic and Nutritional Disorders",2
+"C0151754","LDH increased","C0028715","Metabolic and Nutritional Disorders",3
+"C0151849","alkaline phosphatase increased","C0028715","Metabolic and Nutritional Disorders",2
+"C0151904","aspartate aminotransferase increased","C0028715","Metabolic and Nutritional Disorders",2
+"C0013336","dwarfism","C0028715","Metabolic and Nutritional Disorders",2
+"C0006625","cachexia","C0028715","Metabolic and Nutritional Disorders",1
+"C0028754","obesity","C0028715","Metabolic and Nutritional Disorders",1
+"C0043094","weight gain","C0028715","Metabolic and Nutritional Disorders",1
+"C0043096","weight decreased","C0028715","Metabolic and Nutritional Disorders",1
+"C0011880","diabetic acidosis","C0025517","Metabolic Disorders",2
+"C0002064","respiratory alkalosis","C0025517","Metabolic Disorders",2
+"C0151582","Urate Crystalluria","C0025517","Metabolic Disorders",3
+"C0740394","hyperuricemia","C0025517","Metabolic Disorders",2
+"C0024523","malabsorption","C0025517","Metabolic Disorders",2
+"C0011848","diabetes insipidus","C0025517","Metabolic Disorders",1
+"C0020437","hypercalcemia","C0025517","Metabolic Disorders",2
+"C0020438","hypercalcinuria","C0025517","Metabolic Disorders",2
+"C0020598","Hypocalcemia","C0025517","Metabolic Disorders",1
+"C0027709","nephrocalcinosis","C0025517","Metabolic Disorders",2
+"C0029442","osteomalacia","C0025517","Metabolic Disorders",1
+"C0029456","osteoporosis","C0025517","Metabolic Disorders",1
+"C0039621","tetany","C0025517","Metabolic Disorders",2
+"C0085681","hyperphosphatemia","C0025517","Metabolic Disorders",1
+"C0085682","hypophosphatemia","C0025517","Metabolic Disorders",2
+"C0020443","hypercholesterolemia","C0025517","Metabolic Disorders",2
+"C0020473","hyperlipemia","C0025517","Metabolic Disorders",2
+"C0023787","lipodystrophy","C0025517","Metabolic Disorders",2
+"C0020461","Hyperkalemia","C0025517","Metabolic Disorders",1
+"C0020621","hypokalemia","C0025517","Metabolic Disorders",1
+"C0008449","chondrodystrophy","C0026860","Musculo-skeletal System",1
+"C0003862","arthralgia","C0026860","Musculo-skeletal System",2
+"C0003864","arthritis","C0026860","Musculo-skeletal System",2
+"C0003873","rheumatoid arthritis","C0026860","Musculo-skeletal System",2
+"C0039103","synovitis","C0026860","Musculo-skeletal System",1
+"C0005745","eyelid ptosis","C0026860","Musculo-skeletal System",3
+"C0023218","Leg cramps","C0026860","Musculo-skeletal System",2
+"C0026846","muscle atrophy","C0026860","Musculo-skeletal System",2
+"C0027121","myositis","C0026860","Musculo-skeletal System",2
+"C0035410","rhabdomyolysis","C0026860","Musculo-skeletal System",2
+"C0038379","Strabismus","C0026860","Musculo-skeletal System",2
+"C0039621","tetany","C0026860","Musculo-skeletal System",2
+"C0231528","myalgia","C0026860","Musculo-skeletal System",2
+"C0039520","Tenosynovitis","C0026860","Musculo-skeletal System",1
+"C0006444","bursitis","C0026860","Musculo-skeletal System",1
+"C0018378","Guillain Barre syndrome","C0027763","Nervous System",1
+"C0027796","Neuralgia","C0027763","Nervous System",1
+"C0027813","Neuritis","C0027763","Nervous System",1
+"C0030554","Paresthesia","C0027763","Nervous System",1
+"C0032541","polyneuritis","C0027763","Nervous System",1
+"C0011124","libido decreased","C0027763","Nervous System",3
+"C0020453","hyperesthesia","C0027763","Nervous System",1
+"C0023218","Leg cramps","C0027763","Nervous System",2
+"C0026769","multiple sclerosis","C0027763","Nervous System",1
+"C0442874","neuropathy","C0027763","Nervous System",1
+"C0522224","paralysis","C0027763","Nervous System",1
+"C0575081","Abnormal Gait","C0027763","Nervous System",1
+"C0034372","quadriplegia","C0027763","Nervous System",1
+"C0037928","myelopathy","C0027763","Nervous System",1
+"C0009763","conjunctivitis","C0015397","Ophthalmic Disorders",1
+"C0022573","keratoconjunctivitis","C0015397","Ophthalmic Disorders",1
+"C0010038","corneal opacity","C0015397","Ophthalmic Disorders",1
+"C0010043","corneal ulceration","C0015397","Ophthalmic Disorders",1
+"C0022568","keratitis","C0015397","Ophthalmic Disorders",1
+"C0086543","cataract","C0015397","Ophthalmic Disorders",1
+"C0002418","amblyopia","C0015397","Ophthalmic Disorders",1
+"C0029124","optic atrophy","C0015397","Ophthalmic Disorders",1
+"C0029134","OPTIC NEURITIS","C0015397","Ophthalmic Disorders",1
+"C0030353","papilledema","C0015397","Ophthalmic Disorders",1
+"C0036454","visual field defect","C0015397","Ophthalmic Disorders",1
+"C0456909","vision loss","C0015397","Ophthalmic Disorders",1
+"C0008513","chorioretinitis","C0015397","Ophthalmic Disorders",1
+"C0028077","night blindness","C0015397","Ophthalmic Disorders",1
+"C0035304","retinal degeneration","C0015397","Ophthalmic Disorders",1
+"C0035305","retinal detachment","C0015397","Ophthalmic Disorders",1
+"C0035333","retinitis","C0015397","Ophthalmic Disorders",1
+"C0242225","color blindness","C0015397","Ophthalmic Disorders",1
+"C0036416","scleritis","C0015397","Ophthalmic Disorders",1
+"C0003079","Anisocoria","C0015397","Ophthalmic Disorders",2
+"C0022081","iritis","C0015397","Ophthalmic Disorders",1
+"C0042164","uveitis","C0015397","Ophthalmic Disorders",1
+"C0015300","exophthalmos","C0015397","Ophthalmic Disorders",1
+"C0022904","lacrimation disorder","C0015397","Ophthalmic Disorders",1
+"C0035302","Retinal artery occlusion","C0015397","Ophthalmic Disorders",2
+"C0151827","eye pain","C0015397","Ophthalmic Disorders",1
+"C0314719","dry eyes","C0015397","Ophthalmic Disorders",1
+"C1527411","retinal vein thrombosis","C0015397","Ophthalmic Disorders",2
+"C0005741","blepharitis","C0015397","Ophthalmic Disorders",1
+"C0038379","Strabismus","C0015397","Ophthalmic Disorders",2
+"C0012569","Diplopia","C0015397","Ophthalmic Disorders",1
+"C0034951","refraction disorder","C0015397","Ophthalmic Disorders",1
+"C0042798","Abnormal vision","C0015397","Ophthalmic Disorders",1
+"C0085636","photophobia","C0015397","Ophthalmic Disorders",1
+"C0017601","glaucoma","C0015397","Ophthalmic Disorders",1
+"C0029089","ophthalmoplegia","C0015397","Ophthalmic Disorders",1
+"C0005745","eyelid ptosis","C0015397","Ophthalmic Disorders",3
+"C0005695","Bladder Neoplasm","C0030660","Pathological Disorders",3
+"C0005967","bone neoplasm","C0030660","Pathological Disorders",2
+"C0007097","carcinoma","C0030660","Pathological Disorders",2
+"C0019204","hepatoma","C0030660","Pathological Disorders",3
+"C0023055","laryngeal neoplasia","C0030660","Pathological Disorders",3
+"C0023418","leukemia","C0030660","Pathological Disorders",2
+"C0023449","acute lymphoblastic leukemia","C0030660","Pathological Disorders",2
+"C0023467","AML","C0030660","Pathological Disorders",2
+"C0023473","chronic myelogenous leukemia","C0030660","Pathological Disorders",2
+"C0023903","hepatic neoplasia","C0030660","Pathological Disorders",3
+"C0026640","oral neoplasm","C0030660","Pathological Disorders",2
+"C0026764","Multiple Myeloma","C0030660","Pathological Disorders",2
+"C0027651","tumors","C0030660","Pathological Disorders",2
+"C0029925","Ovarian cancer","C0030660","Pathological Disorders",4
+"C0033578","neoplasm prostate","C0030660","Pathological Disorders",2
+"C0040136","thyroid neoplasm","C0030660","Pathological Disorders",3
+"C0085669","acute leukemia","C0030660","Pathological Disorders",2
+"C0151546","carcinoma of mouth","C0030660","Pathological Disorders",2
+"C0302592","cervical carcinoma","C0030660","Pathological Disorders",3
+"C0476089","Endometrial cancer","C0030660","Pathological Disorders",3
+"C0549473","thyroid cancer","C0030660","Pathological Disorders",3
+"C0600139","prostate cancer","C0030660","Pathological Disorders",3
+"C0678222","Breast cancer","C0030660","Pathological Disorders",3
+"C0699885","bladder carcinoma","C0030660","Pathological Disorders",3
+"C0699893","Skin Carcinoma","C0030660","Pathological Disorders",3
+"C0851140","Cervical intraepithelial neoplasia","C0030660","Pathological Disorders",3
+"C1261473","sarcoma","C0030660","Pathological Disorders",2
+"C1279296","chronic leukemia","C0030660","Pathological Disorders",2
+"C1458155","breast neoplasm","C0030660","Pathological Disorders",3
+"C0040034","thrombocytopenia","C0030660","Pathological Disorders",1
+"C0008313","sclerosing cholangitis","C0030660","Pathological Disorders",2
+"C0035357","Retroperitoneal fibrosis","C0030660","Pathological Disorders",1
+"C0010414","cryptococcosis","C0030660","Pathological Disorders",2
+"C0036202","sarcoidosis","C0030660","Pathological Disorders",1
+"C0002994","angioedema","C0030660","Pathological Disorders",2
+"C0004096","asthma","C0030660","Pathological Disorders",3
+"C0014457","eosinophilia","C0030660","Pathological Disorders",1
+"C0033774","itching","C0030660","Pathological Disorders",2
+"C0035455","Rhinitis","C0030660","Pathological Disorders",2
+"C0036830","serum sickness","C0030660","Pathological Disorders",1
+"C0037199","Sinusitis","C0030660","Pathological Disorders",2
+"C0038325","Stevens - Johnson syndrome","C0030660","Pathological Disorders",2
+"C0038450","stridor","C0030660","Pathological Disorders",2
+"C0042109","urticaria","C0030660","Pathological Disorders",2
+"C0000833","abscess","C0030660","Pathological Disorders",2
+"C0001175","Human Immunodeficiency Virus","C0030660","Pathological Disorders",2
+"C0004623","Infection bacterial","C0030660","Pathological Disorders",2
+"C0004690","balanitis","C0030660","Pathological Disorders",3
+"C0006840","moniliasis","C0030660","Pathological Disorders",2
+"C0006846","cutaneous candidiasis","C0030660","Pathological Disorders",3
+"C0006849","oral moniliasis","C0030660","Pathological Disorders",3
+"C0006852","vaginal candidiasis","C0030660","Pathological Disorders",3
+"C0007642","cellulitis","C0030660","Pathological Disorders",3
+"C0014038","encephalitis","C0030660","Pathological Disorders",2
+"C0019348","herpes simplex","C0030660","Pathological Disorders",3
+"C0019360","herpes zoster","C0030660","Pathological Disorders",3
+"C0019699","HIV positive","C0030660","Pathological Disorders",2
+"C0025289","meningitis","C0030660","Pathological Disorders",2
+"C0029878","otitis externa","C0030660","Pathological Disorders",2
+"C0029882","otitis media","C0030660","Pathological Disorders",2
+"C0031085","periodontal abscess","C0030660","Pathological Disorders",3
+"C0042029","urinary tract infection","C0030660","Pathological Disorders",2
+"C0042769","viral infection","C0030660","Pathological Disorders",2
+"C0085593","chills","C0030660","Pathological Disorders",2
+"C0151465","renal abscess","C0030660","Pathological Disorders",3
+"C0243026","sepsis","C0030660","Pathological Disorders",2
+"C0031542","Phlebitis","C0030660","Pathological Disorders",1
+"C0034065","pulmonary embolism","C0030660","Pathological Disorders",3
+"C0040046","Thrombophlebitis","C0030660","Pathological Disorders",1
+"C0149871","deep venous thrombosis","C0030660","Pathological Disorders",1
+"C1527411","retinal vein thrombosis","C0030660","Pathological Disorders",2
+"C0001430","adenomas","C0030660","Pathological Disorders",1
+"C0004998","skin benign neoplasm","C0030660","Pathological Disorders",2
+"C0010709","cyst","C0030660","Pathological Disorders",1
+"C0151468","thyroid adenoma","C0030660","Pathological Disorders",2
+"C0007780","embolism Cerebral","C0030660","Pathological Disorders",1
+"C0007785","cerebral infarct","C0030660","Pathological Disorders",1
+"C0035302","Retinal artery occlusion","C0030660","Pathological Disorders",2
+"C0038454","cerebrovascular accident","C0030660","Pathological Disorders",2
+"C0079102","Cerebral thrombosis","C0030660","Pathological Disorders",1
+"C0003860","arteritis","C0030660","Pathological Disorders",2
+"C0003862","arthralgia","C0030660","Pathological Disorders",2
+"C0003864","arthritis","C0030660","Pathological Disorders",2
+"C0003873","rheumatoid arthritis","C0030660","Pathological Disorders",2
+"C0009326","Collagen disease","C0030660","Pathological Disorders",1
+"C0011633","dermatomyositis","C0030660","Pathological Disorders",1
+"C0024138","Discoid lupus erythematosis","C0030660","Pathological Disorders",2
+"C0024141","systemic lupus erythematosus","C0030660","Pathological Disorders",1
+"C0031036","periarteritis nodosa","C0030660","Pathological Disorders",1
+"C0042384","vasculitis","C0030660","Pathological Disorders",1
+"C0151480","positive ANA","C0030660","Pathological Disorders",1
+"C0438215","Lab Test Abnormality","C0030660","Pathological Disorders",1
+"C0026846","muscle atrophy","C0030660","Pathological Disorders",2
+"C0027121","myositis","C0030660","Pathological Disorders",2
+"C0035410","rhabdomyolysis","C0030660","Pathological Disorders",2
+"C0231528","myalgia","C0030660","Pathological Disorders",2
+"C0003578","Apnea","C0030660","Pathological Disorders",3
+"C0018790","Cardiac arrest","C0030660","Pathological Disorders",2
+"C0042510","ventricular fibrillation","C0030660","Pathological Disorders",2
+"C0000833","abscess","C0024115","Pulmonary Disorders",2
+"C0001175","Human Immunodeficiency Virus","C0024115","Pulmonary Disorders",2
+"C0004623","Infection bacterial","C0024115","Pulmonary Disorders",2
+"C0004690","balanitis","C0024115","Pulmonary Disorders",3
+"C0006840","moniliasis","C0024115","Pulmonary Disorders",2
+"C0006846","cutaneous candidiasis","C0024115","Pulmonary Disorders",3
+"C0006849","oral moniliasis","C0024115","Pulmonary Disorders",3
+"C0006852","vaginal candidiasis","C0024115","Pulmonary Disorders",3
+"C0007642","cellulitis","C0024115","Pulmonary Disorders",3
+"C0010414","cryptococcosis","C0024115","Pulmonary Disorders",2
+"C0014038","encephalitis","C0024115","Pulmonary Disorders",2
+"C0019348","herpes simplex","C0024115","Pulmonary Disorders",3
+"C0019360","herpes zoster","C0024115","Pulmonary Disorders",3
+"C0019699","HIV positive","C0024115","Pulmonary Disorders",2
+"C0025289","meningitis","C0024115","Pulmonary Disorders",2
+"C0029878","otitis externa","C0024115","Pulmonary Disorders",2
+"C0029882","otitis media","C0024115","Pulmonary Disorders",2
+"C0031085","periodontal abscess","C0024115","Pulmonary Disorders",3
+"C0042029","urinary tract infection","C0024115","Pulmonary Disorders",2
+"C0042769","viral infection","C0024115","Pulmonary Disorders",2
+"C0085593","chills","C0024115","Pulmonary Disorders",2
+"C0151465","renal abscess","C0024115","Pulmonary Disorders",3
+"C0243026","sepsis","C0024115","Pulmonary Disorders",2
+"C0032227","Pleural Effusion","C0024115","Pulmonary Disorders",3
+"C0032326","pneumothorax","C0024115","Pulmonary Disorders",2
+"C0018802","congestive heart failure","C0024115","Pulmonary Disorders",2
+"C0034065","pulmonary embolism","C0024115","Pulmonary Disorders",3
+"C0034072","Cor pulmonale","C0024115","Pulmonary Disorders",3
+"C0002064","respiratory alkalosis","C0024115","Pulmonary Disorders",2
+"C0003578","Apnea","C0024115","Pulmonary Disorders",3
+"C0013404","Dyspnea","C0024115","Pulmonary Disorders",3
+"C0023067","laryngitis","C0024115","Pulmonary Disorders",2
+"C0031350","Pharyngitis","C0024115","Pulmonary Disorders",2
+"C0398353","Hypoventilation","C0024115","Pulmonary Disorders",2
+"C0004096","asthma","C0024115","Pulmonary Disorders",3
+"C0001925","albuminuria","C0022658","Renal Disorders",2
+"C0022660","Acute renal failure","C0022658","Renal Disorders",1
+"C0035078","renal failure","C0022658","Renal Disorders",1
+"C0041948","uremia","C0022658","Renal Disorders",1
+"C0017979","glycosuria","C0022658","Renal Disorders",2
+"C0020438","hypercalcinuria","C0022658","Renal Disorders",2
+"C0151582","Urate Crystalluria","C0022658","Renal Disorders",3
+"C0451641","urolithiasis","C0022658","Renal Disorders",2
+"C0027719","nephrosclerosis","C0022658","Renal Disorders",1
+"C0022650","kidney calculus","C0022658","Renal Disorders",1
+"C0027709","nephrocalcinosis","C0022658","Renal Disorders",2
+"C0558489","renal pain","C0022658","Renal Disorders",1
+"C0151465","renal abscess","C0022658","Renal Disorders",3
+"C0028734","nocturia","C0022658","Renal Disorders",1
+"C0023055","laryngeal neoplasia","C0035237","Respiratory System",3
+"C0023067","laryngitis","C0035237","Respiratory System",2
+"C0038450","stridor","C0035237","Respiratory System",2
+"C0042928","vocal cord paralysis","C0035237","Respiratory System",1
+"C0031350","Pharyngitis","C0035237","Respiratory System",2
+"C0035455","Rhinitis","C0035237","Respiratory System",2
+"C0151790","nasal septum disorder","C0035237","Respiratory System",2
+"C0037199","Sinusitis","C0035237","Respiratory System",2
+"C0032227","Pleural Effusion","C0035237","Respiratory System",3
+"C0032326","pneumothorax","C0035237","Respiratory System",2
+"C0019521","hiccups","C0035237","Respiratory System",2
+"C0003578","Apnea","C0035237","Respiratory System",3
+"C0013404","Dyspnea","C0035237","Respiratory System",3
+"C0034065","pulmonary embolism","C0035237","Respiratory System",3
+"C0034072","Cor pulmonale","C0035237","Respiratory System",3
+"C0398353","Hypoventilation","C0035237","Respiratory System",2
+"C0004096","asthma","C0035237","Respiratory System",3
+"C0005695","Bladder Neoplasm","C0549602","Reticuloendthelial Disorders",3
+"C0005967","bone neoplasm","C0549602","Reticuloendthelial Disorders",2
+"C0007097","carcinoma","C0549602","Reticuloendthelial Disorders",2
+"C0019204","hepatoma","C0549602","Reticuloendthelial Disorders",3
+"C0023055","laryngeal neoplasia","C0549602","Reticuloendthelial Disorders",3
+"C0023418","leukemia","C0549602","Reticuloendthelial Disorders",2
+"C0023449","acute lymphoblastic leukemia","C0549602","Reticuloendthelial Disorders",2
+"C0023467","AML","C0549602","Reticuloendthelial Disorders",2
+"C0023473","chronic myelogenous leukemia","C0549602","Reticuloendthelial Disorders",2
+"C0023903","hepatic neoplasia","C0549602","Reticuloendthelial Disorders",3
+"C0026640","oral neoplasm","C0549602","Reticuloendthelial Disorders",2
+"C0026764","Multiple Myeloma","C0549602","Reticuloendthelial Disorders",2
+"C0027651","tumors","C0549602","Reticuloendthelial Disorders",2
+"C0029925","Ovarian cancer","C0549602","Reticuloendthelial Disorders",4
+"C0033578","neoplasm prostate","C0549602","Reticuloendthelial Disorders",2
+"C0040136","thyroid neoplasm","C0549602","Reticuloendthelial Disorders",3
+"C0085669","acute leukemia","C0549602","Reticuloendthelial Disorders",2
+"C0151546","carcinoma of mouth","C0549602","Reticuloendthelial Disorders",2
+"C0302592","cervical carcinoma","C0549602","Reticuloendthelial Disorders",3
+"C0476089","Endometrial cancer","C0549602","Reticuloendthelial Disorders",3
+"C0549473","thyroid cancer","C0549602","Reticuloendthelial Disorders",3
+"C0600139","prostate cancer","C0549602","Reticuloendthelial Disorders",3
+"C0678222","Breast cancer","C0549602","Reticuloendthelial Disorders",3
+"C0699885","bladder carcinoma","C0549602","Reticuloendthelial Disorders",3
+"C0699893","Skin Carcinoma","C0549602","Reticuloendthelial Disorders",3
+"C0851140","Cervical intraepithelial neoplasia","C0549602","Reticuloendthelial Disorders",3
+"C1261473","sarcoma","C0549602","Reticuloendthelial Disorders",2
+"C1279296","chronic leukemia","C0549602","Reticuloendthelial Disorders",2
+"C1458155","breast neoplasm","C0549602","Reticuloendthelial Disorders",3
+"C0024138","Discoid lupus erythematosis","C0037274","Skin and Appendages",2
+"C0042109","urticaria","C0037274","Skin and Appendages",2
+"C0006846","cutaneous candidiasis","C0037274","Skin and Appendages",3
+"C0011630","fungal dermatitis","C0037274","Skin and Appendages",1
+"C0004998","skin benign neoplasm","C0037274","Skin and Appendages",2
+"C0037287","skin nodule","C0037274","Skin and Appendages",1
+"C0699893","Skin Carcinoma","C0037274","Skin and Appendages",3
+"C0011606","exfoliative dermatitis","C0037274","Skin and Appendages",1
+"C0014742","erythema multiforme","C0037274","Skin and Appendages",1
+"C0014743","Erythema nodosum","C0037274","Skin and Appendages",1
+"C0038325","Stevens - Johnson syndrome","C0037274","Skin and Appendages",2
+"C0152459","Skin Striae","C0037274","Skin and Appendages",1
+"C0020757","ichthyosis","C0037274","Skin and Appendages",1
+"C0033860","psoriasis","C0037274","Skin and Appendages",1
+"C0002170","alopecia","C0037274","Skin and Appendages",1
+"C0018500","Hair disorder","C0037274","Skin and Appendages",1
+"C0027339","Nail disorder","C0037274","Skin and Appendages",1
+"C0151908","dry skin","C0037274","Skin and Appendages",1
+"C0002994","angioedema","C0037274","Skin and Appendages",2
+"C0011616","contact dermatitis","C0037274","Skin and Appendages",1
+"C0013595","eczema","C0037274","Skin and Appendages",1
+"C0037299","skin ulcer","C0037274","Skin and Appendages",1
+"C0019348","herpes simplex","C0037274","Skin and Appendages",3
+"C0019360","herpes zoster","C0037274","Skin and Appendages",3
+"C0702166","Acne","C0037274","Skin and Appendages",1
+"C0036508","seborrhea","C0037274","Skin and Appendages",1
+"C0033774","itching","C0037274","Skin and Appendages",2
+"C0025209","melanosis","C0037274","Skin and Appendages",2
+"C0162835","hypopigmentation","C0037274","Skin and Appendages",2
+"C0007642","cellulitis","C0037274","Skin and Appendages",3
+"C0016867","furunculosis","C0037274","Skin and Appendages",1
+"C0026113","miliaria","C0037274","Skin and Appendages",1
+"C0025218","Melasma","C0037274","Skin and Appendages",4
+"C0018995","hemochromatosis","C0028715","Metabolic and Nutritional Disorders",1
+"C0162316","Iron deficiency anemia","C0028715","Metabolic and Nutritional Disorders",1
+"C0029443","osteomyelitis","C0026860","Musculo-skeletal System",1
+"C0029445","bone necrosis","C0026860","Musculo-skeletal System",1
+"C0151825","bone pain","C0026860","Musculo-skeletal System",1
+"C0015469","facial paralysis","C0027763","Nervous System",1
+"C0002622","Amnesia","C0027763","Nervous System",1
+"C0003467","Anxiety","C0027763","Nervous System",1
+"C0003537","aphasia","C0027763","Nervous System",1
+"C0004134","Ataxia","C0027763","Nervous System",1
+"C0005586","bipolar disorder","C0027763","Nervous System",1
+"C0007758","cerebellar ataxia","C0027763","Nervous System",1
+"C0009421","coma","C0027763","Nervous System",1
+"C0009676","confusion","C0027763","Nervous System",1
+"C0009951","convulsions","C0027763","Nervous System",1
+"C0011206","Delirium","C0027763","Nervous System",1
+"C0011570","Mental depression","C0027763","Nervous System",1
+"C0012833","dizziness","C0027763","Nervous System",1
+"C0013144","somnolence","C0027763","Nervous System",1
+"C0013362","dysarthria","C0027763","Nervous System",1
+"C0013384","abnormal movements","C0027763","Nervous System",1
+"C0014549","grand mal convulsion","C0027763","Nervous System",1
+"C0018524","Hallucination","C0027763","Nervous System",1
+"C0018991","hemiplegia","C0027763","Nervous System",1
+"C0026650","movement disorder","C0027763","Nervous System",1
+"C0027769","Nervousness","C0027763","Nervous System",1
+"C0027932","Neurosis","C0027763","Nervous System",1
+"C0031212","Personality disorder","C0027763","Nervous System",1
+"C0033975","psychosis","C0027763","Nervous System",1
+"C0040485","torticollis","C0027763","Nervous System",1
+"C0040822","tremor","C0027763","Nervous System",1
+"C0042571","Vertigo","C0027763","Nervous System",1
+"C0042594","Vestibular Disorders","C0027763","Nervous System",1
+"C0085583","choreoathetosis","C0027763","Nervous System",1
+"C0085584","encephalopathy","C0027763","Nervous System",1
+"C0085631","Agitation","C0027763","Nervous System",1
+"C0151611","EEG abnormal","C0027763","Nervous System",1
+"C0497327","amentia","C0027763","Nervous System",1
+"C0686347","tardive dyskinesia","C0027763","Nervous System",1
+"C0851578","sleep disorder","C0027763","Nervous System",1
+"C0917798","cerebral ischemia","C0027763","Nervous System",1
+"C0917801","insomnia","C0027763","Nervous System",1
+"C1510472","drug dependence","C0027763","Nervous System",1
+"C0026975","myelitis","C0027763","Nervous System",1
+"C0030486","paraplegia","C0027763","Nervous System",1
+"C0003708","Arachnoiditis","C0027763","Nervous System",1
+"C0025287","meningism","C0027763","Nervous System",1
+"C0019572","hirsutism","C0037274","Skin and Appendages",1
+"C0042376","vascular headache","C0007222","Cardiovascular Disorders",1
+"C0149931","migraine","C0007222","Cardiovascular Disorders",1
+"C0020672","hypothermia","C0014136","Endocrine Disorders",1
+"C0038663","suicide attempt","C0027763","Nervous System",1
+"C0015695","liver fatty","LIVER","Liver Disorders",NULL
+"C0015696","fatty liver alcoholic","LIVER","Liver Disorders",NULL
+"C0019204","carcinoma of liver","LIVER","Liver Disorders",NULL
+"C0019209","enlarged liver","LIVER","Liver Disorders",NULL
+"C0023885","liver abscess","LIVER","Liver Disorders",NULL
+"C0023890","cirrhosis of liver","LIVER","Liver Disorders",NULL
+"C0023895","disease of liver","LIVER","Liver Disorders",NULL
+"C0023896","alcoholic liver disease","LIVER","Liver Disorders",NULL
+"C0023903","liver tumor","LIVER","Liver Disorders",NULL
+"C0085605","liver failure","LIVER","Liver Disorders",NULL
+"C0151766","abnormal liver function tests","LIVER","Liver Disorders",NULL
+"C0151767","liver tenderness","LIVER","Liver Disorders",NULL
+"C0151798","liver necrosis","LIVER","Liver Disorders",NULL
+"C0158683","congenital cystic disease of liver","LIVER","Liver Disorders",NULL
+"C0160390","liver injury","LIVER","Liver Disorders",NULL
+"C0238246","haemangioma of liver","LIVER","Liver Disorders",NULL
+"C0262465","elevated liver enzymes","LIVER","Liver Disorders",NULL
+"C0438235","liver function test","LIVER","Liver Disorders",NULL
+"C0476419","liver scan abnormal","LIVER","Liver Disorders",NULL
+"C0740307","biopsy liver abnormal","LIVER","Liver Disorders",NULL
+"C0740315","ultrasound liver abnormal","LIVER","Liver Disorders",NULL
+"C0744822","liver sarcoidosis","LIVER","Liver Disorders",NULL
+"C0860210","granulomatous liver disease","LIVER","Liver Disorders",NULL
+"C0877359","elevated liver function tests","LIVER","Liver Disorders",NULL
+"C0948430","liver induration","LIVER","Liver Disorders",NULL
+"C1455728","acute fatty liver of pregnancy","LIVER","Liver Disorders",NULL
+"C1735647","mixed liver injury","LIVER","Liver Disorders",NULL
+"C2242582","cholestatic liver injury","LIVER","Liver Disorders",NULL

@@ -1,0 +1,97 @@
+<html>
+<head>
+  <title>About</title>
+  <meta charset='utf-8' />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js'></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src='/d3-adjacency-matrix-layout.js' type='text/JavaScript'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.10.3/babel.min.js'></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand">Bioinformatics D3 Visualizations</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Force-Directed Graph <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/fd">2000 points</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/fd-1500">1500 points</a></li>
+            <li><a href="/fd-5000">5000 points</a></li>
+            <li><a href="/fd-10000">10000 points</a></li>
+          </ul>
+        </li>
+        <li><a href="/matrix">Adjacency Matrix</a></li>
+      </ul>
+      
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/about">About</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+
+<body>
+
+<h1 id="bioinformaticsd3visualizations">Bioinformatics D3 Visualizations</h1>
+
+<h1 id="background">Background</h1>
+
+<p>Data-Driven Prediction of Drug Effects and Interactions (by Prof Tatonetti et al)
+<a href = "http://stm.sciencemag.org/content/4/125/125ra31">http://stm.sciencemag.org/content/4/125/125ra31</a></p>
+
+<p>We also present a comprehensive database of drug effects (OFFSIDES) and a database of drug-drug interaction side effects (TWOSIDES). To demonstrate the biological use of these new resources, we used them to identify drug targets, predict drug indications, and discover drug class interactions. We then corroborated 47 (P &lt; 0.0001) of the drug class interactions using an independent analysis of electronic medical records. Our analysis suggests that combined treatment with selective serotonin reuptake inhibitors and thiazides is associated with significantly increased incidence of prolonged QT intervals. </p>
+
+<p>We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.</p>
+
+<h1 id="graphs">Graphs</h1>
+
+<h2 id="forcedirected">Force-Directed</h2>
+
+<p>This is a graph of nodes that links drugs and reactions.  Multiple drugs can share similar reactions, graphically showing intersection relationships among drug reactions.</p>
+
+<h3 id="dataset">Data-set</h3>
+
+<p>This graph uses the off-sides dataset.  We have four different views based on the number of data points we started with.  After our filtering and sanitization, the amount of good data points are significantly fewer than what we started with.  We used datasets that originally had 1,500, 2,000, 5,000, and 10,000 points.</p>
+
+<h2 id="adjacencymatrix">Adjacency-Matrix</h2>
+
+<p>This graph uses the two-sides dataset.  This graph shows drug-drug-effect relationships, where the rows and columns are both organized by ATC values.  </p>
+
+<h1 id="datasources">Data Sources</h1>
+
+<h2 id="offsides">Offsides</h2>
+
+<p>Drug side effects were mined from publicly available data. Offsides is a database of drug side-effects that were found, but are not listed on the official FDA label.
+Links drugs to adverse reactions</p>
+
+<h2 id="twosides">Twosides</h2>
+
+<p>Drug interactions were mined from publicly available sources. Twosides is the only comprehensive database drug-drug-effect relationships.</p>
+
+<h2 id="downloadlink">Download link</h2>
+
+<a href = "http://tatonettilab.org/resources.html">http://tatonettilab.org/resources.html</a>
+
+
+</body>

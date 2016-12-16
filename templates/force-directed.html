@@ -47,6 +47,15 @@ d3.json("final-2000.json", function(error, graph) {
         .enter().append("g")
         .classed('gnode', true);
 
+    var tooltip = d3.select("body")
+    .append("div")
+    .style("position", "absolute")
+    .style("z-index", "10")
+    .style("visibility", "hidden")
+    .text("a simple tooltip");
+    
+
+
     var node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("circle")

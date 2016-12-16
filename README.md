@@ -9,7 +9,7 @@ We also present a comprehensive database of drug effects (OFFSIDES) and a databa
 We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.
 
 # Running Server
-binf-visualizations.herokuapp.com/
+https://binf-visualizations.herokuapp.com/
 
 # Graphs
 

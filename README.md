@@ -8,6 +8,8 @@ We also present a comprehensive database of drug effects (OFFSIDES) and a databa
 
 We conclude that confounding effects from covariates in observational clinical data can be controlled in data analyses and thus improve the detection and prediction of adverse drug effects and interactions.
 
+# Running Server
+binf-visualizations.herokuapp.com/
 
 # Graphs
 
@@ -29,8 +31,5 @@ Links drugs to adverse reactions
 ## Twosides
 Drug interactions were mined from publicly available sources. Twosides is the only comprehensive database drug-drug-effect relationships.
 
-## Download link
+# Download link
 http://tatonettilab.org/resources.html
-
-## Running Server
-binf-visualizations.herokuapp.com/

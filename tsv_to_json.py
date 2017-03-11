@@ -1,5 +1,9 @@
 import csv
 import json
+import time
+
+start = time.time()
+start_process = time.clock()
 
 nodes = []
 drug_list = []
@@ -10,7 +14,7 @@ links = []
 
 group_number = 1
 # num_lines = 0
-with open("twosides_every20_first50000.tsv") as tsv:
+with open("twosides_every20.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		# num_lines += 1
@@ -27,7 +31,7 @@ with open("twosides_every20_first50000.tsv") as tsv:
 			nodes.append(drug_dict)
 			group_number += 1
 
-with open("twosides_every20_first50000.tsv") as tsv:
+with open("twosides_every20.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		drug1 = line[2]
@@ -47,8 +51,12 @@ with open("twosides_every20_first50000.tsv") as tsv:
 
 data = {"nodes": nodes, "links": links}
 
-with open('templates/drugs_effects_twosides_first50000.json', 'w') as outfile:
+with open('templates/drugs_effects_twosides_every20.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, separators=(',', ': '))
 
 
+end = time.time()
+end_process = time.clock() 
+print "time: " + str(end - start)
+print "process time: " + str(end_process - start_process)
 

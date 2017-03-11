@@ -1,6 +1,11 @@
 import csv
 import json
 
+import time
+
+start = time.time()
+start_process = time.clock()
+
 nodes = []
 drug_list = []
 pair_dict = {}
@@ -20,7 +25,7 @@ group_number = 1
 # 			umls_dict[umls_id] = group_number
 # 			group_number += 1
 
-with open("offsides_first2000.tsv") as tsv:
+with open("offsides.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		drug = line[1]
@@ -49,7 +54,7 @@ with open("offsides_first2000.tsv") as tsv:
 		nodes.append(effect_dict)
 
 
-with open("offsides_first2000.tsv") as tsv:
+with open("offsides.tsv") as tsv:
 	next(tsv)
 	for line in csv.reader(tsv, dialect="excel-tab"):
 		drug = line[1]
@@ -69,8 +74,13 @@ with open("offsides_first2000.tsv") as tsv:
 
 data = {"nodes": nodes, "links": links}
 
-with open('templates/offsides_first2000.json', 'w') as outfile:
+with open('templates/offsides_every20.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, separators=(',', ': '))
 
 
+
+end = time.time()
+end_process = time.clock() 
+print "time: " + str(end - start)
+print "process time: " + str(end_process - start_process)
 
